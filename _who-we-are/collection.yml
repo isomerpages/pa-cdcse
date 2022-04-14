@@ -2,4 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
+      - Mayor Message.md
       - Introduction.md
