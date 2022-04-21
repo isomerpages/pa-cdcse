@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Resilience/.keep
       - Future Ready/.keep
       - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
       - Future Ready/Future Ready.md
