@@ -2,9 +2,9 @@ collections:
   what-we-do:
     output: true
     order:
-      - Care/Community Laboratory @ South East.md
-      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
-      - Care/3M Moves @ South East.md
-      - Care/Care.md
       - Care/.keep
+      - Care/Care.md
+      - Care/3M Moves @ South East.md
+      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
+      - Care/Community Laboratory @ South East.md
       - Overview.md
