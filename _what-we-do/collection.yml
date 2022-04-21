@@ -2,9 +2,12 @@ collections:
   what-we-do:
     output: true
     order:
-      - Resilience/.keep
-      - Resilience/Racial Harmony Youth Ambassador Programme.md
-      - Resilience/Being Human Interfaith Dialogue.md
+      - Overview.md
+      - Care/.keep
+      - Care/Care.md
+      - Care/3M Moves @ South East.md
+      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
+      - Care/Community Laboratory @ South East.md
       - Future Ready/.keep
       - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
       - Future Ready/Future Ready.md
@@ -12,9 +15,6 @@ collections:
       - Future Ready/Sustainable Living @ South East.md
       - Future Ready/Trade Skills Introductory Series.md
       - Future Ready/SkillsFuture Advice.md
-      - Care/.keep
-      - Care/Care.md
-      - Care/3M Moves @ South East.md
-      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
-      - Care/Community Laboratory @ South East.md
-      - Overview.md
+      - Resilience/.keep
+      - Resilience/Racial Harmony Youth Ambassador Programme.md
+      - Resilience/Being Human Interfaith Dialogue.md
