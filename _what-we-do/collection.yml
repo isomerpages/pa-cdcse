@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - Care/Care.md
       - Care/.keep
       - Overview.md
