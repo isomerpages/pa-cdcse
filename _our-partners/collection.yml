@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - Assistance Schemes/Social Service Offices.md
       - Assistance Schemes/.keep
