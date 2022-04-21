@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Future Ready/.keep
       - Care/.keep
       - Care/Care.md
       - Care/3M Moves @ South East.md
