@@ -2,5 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Stories/Volunteering Is A Two Way Street ,You Get What You Put In  Yu
+        Feng’s Story.md
       - Stories/.keep
       - Media Releases And Speeches.md
