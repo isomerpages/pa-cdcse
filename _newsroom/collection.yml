@@ -2,6 +2,8 @@ collections:
   newsroom:
     output: true
     order:
+      - Stories/Planting The Seeds For An Eco Friendly Singapore   Alice's
+        Story.md
       - Stories/Volunteering Is A Two Way Street ,You Get What You Put In  Yu
         Feng’s Story.md
       - Stories/.keep
