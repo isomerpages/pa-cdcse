@@ -2,11 +2,11 @@ collections:
   newsroom:
     output: true
     order:
+      - Stories/.keep
       - Stories/Celebrating Chinese New Year With Seniors  Angelinena's Story.md
-      - Stories/Inspiring Women All Around  TJ's Story.md
-      - Stories/Planting The Seeds For An Eco Friendly Singapore   Alice's
-        Story.md
       - Stories/Volunteering Is A Two Way Street ,You Get What You Put In  Yu
         Feng’s Story.md
-      - Stories/.keep
+      - Stories/Planting The Seeds For An Eco Friendly Singapore   Alice's
+        Story.md
+      - Stories/Inspiring Women All Around  TJ's Story.md
       - Media Releases And Speeches.md
