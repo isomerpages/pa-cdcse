@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Resilience/Being Human Interfaith Dialogue.md
       - Resilience/Racial Harmony Youth Ambassador Programme.md
       - Resilience/.keep
       - Future Ready/.keep
