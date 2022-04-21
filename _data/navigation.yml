@@ -1,17 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
+  - title: HOME
+    collection: home
+  - title: WHO WE ARE
+    collection: who-we-are
+  - title: WHAT WE DO
+    collection: what-we-do
+  - title: EVENTS
+    collection: events
+  - title: NEWSROOM
+    collection: newsroom
+  - title: OUR PARTNERS
+    collection: our-partners
+  - title: Contact US
+    collection: contact-us
