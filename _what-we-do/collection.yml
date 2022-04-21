@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
       - Future Ready/SkillsFuture Advice.md
       - Future Ready/Trade Skills Introductory Series.md
       - Future Ready/Sustainable Living @ South East.md
