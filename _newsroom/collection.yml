@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Contact South East Magazine.md
       - Stories/.keep
       - Stories/Celebrating Chinese New Year With Seniors  Angelinena's Story.md
       - Stories/Volunteering Is A Two Way Street ,You Get What You Put In  Yu
