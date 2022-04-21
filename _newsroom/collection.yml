@@ -2,9 +2,9 @@ collections:
   newsroom:
     output: true
     order:
-      - District Report/District Report FY 2020.md
       - District Report/.keep
-      - Contact South East Magazine.md
+      - District Report/District Report FY 2020.md
+      - Media Releases And Speeches.md
       - Stories/.keep
       - Stories/Celebrating Chinese New Year With Seniors  Angelinena's Story.md
       - Stories/Volunteering Is A Two Way Street ,You Get What You Put In  Yu
@@ -12,4 +12,4 @@ collections:
       - Stories/Planting The Seeds For An Eco Friendly Singapore   Alice's
         Story.md
       - Stories/Inspiring Women All Around  TJ's Story.md
-      - Media Releases And Speeches.md
+      - Contact South East Magazine.md
