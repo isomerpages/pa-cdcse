@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
       - Care/3M Moves @ South East.md
       - Care/Care.md
       - Care/.keep
