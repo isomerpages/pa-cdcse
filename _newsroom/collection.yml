@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - District Report/.keep
       - Contact South East Magazine.md
       - Stories/.keep
       - Stories/Celebrating Chinese New Year With Seniors  Angelinena's Story.md
