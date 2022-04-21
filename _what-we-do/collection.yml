@@ -2,13 +2,13 @@ collections:
   what-we-do:
     output: true
     order:
-      - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
-      - Future Ready/SkillsFuture Advice.md
-      - Future Ready/Trade Skills Introductory Series.md
-      - Future Ready/Sustainable Living @ South East.md
-      - Future Ready/Green Schools @ South East Award.md
-      - Future Ready/Future Ready.md
       - Future Ready/.keep
+      - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
+      - Future Ready/Future Ready.md
+      - Future Ready/Green Schools @ South East Award.md
+      - Future Ready/Sustainable Living @ South East.md
+      - Future Ready/Trade Skills Introductory Series.md
+      - Future Ready/SkillsFuture Advice.md
       - Care/.keep
       - Care/Care.md
       - Care/3M Moves @ South East.md
