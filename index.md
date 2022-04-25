@@ -21,6 +21,7 @@ sections:
       button: Read More
       url: //permalink
       alt: Image alt text
+      image: /images/cse-jan--apr-2022.png
   - infobar:
       description: To find out which District you are residing in, please go to
         cdc.gov.sg to access our District Locator.
