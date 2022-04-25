@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: South East CDC
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -28,3 +28,4 @@ sections:
       button: "FIND "
       url: https://www.cdc.gov.sg
 ---
+
