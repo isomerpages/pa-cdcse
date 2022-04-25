@@ -2,8 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - District Report/.keep
-      - District Report/District Report FY 2020.md
       - Media Releases And Speeches.md
       - Stories/.keep
       - Stories/Celebrating Chinese New Year With Seniors  Angelinena's Story.md
@@ -13,3 +11,5 @@ collections:
         Story.md
       - Stories/Inspiring Women All Around  TJ's Story.md
       - Contact South East Magazine.md
+      - District Report/.keep
+      - District Report/District Report FY 2020.md
