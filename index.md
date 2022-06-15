@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/Landing Page Carousel/Launch of CDC Vouchers Banner T4 (002).png
       url: https://vouchers.cdc.gov.sg/about/about-cdc-vouchers-scheme
+      key_highlights:
+        - title: 3M Moves @ South East
+          description: 5E programme to inculcate a giving spirit among individuals and
+            organisations by encouraging them to do good.
+          url: ""
   - infobar:
       subtitle: Mayor's Message
       description: In what seems like the blink of an eye, we’re well into the new
