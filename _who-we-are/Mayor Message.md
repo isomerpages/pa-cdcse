@@ -3,7 +3,8 @@ title: Mayor Message
 permalink: /who-we-are/Mayor-Message
 description: ""
 ---
-
+![](/images/Mayor/PictureofMayor.png)
+<img src="/images/Mayor/PictureofMayor"width="800px" height="auto">
 
 Dear Residents and Friends,
 
@@ -30,5 +31,3 @@ Mayor, South East District
 Grassroots Adviser to Marine Parade GRC GROs
 
 And MP for Marine Parade GRC
-
- 
