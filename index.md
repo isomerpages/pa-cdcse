@@ -10,7 +10,7 @@ sections:
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:
-      subtitle: Mayors Message
+      subtitle: Mayor's Message
       description: In what seems like the blink of an eye, we’re well into the new
         year. 2022 promises to be a new normal for the community
       button: READ MORE
