@@ -14,18 +14,17 @@ sections:
       description: In what seems like the blink of an eye, we’re well into the new
         year. 2022 promises to be a new normal for the community
       button: READ MORE
-      url: /faq/
+      url: https://pa-cdcse-staging.netlify.app/who-we-are/mayor-message
   - infopic:
-      subtitle: Contact South East
       description: Find out what’s happening in South East now!
       button: Read More
-      url: //permalink
-      alt: Image alt text
+      url: https://www.cdc.gov.sg/flipbook/southeast/contact-se-jan-apr-2022/index.html#p=1
+      alt: Contact South East Magazin
       image: /images/cse-jan--apr-2022.png
+      title: Contact South East
   - infobar:
-      description: To find out which District you are residing in, please go to
-        cdc.gov.sg to access our District Locator.
-      button: "FIND "
-      url: https://www.cdc.gov.sg
+      description: To find out, please go to cdc.gov.sg to access our District Locator.
+      button: Search now
+      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+      title: Ever wondered which District you are residing in?
 ---
-
