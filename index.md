@@ -18,6 +18,10 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: ""
+        - title: CDC VOUCHERS SCHEME
+          description: As announced in Budget 2022, the CDCs will distribute an additional
+            set of $100 CDC vouchers to each Singaporean Household in May 2022.
+          url: https://vouchers.cdc.gov.sg/
   - infobar:
       subtitle: Mayor's Message
       description: In what seems like the blink of an eye, we’re well into the new
