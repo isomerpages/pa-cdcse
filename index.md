@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
-      url: /contact-us/
+      background: /images/Landing Page Carousel/Launch of CDC Vouchers Banner T4 (002).png
+      url: https://vouchers.cdc.gov.sg/about/about-cdc-vouchers-scheme
+      button: FIND OUT MORE
   - infobar:
       subtitle: Mayor's Message
       description: In what seems like the blink of an eye, we’re well into the new
