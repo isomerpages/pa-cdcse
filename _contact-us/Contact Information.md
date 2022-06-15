@@ -11,7 +11,7 @@ Wisma Geylang Serai
 1 Engku Aman Turn, #03-02  
 Singapore 408528
 
-**Nearest MRT: Paya Lebar MRT
+Nearest MRT: Paya Lebar MRT
 
 Tel: 6432 1300  
 Fax: 6432 1355  
