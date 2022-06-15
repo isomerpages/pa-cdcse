@@ -3,7 +3,8 @@ title: Mayor Message
 permalink: /who-we-are/Mayor-Message
 description: ""
 ---
-![](/images/Mayor/PictureofMayor.png)<img src="/images/Mayor/PictureofMayor.png"width="300px" height="449px">
+![](/images/Mayor/PictureofMayor.png)
+<img src="/images/Mayor/PictureofMayor.png"width="300px"height="449px">
 
 Dear Residents and Friends,
 
