@@ -14,6 +14,10 @@ sections:
           description: 5E programme to inculcate a giving spirit among individuals and
             organisations by encouraging them to do good.
           url: ""
+        - title: NTUC FairPrice Walk For Rice⁺ @ South East
+          description: Initiative aims to motivate more Singaporeans to walk or run while
+            logging in their mileage for a good cause
+          url: ""
   - infobar:
       subtitle: Mayor's Message
       description: In what seems like the blink of an eye, we’re well into the new
