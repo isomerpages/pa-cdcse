@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Mayor Message.md
+      - Mayor's Message.md
       - Our Advisers.md
