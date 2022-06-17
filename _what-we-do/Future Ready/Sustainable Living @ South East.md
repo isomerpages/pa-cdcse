@@ -9,6 +9,7 @@ Sustainable Living @ South East
 <u>**Background**</u></p>
 Sustainable Living @ South East aims to empower our community stakeholders with the knowledge of sustainable practices, inculcating a pro-environmental mindset and enabling behavioural change. The Sustainable Living @ South East Programme consists of two components, Capability Building Workshop and Sustainable Living Grant.
 
+![Sustainable Living Grant @ South East](/images/What%20We%20Do/Future%20Ready/Sustainable%20Living%20@%20South%20East%20Fact%20Sheet%20(Grant)1024_1.jpg)
  
 **Capability Building Workshop (2-3hrs)**</p>
 The workshop aims to:
