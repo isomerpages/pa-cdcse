@@ -39,4 +39,4 @@ If you are an association/ corporate partner: Join us to spread awareness and pr
 </p>
 If you are a school/SSA/NPO: Join us to provide the programme for your students/beneficiaries to pick up a useful skillset and explore career options
 </p>
-**For more information, please contact Ms Ang Pei Wen at: ANG_Pei_Wen@pa.gov.sg**
+**For more information, please contact Ms Ang Pei Wen at: [ANG_Pei_Wen@pa.gov.sg](ANG_Pei_Wen@pa.gov.sg)**
