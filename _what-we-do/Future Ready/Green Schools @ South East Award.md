@@ -34,8 +34,7 @@ The Green Schools @ South East Award aims to recognise and honour Schools in the
 3.  Tanjong Katong Secondary School
 4.  Temasek Secondary School
 
-**Sustained Excellence Award  
-**
+<u>Sustained Excellence Award  </u>
 
 1.  Anglican High School
 2.  Bedok Green Primary School
@@ -49,8 +48,7 @@ The Green Schools @ South East Award aims to recognise and honour Schools in the
 10.  Changkat Primary School
 11.  St. Anthony's Canossian Primary School
 
-**Sustained Excellence Honorary Award  
-**
+<u>Sustained Excellence Honorary Award  </u>
 
 1.  Geylang Methodist School (Primary)
 2.  Yangzheng Primary School
