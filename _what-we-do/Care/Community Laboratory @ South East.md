@@ -29,7 +29,7 @@ Alumni members takes on the role of Mentors to guide the new cohorts of Communit
   
   
 <u>Positive feedback from participants:  </u></p>
-We were teaching the students from APSN Katong School on how to tie their aprons. It is a simple task for regular people, however, it took them almost 20 minutes for them to learn it. It struck to me that we are very lucky people and we should do our best to help children with special needs."  
+"We were teaching the students from APSN Katong School on how to tie their aprons. It is a simple task for regular people, however, it took them almost 20 minutes for them to learn it. It struck to me that we are very lucky people and we should do our best to help children with special needs."  
 - Yiik Chia  
 Student  
 Hwa Chong Institution
