@@ -19,4 +19,4 @@ ii.      experiencing salary loss of at least 30% from all jobs prior to ap
 
 Each successful applicant (and his/ her household) will receive a one-time relief of $800.
 
-Click here to sign up: [https://go.gov.sg/secdckms](https://go.gov.sg/secdckms)
+**Click here to sign up: [https://go.gov.sg/secdckms](https://go.gov.sg/secdckms)**
