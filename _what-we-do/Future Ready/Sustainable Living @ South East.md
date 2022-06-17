@@ -4,3 +4,24 @@ permalink: /what-we-do/Future-Ready/Sustainable-Living-South-East
 description: ""
 third_nav_title: Future Ready
 ---
+Sustainable Living @ South East
+==
+<u>**Background**</u></p>
+Sustainable Living @ South East aims to empower our community stakeholders with the knowledge of sustainable practices, inculcating a pro-environmental mindset and enabling behavioural change. The Sustainable Living @ South East Programme consists of two components, Capability Building Workshop and Sustainable Living Grant.
+
+ 
+**Capability Building Workshop (2-3hrs)**</p>
+The workshop aims to:
+Increase participants awareness of environmental challenges and issues;
+Impart knowledge in sustainability for participants to make informed decisions achieving lasting environmental change; and
+Build participant’s’ capabilities to organise effective environmental projects.
+ 
+ 
+**Sustainability Living Grant**</p>
+To empower our community partners to take ownership of the environment and to facilitate growth plans in the Eco-space, the Sustainable Living Grant will support green initiatives with up to $10,000 per environmental project. The grant can support both new initiatives as well as ongoing initiatives that are looking to scale up current efforts, focusing on the following:
+1. Reducing Waste,       
+2. Conserving Energy and Water,
+3.  Increasing Food Sustainability and
+4.  Preserving a Clean and Green Environment.
+
+For more information, contact Mr Muhd Izhar at muhd_Izhar_abubakar@pa.gov.sg
