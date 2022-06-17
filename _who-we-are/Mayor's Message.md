@@ -25,10 +25,8 @@ The South East CDC stands ready to help you go further in this noble quest. Be i
 
  
 
-Mohd Fahmi Bin Aliman
-
-Mayor, South East District
-
-Grassroots Adviser to Marine Parade GRC GROs
-
-And MP for Marine Parade GRC
+**Mohd Fahmi Bin Aliman
+</br>
+Mayor, South East District</br>
+Grassroots Adviser to Marine Parade GRC GROs </br>
+And MP for Marine Parade GRC**
