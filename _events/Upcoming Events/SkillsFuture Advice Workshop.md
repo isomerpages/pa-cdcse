@@ -25,4 +25,4 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
 
 **Get in Touch!** 
 
-**For further enquiries of our workshops, drop us an email **SouthEastSFA@outlook.com.**
+**For further enquiries of our workshops, drop us an email  [southeastSFA@outlook.com](southeastSFA@outlook.com)
