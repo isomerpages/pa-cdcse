@@ -6,7 +6,7 @@ third_nav_title: Resilience
 ---
 Community Mental Wellness Grant
 ==
-
+![](/images/What%20We%20Do/Resilience/IMG-20210324-WA0010.jpg)
 Community Mental Wellness Grant supports our partners in tailoring mental wellness programmes for their participants and beneficiaries within the South East District.
 
 <u>**Background**</u></p>
