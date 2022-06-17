@@ -8,7 +8,7 @@ Our Advisers
 
 | East Coast GRC |  |   |
 | ----- | ----- | -------|
-|  Mr Heng Swee Keat|    Adviser to East Coast GRC GROs   |<img src= "/images/Who%20We%20Are/Advisers/Heng%20Swee%20Keat.jpg" style="width: 100px; height: 200" >
+<img src= "/images/Who%20We%20Are/Advisers/Heng%20Swee%20Keat.jpg" style="width: 100px; height: 200" >|  Mr Heng Swee Keat|    Adviser to East Coast GRC GROs   |
 | Dr Mohamad Maliki Bin Osman   |  Adviser to East Coast GRC GROs  | 
 | Mr Tan Kiat How| Adviser to East Coast GRC GROs|
 | Ms Cheryl Chan| Adviser to East Coast GRC GROs|
