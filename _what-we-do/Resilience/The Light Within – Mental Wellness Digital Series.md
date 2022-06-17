@@ -21,4 +21,4 @@ The Light Within @ ITE CE
 
 In the upcoming months, we will be bringing this programme to more schools in the South East District.
 
-For more information on our mental resilience programmes, do reach out to Mr. Keegan Lim at Keegan_LIM@pa.gov.sg
+**For more information on our mental resilience programmes, do reach out to Mr. Keegan Lim at Keegan_LIM@pa.gov.sg**
