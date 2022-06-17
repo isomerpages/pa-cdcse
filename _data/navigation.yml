@@ -1,8 +1,6 @@
 logo: /images/secdc17_logo_fa-colour.jpg
 links:
   - title: HOME
-    collection: what-we-do
-  - title: Home
     url: https://pa-cdcse-staging.netlify.app/
   - title: WHO WE ARE
     collection: who-we-are
