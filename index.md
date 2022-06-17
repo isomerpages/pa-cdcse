@@ -13,11 +13,11 @@ sections:
         - title: 3M Moves @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
             organisations by encouraging them to do good.
-          url: ""
+          url: https://pa-cdcse-staging.netlify.app/what-we-do/care/3m-moves-south-east
         - title: NTUC FairPrice Walk For Rice⁺ @ South East
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
-          url: ""
+          url: https://pa-cdcse-staging.netlify.app/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
         - title: CDC VOUCHERS SCHEME
           description: As announced in Budget 2022, the CDCs will distribute an additional
             set of $100 CDC vouchers to each Singaporean Household in May 2022.
