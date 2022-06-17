@@ -23,4 +23,4 @@ Subsequently in 2021, mentorship workshops were added to provide students opport
 If you are an corporate partner, join us to help equip students and provide opportunities such as talks, workshops and internships.
 If you are a student/school, join us to pick up relevant skills and knowledge for the workforce.
  
-For more information, please contact Mr Koh Jia Yi at email koh_jia_yi@pa.gov.sg 
+**For more information, please contact Mr Koh Jia Yi at email koh_jia_yi@pa.gov.sg**
