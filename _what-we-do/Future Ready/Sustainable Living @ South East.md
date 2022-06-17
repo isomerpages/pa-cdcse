@@ -25,4 +25,4 @@ To empower our community partners to take ownership of the environment and to fa
 3.  Increasing Food Sustainability and
 4.  Preserving a Clean and Green Environment.
 
-For more information, contact Mr Muhd Izhar at muhd_Izhar_abubakar@pa.gov.sg
+For more information, contact Mr Muhd Izhar at [muhd_Izhar_abubakar@pa.gov.sg](muhd_Izhar_abubakar@pa.gov.sg)
