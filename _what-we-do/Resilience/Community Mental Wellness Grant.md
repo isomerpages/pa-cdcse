@@ -33,7 +33,7 @@ The grant call is open to partners located in the South East District or benefit
 
 • Corporate Organisations
 
-</p>
+
 **For more information:
 If you are interested to bring mental health awareness to your community, kindly contact:
 Ms Koh Zhenru at KOH_Zhenru@pa.gov.sg**
