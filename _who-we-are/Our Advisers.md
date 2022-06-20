@@ -15,7 +15,13 @@ Our Advisers
 <img src= "/images/Who%20We%20Are/Advisers/Jessica%20Tan.jpg" style="width: 100px;" >| Ms Jessica Tan Soon Neo| Adviser to East Coast GRC GROs|
 
 
-| MarineParade GRC | | |
+
+| Marine Parade GRC | | |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+| Marine Parade GRC | | |
 | ---------| -------- | --------|
 <img src= "/images/Who%20We%20Are/Advisers/Tan%20See%20Leng.jpg" style="width: 100px;" >| Dr Tan See Leng|  Adviser to Marine Parade GRC GROs   |
 <img src= "/images/Who%20We%20Are/Advisers/Edwin%20Tong.jpg" style="width: 100px;" >| Mr Edwin Tong Chun Fai   |  Adviser to Marine Parade GRC GROs  | 
