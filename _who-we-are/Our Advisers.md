@@ -18,7 +18,7 @@ Our Advisers
 
 | Marine Parade GRC | | |
 | ---------| -------- | --------|
-<img src= "/images/Who%20We%20Are/Advisers/Tan%20See%20Leng.jpg" style="width: 110px;" >| Dr Tan See Leng|    Adviser to Marine Parade GRC GROs   |
+<img src= "/images/Who%20We%20Are/Advisers/Tan%20See%20Leng.jpg" style="width: 100px;" >| Dr Tan See Leng|    Adviser to Marine Parade GRC GROs   |
 <img src= "/images/Who%20We%20Are/Advisers/Edwin%20Tong.jpg" style="width: 110px;" >| Mr Edwin Tong Chun Fai   |  Adviser to Marine Parade GRC GROs  | 
 <img src= "/images/Who%20We%20Are/Advisers/Tan%20Chuan%20Jin.jpg" style="width: 110px;" >| Mr Tan Chuan Jin | Adviser to Marine Parade GRC GROs|
 <img src= "/images/Who%20We%20Are/Advisers/Mohd%20Fahmi.jpg" style="width: 110px;" >| Mr Mohd Fahmi Aliman| Adviser to Marine Parade GRC GROs </br> Mayor of South East District
