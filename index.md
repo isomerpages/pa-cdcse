@@ -27,7 +27,7 @@ sections:
       description: In what seems like the blink of an eye, we’re well into the new
         year. 2022 promises to be a new normal for the community
       button: READ MORE
-      url: https://pa-cdcse-staging.netlify.app/who-we-are/mayor-message
+      url: https://pa-cdcse-staging.netlify.app/who-we-are/mayors-message
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
