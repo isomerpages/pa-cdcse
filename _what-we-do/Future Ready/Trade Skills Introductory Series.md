@@ -7,14 +7,15 @@ third_nav_title: Future Ready
 Trade Skills Introductory Series
 ===
 ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%202%20(2).png)
-<u>**Background:**</u>
+
+**Background:**
 
 South East CDC set up the Trade Skills Introductory Series under the Employment and Employability Taskforce to raise awareness and create better understanding of tradesman and craftsman jobs.
 
 This programme is aimed at youths aged 13 to 20 studying or living in South East District to provide exposure, spark interest and address any misconception before they select their course of study or embark on their first job. We look to expand to the unemployed, mid-career workers and residents in South East at later stages.   
 
 ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%203%20(2).png)
-</p>
+
 The objectives of Trade Skills Introductory Series are as follows:
 1. To raise awareness and create better understanding of tradesman and craftsman related jobs; 
 2. To spark and develop interest towards tradesman and craftsman related jobs and;
