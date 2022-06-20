@@ -3,9 +3,7 @@ title: Mayor's Message
 permalink: /who-we-are/Mayors-Message
 description: ""
 ---
-<img src="/images/Mayor/PictureofMayor.png" 
-         width="100" 
-         height="200" />
+<img src= "/images/Mayor/PictureofMayor.png" style="width: 400px; " >
 				 
 Dear Residents and Friends,
 
