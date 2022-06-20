@@ -14,7 +14,7 @@ Our Advisers
 <img src= "/images/Who%20We%20Are/Advisers/Cheryl%20Chan.jpg" style="width: 100px;" >| Ms Cheryl Chan| Adviser to East Coast GRC GROs|
 <img src= "/images/Who%20We%20Are/Advisers/Jessica%20Tan.jpg" style="width: 100px;" >| Ms Jessica Tan Soon Neo| Adviser to East Coast GRC GROs|
 
-
+<br>
 
 | Marine Parade GRC | | |
 | -------- | -------- | -------- |
