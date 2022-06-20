@@ -21,4 +21,4 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time.
 To find the entire listing of our workshops, click here: https://go.gov.sg/sesfareg 
 Get in Touch!
  
-For further enquiries of our workshop, drop us an email SouthEastSFA@outlook.com.
+For further enquiries of our workshop, drop us an email [SouthEastSFA@outlook.com.](SouthEastSFA@outlook.com.)
