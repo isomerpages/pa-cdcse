@@ -7,7 +7,7 @@ Our Advisers
 ==============
 
 | East Coast GRC |  |   |
-| ----- | ----- | -------|
+| -------- | -------- | ---------|
 <img src= "/images/Who%20We%20Are/Advisers/Heng%20Swee%20Keat.jpg" style="width: 100px; " >|  Mr Heng Swee Keat|    Adviser to East Coast GRC GROs   |
 <img src= "/images/Who%20We%20Are/Advisers/Mohamad.jpg" style="width: 100px; " >| Dr Mohamad Maliki Bin Osman   |  Adviser to East Coast GRC GROs  | 
 <img src= "/images/Who%20We%20Are/Advisers/Tan%20Kiat%20How.jpg" style="width: 100px; " >| Mr Tan Kiat How| Adviser to East Coast GRC GROs|
@@ -17,9 +17,9 @@ Our Advisers
 
 
 | Marine Parade GRC | | |
-| -----| ----- | ----|
+| --------| -------- | -------|
 <img src= "/images/Who%20We%20Are/Advisers/Tan%20See%20Leng.jpg" style="width: 110px;" >| Dr Tan See Leng|    Adviser to Marine Parade GRC GROs   |
 <img src= "/images/Who%20We%20Are/Advisers/Edwin%20Tong.jpg" style="width: 110px;" >| Mr Edwin Tong Chun Fai   |  Adviser to Marine Parade GRC GROs  | 
 <img src= "/images/Who%20We%20Are/Advisers/Tan%20Chuan%20Jin.jpg" style="width: 110px;" >| Mr Tan Chuan Jin | Adviser to Marine Parade GRC GROs|
 <img src= "/images/Who%20We%20Are/Advisers/Mohd%20Fahmi.jpg" style="width: 110px;" >| Mr Mohd Fahmi Aliman| Adviser to Marine Parade GRC GROs </p>Mayor of South East District
-<img src= "/images/Who%20We%20Are/Advisers/Siah%20Kien%20Peng.jpg" style="width: 110px;" >| Mr Siah Kien Peng| Adviser to Marine Parade GRC GROs 
+<img src= "/images/Who%20We%20Are/Advisers/Siah%20Kien%20Peng.jpg" style="width: 110px;" >| Mr Siah Kien Peng| Adviser to Marine Parade GRC GROs
