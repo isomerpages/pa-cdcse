@@ -19,21 +19,18 @@ Mental health is an essential component of health that concerns anyone and every
 * Mental Health Training (e.g. peer support training for students to identify peers in distress)
 * Suitable topics that promote mental wellness
 
-![](/images/What%20We%20Do/Resilience/CMWP3.jpg)
-
-<u>Criteria</u>
+<u>Criteria</u>:
 
 The proposal needs to promote mental wellness. It may be conducted in the form of talks, workshops, camps, forums, networking sessions, or other suitable initiatives.
-
 The grant call is open to partners located in the South East District or benefiting residents living in South East District:
 
-• Social Service Agencies (SSAs)
-
-• Schools (Primary, Secondary and Post-Secondary)
-
-• Grassroots Organisations (GROs)
-
-• Corporate Organisations
+* Social Service Agencies (SSAs)
+ 
+* Schools (Primary, Secondary and Post-Secondary)
+ 
+* Grassroots Organisations (GROs)
+ 
+* Corporate Organisations
 
 
 **For more information:**
