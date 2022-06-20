@@ -22,7 +22,7 @@ Mental health is an essential component of health that concerns anyone and every
 
 <u>**Criteria** </u>
 The proposal needs to promote mental wellness. It may be conducted in the form of talks, workshops, camps, forums, networking sessions, or other suitable initiatives.
-</p>
+
 The grant call is open to partners located in the South East District or benefiting residents living in South East District:
 
 • Social Service Agencies (SSAs)
