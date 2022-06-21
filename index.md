@@ -35,11 +35,6 @@ sections:
       alt: Contact South East Magazin
       image: /images/cse-jan--apr-2022.png
       title: Contact South East
-  - infobar:
-      description: To find out, please go to cdc.gov.sg to access our District Locator.
-      button: Search now
-      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
-      title: Ever wondered which District you are residing in?
   - infopic:
       title: Ever wondered which District you are residing in?
       description: To find out, please go to cdc.gov.sg to access our District Locator.
