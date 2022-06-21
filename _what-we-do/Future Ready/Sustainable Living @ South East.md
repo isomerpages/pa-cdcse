@@ -22,7 +22,7 @@ Build participant’s’ capabilities to organise effective environmental projec
  
 <u> Sustainability Living Grant </u>
 
-To empower our community partners to take ownership of the environment and to facilitate growth plans in the Eco-space, the Sustainable Living Grant will support green initiatives with up to $10,000 per environmental project. The grant can support both new initiatives as well as ongoing initiatives that are looking to scale up current efforts, focusing on the following:
+To empower our community partners to take ownership of the environment and to facilitate growth plans in the Eco-space, the Sustainable Living Grant will support green initiatives with up to $10,000 per environmental project. The grant can support both new initiatives as well as, ongoing initiatives that are looking to scale up current efforts, focusing on the following:
 1. Reducing Waste,       
 2. Conserving Energy and Water,
 3.  Increasing Food Sustainability and
