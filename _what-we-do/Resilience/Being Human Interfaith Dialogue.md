@@ -4,11 +4,11 @@ permalink: /what-we-do/Resilience/Being-Human-Interfaith-Dialogue
 description: ""
 third_nav_title: Resilience
 ---
-Being Human Interfaith Dialogue
+'Being Human' Interfaith Dialogue
 ===
 ![](/images/What%20We%20Do/Resilience/being-human-001.jpeg)
 
-Being Human Interfaith Dialogue Series aims to support the national agenda of building an efficacious inter-religious society and achieving religious pluralism.
+'Being Human' Interfaith Dialogue Series aims to support the national agenda of building an efficacious inter-religious society and achieving religious pluralism.
 
 It seeks to engage the participants through meaningful conversations on pertinent and contemporary issues relating to Faith and Racial focus.
 
