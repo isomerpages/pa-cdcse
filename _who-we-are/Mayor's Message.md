@@ -8,8 +8,7 @@ description: ""
 **Dear Residents and Friends,**
 
 In what seems like the blink of an eye, we’re well into the new year. 
-2022 promises to be a new normal for the community, as our children and students step up for their COVID-19 vaccination. With rising vaccination rates, we can look forward to slowly returning to the activities we all love, when the Safe Management Measures allow. I hope that parents reading this will consider the vaccine for your children to protect them. To readers who are not vaccinated, I also urge you to safeguard yourselves and your loved ones by stepping up to get jabbed. 
-This simple act will ensure we each play a part in reducing the risk of getting and spreading Covid-19.
+2022 promises to be a new normal for the community, as our children and students step up for their COVID-19 vaccination. With rising vaccination rates, we can look forward to slowly returning to the activities we all love, when the Safe Management Measures allow. I hope that parents reading this will consider the vaccine for your children to protect them. To readers who are not vaccinated, I also urge you to safeguard yourselves and your loved ones by stepping up to get jabbed. This simple act will ensure we each play a part in reducing the risk of getting and spreading Covid-19.
 
  
 
