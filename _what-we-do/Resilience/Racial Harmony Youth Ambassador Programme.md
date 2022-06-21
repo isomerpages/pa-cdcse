@@ -6,11 +6,11 @@ third_nav_title: Resilience
 ---
 Racial Harmony Youth Ambassador Programme
 ===
-Started in 2002, Racial Harmony Youth Ambassadors programme has developed youths from different races and schools in implementing initiatives to promote racial harmony in the community. The RHYA’s Celebration of Festivals (CoF) series aims to foster an appreciation of diversity, promote greater sensitivity to traditional practices in communal or religious spaces and address or mitigate misunderstandings between communities. CoF also actively engages the public through meaningful activities in celebration of each major festival.
+Started in 2002, Racial Harmony Youth Ambassadors programme has developed youth from different races and schools in implementing initiatives to promote racial harmony in the community. The RHYA’s Celebration of Festivals (CoF) series aims to foster an appreciation of diversity, promote greater sensitivity to traditional practices in communal or religious spaces and address or mitigate misunderstandings between communities. CoF also actively engages the public through meaningful activities in celebration of each major festival.
 
 ![](/images/What%20We%20Do/Resilience/COF%20Christmas%202020%20-%201.jpg)
 
-RHYAs collaborated with community partners and volunteers to share how different faiths groups and ethnicities celebrate their festivities. Over the past few years, we have conducted 3-hour short programmes celebrating Chinese New Year, Christmas, Ramadan, Easter,Deepavali, and the 7th month festival. 
+RHYAs collaborated with community partners and volunteers to share how different faith groups and ethnicities celebrate their festivities. Over the past few years, we have conducted 3-hour short programmes celebrating Chinese New Year, Christmas, Ramadan, Easter,Deepavali, and the 7th month festival. 
 
 Different activities were organised to cater to each holiday’s specific customs and theme. On Ramadan, for example, RHYAs practised fasting together for the day and visited the mosque to help cook porridge. For Chinese New Year, RHYAs visited Senior Activity Centres (SAC) and brought the elderly out for prayers at temples. Easter saw the ambassadors guiding students at Morning Star (St. Gabriel’s Primary School) in a sharing session.
 ![](/images/What%20We%20Do/Resilience/RHYA_COF%20Easter.jpg)
