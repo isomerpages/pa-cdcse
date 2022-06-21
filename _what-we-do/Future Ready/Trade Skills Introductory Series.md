@@ -33,7 +33,8 @@ Here’s an example of the programme structure:
 * Skills workshop: Engage participants with hands-on experience and showcase their product/ project or learnings at the final session.
 
 ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%205%20(2).png)
-Click here to check out their learning journey: https://www.instagram.com/p/CZRQKbmqUYC/
+
+Click [here](https://www.instagram.com/p/CZRQKbmqUYC/) to check out their learning journey!
  
 <u>Ways to partner us in the programme:</u>
 
