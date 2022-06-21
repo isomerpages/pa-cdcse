@@ -14,7 +14,7 @@ Community Laboratory @ South East was piloted in 2011, a Community Service Leade
 **4I Approach**  
  <U> Stage 1: Induction </u>
  
- A platform for participants to know more about the roles and work of South East CDC as well as Community Laboratory @ South East programme.  
+ A platform for participants to know more about the roles and work of South East CDC as well as, Community Laboratory @ South East programme.  
 It also enhances the participants’ awareness of the work of the community institutions. 
 
 <u> Stage 2: Immersion  </u>
