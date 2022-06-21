@@ -8,7 +8,7 @@ NTUC FairPrice Walk For Rice⁺ @ South East
 ============================
 ![Walk for Rice+ 2021](/images/What%20We%20Do/CARE/Group%20pic.jpg)
 
-On 28th Oct 2021, NTUC FairPrice (FairPrice) and South East Community Development Council (South East CDC) launched the 13th edition of its annual FairPrice Walk for Rice+ @ South East to lift the spirit of giving back while encouraging a healthy lifestyle. To mark its 13th year, Walk for Rice+ @ South East ran for 13 weeks, which started from 28th Oct till 20 January 2022. FairPrice and South East CDC also announced the extension of their partnership for another three years.
+On 28th Oct 2021, NTUC FairPrice (FairPrice) and South East Community Development Council (South East CDC) launched the 13th edition of its annual FairPrice Walk for Rice+ @ South East to lift the spirit of giving back while encouraging a healthy lifestyle. To mark its 13th year, Walk for Rice+ @ South East ran for 13 weeks, which started from 28th Oct till 20 January 2022. FairPrice and South East CDC also announced the extension of our partnership for another three years.
 
 ![Mayor Fahmi & Mr Seah](/images/What%20We%20Do/CARE/IMG_0129.jpg)
 
