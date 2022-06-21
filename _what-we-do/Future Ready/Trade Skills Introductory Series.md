@@ -26,7 +26,7 @@ Partnering with Employment and Employability Institute (e2i), we will be reachin
  ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%204%20(3).png)
  
  ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%206%20(2).png)
- </p>
+
 Here’s an example of the programme structure:
 * Career sharing: Enhance participants' knowledge about tradesman and craftsman jobs, the future of the industry and the progression of skills and jobs.  
 * Learning journey: Expose participants to the working environment and various aspects of the job.
@@ -35,7 +35,7 @@ Here’s an example of the programme structure:
 ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%205%20(2).png)
 Click here to check out their learning journey: https://www.instagram.com/p/CZRQKbmqUYC/
  
-<u>**Ways to partner us in the programme:**</u>
+<u>Ways to partner us in the programme:</u>
 
 If you are an association/ corporate partner: Join us to spread awareness and provide opportunities such as talks, learning journeys, hands-on workshops, internships, employment opportunities in the area of tradesman and craftsman
 
