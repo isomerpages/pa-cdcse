@@ -2,7 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - test.md
       - Media Releases And Speeches.md
       - Contact South East Magazine.md
       - District Report/.keep
