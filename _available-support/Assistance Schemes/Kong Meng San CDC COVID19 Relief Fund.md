@@ -18,7 +18,7 @@ i.      experiencing total loss of income due to non-voluntary no-pay leave
 
 or
 
-ii.      experiencing salary loss of at least 30% from all jobs prior to application.\*  
+ii.      experiencing salary loss of at least 30% from all jobs prior to application.*  
   
 
 *Applicant must have monthly gross income of $3,000 or less.
