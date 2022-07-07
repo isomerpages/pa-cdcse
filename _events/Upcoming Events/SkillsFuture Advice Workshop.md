@@ -21,8 +21,115 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
 
 **Upcoming Runs of SkillsFuture Advice (SFA) Online Workshop @ South East:** 
 
-<table style="box-sizing: border-box; width: 844px; border-collapse: collapse; table-layout: auto; vertical-align: top; margin-bottom: 15px; border: 1px solid rgb(204, 204, 204); height: 607px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; background-color: rgb(250, 250, 250); height: 61px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;"><strong style="box-sizing: border-box; font-weight: bold;">&nbsp;Date&nbsp;</strong></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;"><strong style="box-sizing: border-box; font-weight: bold;">&nbsp;Day&nbsp;</strong></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;"><strong style="box-sizing: border-box; font-weight: bold;">&nbsp;Time&nbsp;</strong></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><strong style="box-sizing: border-box; font-weight: bold;">Workshop Title</strong><br style="box-sizing: border-box;"><strong style="box-sizing: border-box; font-weight: bold;">&nbsp;Registration URL</strong></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;"><strong style="box-sizing: border-box; font-weight: bold;">Language</strong></td></tr><tr style="box-sizing: border-box; background-color: rgb(247, 247, 247); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">31 May 2022</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Tuesday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">7.30pm - 9pm</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Insights to Photography &amp; Videography Masterclass</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;</td></tr><tr style="box-sizing: border-box; background-color: rgb(250, 250, 250); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">7 June 2022</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Tuesday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">7.30pm - 9pm</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Jobs Preview for Fitness Instructor</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;<br style="box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box; background-color: rgb(247, 247, 247); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">8 June 2022</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Wednesday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">7.30pm - 9pm</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Media Professional in and outside of Media Industry</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;<br style="box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box; background-color: rgb(250, 250, 250); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">22 June 2022</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Wednesday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">12.00pm - 1pm</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Let's talk about Self Care in a challenging world</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;&nbsp;</td></tr><tr style="box-sizing: border-box; background-color: rgb(247, 247, 247); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">23 June 2022&nbsp;</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Thursday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">8pm - 9pm</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Level Up Your Employability</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;<br style="box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box; background-color: rgb(250, 250, 250); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">24 June 2022&nbsp;</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Friday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">7.30pm - 9pm&nbsp;</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Jobs Preview for Aspiring Preschool Educators by NIEC</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;</td></tr><tr style="box-sizing: border-box; background-color: rgb(247, 247, 247); height: 93px;"><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 131px;">25 June 2022</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 91px;">Saturday</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 164px;">10.00am - 11.30am</td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 196px;"><a href="https://go.gov.sg/sesfareg" style="box-sizing: border-box; color: rgb(0, 114, 187); outline: none; text-decoration: none;">Healthier Baking</a></td><td style="box-sizing: border-box; vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 93px;">English&nbsp;<br style="box-sizing: border-box;"></td></tr></tbody></table>
-
-**Get in Touch!** 
-
-**For further enquiries of our workshops, drop us an email  [southeastSFA@outlook.com](southeastSFA@outlook.com)
+</strong></span></p>
+<table style="width:844px;height:607px;">
+    <tbody>
+        <tr style="height:61px;">
+            <td style="width: 131px;"><strong>&nbsp;Date&nbsp;</strong></td>
+            <td style="width:91px;"><strong>&nbsp;Day&nbsp;</strong></td>
+            <td style="width:164px;"><strong>&nbsp;Time&nbsp;</strong></td>
+            <td style="width:196px;"><strong>Workshop Title</strong><br />
+            <strong>&nbsp;Registration URL</strong></td>
+            <td style="width:93px;"><strong>Language</strong></td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">12-Jul-22</td>
+            <td style="width:91px;">Tuesday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            10am-11.30am</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">The Secret of Getting a YES!</a></td>
+            <td style="width:93px;">English&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">15-Jul-22</td>
+            <td style="width:91px;">Friday</td>
+            <td style="width:164px;">12.00pm - 1.30pm</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">Cultivating Powerful Mindset for Achieving Goals</a></td>
+            <td style="width:93px;">English&nbsp;<br />
+            </td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">18-Jul-22</td>
+            <td style="width:91px;">Monday</td>
+            <td style="width:164px;">10am-11.30am</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">Power Strategise your Career Transition&nbsp; </a></td>
+            <td style="width:93px;">English&nbsp;<br />
+            </td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">21-Jul-22</td>
+            <td style="width:91px;">Thursday&nbsp;</td>
+            <td style="width:164px;">10.00am - 1pm</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">Let's talk about Self Care in a challenging world</a></td>
+            <td style="width:93px;">English&nbsp;&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">25-Jul-22</td>
+            <td style="width:91px;">Monday</td>
+            <td style="width:164px;">12.00pm - 1.30pm</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg"></a><a href="https://go.gov.sg/sesfareg">Digismart: Trend Sharing - The Future of Work</a></td>
+            <td style="width:93px;">English&nbsp;<br />
+            </td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">26-Jul-22</td>
+            <td style="width:91px;">Tuesday</td>
+            <td style="width:164px;">12.00pm - 1.30pm</td>
+            <td style="width:196px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            <a href="https://go.gov.sg/skillsfuturecdc2022-reg">Attract Job Opportunities Through LinkedIn Videos</a><br />
+            </td>
+            <td style="width:93px;">English&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">&nbsp;28-Jul-22</td>
+            <td style="width:91px;">&nbsp;Thursday</td>
+            <td style="width:164px;">&nbsp;12.00pm - 2pm</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">Rediscover Singapore Tourism Careers</a></td>
+            <td style="width:93px;">English&nbsp;<br />
+            </td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">&nbsp;29-Jul-22</td>
+            <td style="width:91px;">Friday</td>
+            <td style="width:164px;">12.00pm - 1.30pm&nbsp;</td>
+            <td style="width:196px;">&nbsp;<a href="https://go.gov.sg/skillsfuturecdc2022-reg">Coaching Self for Success</a></td>
+            <td style="width:93px;">&nbsp;English&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">&nbsp;2-Aug-22</td>
+            <td style="width:91px;">Tuesday</td>
+            <td style="width:164px;">12.00pm - 1.30pm</td>
+            <td style="width:196px;">&nbsp;<a href="https://go.gov.sg/skillsfuturecdc2022-reg">S</a><a href="https://go.gov.sg/skillsfuturecdc2022-reg">peak Off the Cuff and Sell Effectively at Job Interviews&nbsp;</a></td>
+            <td style="width:93px;">&nbsp;English&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">&nbsp;4-Aug-22</td>
+            <td style="width:91px;">Thursday</td>
+            <td style="width:164px;">10am - 11.30am</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">Professional Grooming for Job Interviews</a></td>
+            <td style="width:93px;">&nbsp;English&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">&nbsp;5-Aug-22</td>
+            <td style="width:91px;">Friday</td>
+            <td style="width:164px;">12pm - 2.00pm</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">&nbsp;Live Your Life Well</a></td>
+            <td style="width:93px;">&nbsp;English&nbsp;</td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">10-Aug-22</td>
+            <td style="width:91px;">Wednesday</td>
+            <td style="width:164px;">&nbsp;2pm - 3.30pm</td>
+            <td style="width:196px;"><a href="https://go.gov.sg/skillsfuturecdc2022-reg">Sustainability Practices&nbsp;</a></td>
+            <td style="width:93px;">&nbsp;English&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
