@@ -6,7 +6,7 @@ description: ""
 Contact South East Magazine
 ===
 
-<a href="https://www.cdc.gov.sg/flipbook/southeast/2022/contact-se-may-aug-2022/index.html#p=4">
+<a href="https://www.cdc.gov.sg/flipbook/southeast/2022/contact-se-may-aug-2022/index.html#p=1">
  <img src="/images/NewsRoom/CSE/CSE%20May%20to%20Aug%202022%20-%20Cover%20page.png">
 	
 >[Contact South East Issue May 2022 - Aug 2022](https://www.cdc.gov.sg/flipbook/southeast/2022/contact-se-may-aug-2022/index.html#p=4)
