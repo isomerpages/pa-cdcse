@@ -23,11 +23,12 @@ sections:
             set of $100 CDC vouchers to each Singaporean Household in May 2022.
           url: https://vouchers.cdc.gov.sg/
   - infobar:
-      subtitle: Mayor's Message
-      description: In what seems like the blink of an eye, we’re well into the new
-        year. 2022 promises to be a new normal for the community
+      description: “You make a living by what you get. You make a life by what you
+        give.” This popular saying rings true especially in the South East
+        District .....
       button: READ MORE
-      url: https://pa-cdcse-staging.netlify.app/who-we-are/mayors-message
+      url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
+      title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
@@ -43,4 +44,3 @@ sections:
       image: /images/SE Map (2).png
       alt: SE CDC Map
 ---
-
