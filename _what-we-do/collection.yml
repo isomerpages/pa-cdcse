@@ -1,0 +1,20 @@
+collections:
+  what-we-do:
+    output: true
+    order:
+      - Overview.md
+      - Care/.keep
+      - Care/3M Moves @ South East.md
+      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
+      - Care/Community Laboratory @ South East.md
+      - Future Ready/.keep
+      - Future Ready/Green Schools @ South East Award.md
+      - Future Ready/Sustainable Living @ South East.md
+      - Future Ready/Trade Skills Introductory Series.md
+      - Future Ready/SkillsFuture Advice.md
+      - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
+      - Resilience/Community Mental Wellness Grant.md
+      - Resilience/The Light Within – Mental Wellness Digital Series.md
+      - Resilience/.keep
+      - Resilience/Racial Harmony Youth Ambassador Programme.md
+      - Resilience/'Being Human' Interfaith Dialogue.md
