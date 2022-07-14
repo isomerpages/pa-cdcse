@@ -53,3 +53,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-cdcse-staging.netlify.app
 prod: https://pa-cdcse-prod.netlify.app
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+linkedin-insights: ""
