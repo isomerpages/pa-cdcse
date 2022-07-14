@@ -32,9 +32,8 @@ sections:
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
-      url: https://www.cdc.gov.sg/flipbook/southeast/contact-se-jan-apr-2022/index.html#p=1
+      url: https://www.cdc.gov.sg/flipbook/southeast/2022/contact-se-may-aug-2022/index.html#p=1
       alt: Contact South East Magazin
-      image: /images/cse-jan--apr-2022.png
       title: Contact South East
   - infopic:
       title: Ever wondered which District you are residing in?
