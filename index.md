@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing Page Carousel/CDC VOUCHER.png
       url: https://vouchers.cdc.gov.sg/about/about-cdc-vouchers-scheme
       key_highlights:
         - title: 3M Moves @ South East
