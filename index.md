@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing Page Carousel/CDC VOUCHER.png
-      url: https://vouchers.cdc.gov.sg/about/about-cdc-vouchers-scheme
+      url: https://www.facebook.com/ndhc22southeast
       key_highlights:
         - title: 3M Moves @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
