@@ -28,10 +28,9 @@ Together, we all work as one to attain our vision of an active and vibrant South
  
 Best Wishes,
 
-**Mohd Fahmi Bin Aliman**
+**Mohd Fahmi Aliman**
 <br>
-Mayor, South East District
+Mayor of South East District
 <br>
-Grassroots Adviser to Marine Parade GRC GROs 
+Adviser to Marine Parade GRC GROs 
 <br>
-MP for Marine Parade GRC
