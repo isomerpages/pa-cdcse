@@ -18,7 +18,7 @@ Contact South East Magazine
 >[Contact South East Issue Jan 2022 - April 2022](https://go.gov.sg/csejan-april2022)
 
 
-<a href="(https://go.gov.sg/csesept-dec2021)">
+<a href="https://go.gov.sg/csesept-dec2021">
  <img src="/images/NewsRoom/CSE/CSE%20Sep-Dec%202021%20-%20Cover%20Page.png" style="width:auto; height:500px;">	
 
 >[Contact South East - Sept 2021 to Dec 2021](https://go.gov.sg/csesept-dec2021)
