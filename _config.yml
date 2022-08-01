@@ -1,12 +1,12 @@
 title: South East CDC
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/Logo.png
 colors:
   primary-color: "#005ec4"
   secondary-color: "#f27d00"
   media-colors:
     - title: media-color-one
-      color: "#05a8e0"
+      color: "#05b4f1"
     - title: media-color-two
       color: "#f5a623"
     - title: media-color-three
