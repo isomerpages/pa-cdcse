@@ -5,6 +5,9 @@ description: ""
 ---
 Media Releases And Speeches
 =
+**27 July 2022**:
+[Skills & Learning Festival @ South East]([](/files/Media%20Advisory%20for%20Skills%20&%20Learning%20Festival%20@%20South%20East%202022.pdf))
+
 **13 May 2022**: 
 [SHOPPING WITH AN EASE OF MIND MADE POSSIBLE BY A MEANINGFUL PARTNERSHIP](/files/MEDIA%20RELEASE%20-%20SHOPPING%20WITH%20AN%20EASE%20OF%20MIND%20MADE%20POSSIBLE%20BY%20A%20MEANINGFUL%20PARTNERSHIP.pdf)
 

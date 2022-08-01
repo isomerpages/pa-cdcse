@@ -32,15 +32,8 @@ sections:
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
-      url: https://www.cdc.gov.sg/flipbook/southeast/2022/contact-se-may-aug-2022/index.html#p=1
+      url: https://go.gov.sg/csemay-aug2022
       alt: Contact South East Magazin
       title: Contact South East
       image: /images/NewsRoom/CSE/CSE May to Aug 2022 - Cover page.png
-  - infopic:
-      title: Ever wondered which District you are residing in?
-      description: To find out, please go to cdc.gov.sg to access our District Locator.
-      button: Search now
-      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
-      image: /images/SE Map (2).png
-      alt: SE CDC Map
 ---
