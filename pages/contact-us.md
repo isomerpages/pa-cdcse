@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6432 1300
       - email: southeast_cdc@pa.gov.sg
-      - other: "Facebook: http://www.facebook.com/secdc"
+      - other: http://www.facebook.com/secdc
     title: General Enquiries & Feedback
 ---
