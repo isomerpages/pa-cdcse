@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://www.facebook.com/ndhc22southeast
+      url: https://vouchers.cdc.gov.sg/
       key_highlights:
         - title: 3M Moves @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
@@ -21,7 +21,7 @@ sections:
           description: As announced in Budget 2022, the CDCs will distribute an additional
             set of $100 CDC vouchers to each Singaporean Household in May 2022.
           url: https://vouchers.cdc.gov.sg/
-      background: /images/Landing Page Carousel/Website banner.png
+      background: /images/Landing Page Carousel/CDC VOUCHER.png
   - infobar:
       description: “You make a living by what you get. You make a life by what you
         give.” This popular saying rings true especially in the South East
