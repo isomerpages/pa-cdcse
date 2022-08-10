@@ -38,8 +38,9 @@ sections:
       image: /images/NewsRoom/CSE/CSE May to Aug 2022 - Cover page.png
   - infopic:
       title: Which district am I in?
-      description: " Scroll to the bottom of the page, enter your postal code in our
-        District Locator to find out your District's information."
+      description: Click on Find Out Now and scroll to the bottom of the page, enter
+        your postal code in our District Locator to find out your District's
+        information.
       button: Find out now
       url: https://www.pa.gov.sg/our-network/community-development-councils
       image: /images/SE Map (2).png
