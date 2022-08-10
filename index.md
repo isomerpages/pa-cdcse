@@ -37,7 +37,7 @@ sections:
       title: Contact South East
       image: /images/NewsRoom/CSE/CSE May to Aug 2022 - Cover page.png
   - infopic:
-      title: Ever wondered which district you reside in?
+      title: Which district am I in?
       description: " Scroll to the bottom of the page, enter your postal code in our
         District Locator to find out your District's information."
       button: Find out now
