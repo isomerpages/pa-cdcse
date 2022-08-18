@@ -2,7 +2,7 @@
 layout: homepage
 title: South East CDC
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Logo.png
 permalink: /
 notification: ""
 sections:
@@ -46,3 +46,4 @@ sections:
       image: /images/SE Map (2).png
       alt: SE MAP
 ---
+
