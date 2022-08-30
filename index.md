@@ -9,10 +9,10 @@ sections:
   - hero:
       url: https://vouchers.cdc.gov.sg/
       key_highlights:
-        - title: 3M Moves @ South East
+        - title: 3M Green Challenge @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
             organisations by encouraging them to do good.
-          url: https://southeast.cdc.gov.sg/what-we-do/care/3m-moves-south-east
+          url: https://southeast.cdc.gov.sg/what-we-do/future-ready/3mgreenchallenge-2022
         - title: NTUC FairPrice Walk For Rice⁺ @ South East
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
@@ -46,4 +46,3 @@ sections:
       image: /images/SE Map (2).png
       alt: SE MAP
 ---
-
