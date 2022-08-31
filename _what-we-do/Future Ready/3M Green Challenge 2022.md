@@ -10,6 +10,7 @@ third_nav_title: Future Ready
 **About 3M Green Challenge**
 
 Riding on our longstanding partnership with 3M Singapore, in its 10th year, 3M Moves @ South East has been rebranded and remains a joint effort between 3M Singapore and SE CDC. We are back to launch a sustainability campaign to encourage Singaporeans to build sustainable habits while doing good for their communities.
+![](/images/What%20We%20Do/Future%20Ready/DSC_8963.jpg)
 
 The campaign launch at Paya Lebar Quarter Plaza was officiated by Mayor Fahmi and Mr Jannik Termansen, 3M Director and Regional Head of Government Affairs & Markets.
 
