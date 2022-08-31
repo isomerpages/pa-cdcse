@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/3M Green Challenge 2022.md
       - Upcoming Events/.keep
       - Upcoming Events/SkillsFuture Advice Workshop.md
