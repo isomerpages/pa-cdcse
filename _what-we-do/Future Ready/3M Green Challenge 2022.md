@@ -5,7 +5,6 @@ description: ""
 image: /images/3mgreenBanner.jpeg
 third_nav_title: Future Ready
 ---
-
 ![3mbanner](/images/3mgreenBanner.jpeg)
 
 **About 3M Green Challenge**
