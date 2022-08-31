@@ -16,6 +16,8 @@ The campaign launch at Paya Lebar Quarter Plaza was officiated by Mayor Fahmi an
 
 This year, we hope to gather 18,000 members of the public to join us as we take sustainable actions while giving back to the vulnerable families in the South East District.
 
+![](/images/What%20We%20Do/Future%20Ready/DSC_9303.jpg)
+
 From simple actions like using recyclable bags when shopping, bringing your own utensils to take part in eco-workshops, every step counts. Together, we can create a more sustainable world for future generations!
 
 **How does 3M Green Challenge work?**
