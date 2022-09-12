@@ -28,7 +28,7 @@ Our Advisers
 
 MacPherson SMC |  | |
 | -------- | -------- | -------- |
-| <img src="/images/Who%20We%20Are/Advisers/Tin_Pei_Ling.jpg)style="width: 100px;">| Ms Tin Pei Ling |   Adviser to MacPherson SMC
+| <img src="/images/Who%20We%20Are/Advisers/Tin_Pei_Ling.jpg" style="width: 100px;">| Ms Tin Pei Ling |   Adviser to MacPherson SMC
 
 | Mountbatten SMC|||
 | -------- | -------- | -------- |
