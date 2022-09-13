@@ -5,7 +5,9 @@ description: ""
 image: /images/3mgreenBanner.jpeg
 third_nav_title: Future Ready
 ---
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpb5DNZdCUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **About 3M Green Challenge @ South East**
 
