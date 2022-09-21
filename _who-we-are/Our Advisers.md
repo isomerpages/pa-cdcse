@@ -25,3 +25,12 @@ Our Advisers
 |<img src= "/images/Who%20We%20Are/Advisers/Tan%20Chuan%20Jin.jpg" style="width: 100px;" >|Mr Tan Chuan Jin | Adviser to Marine Parade GRC GROs|
 |<img src= "/images/Who%20We%20Are/Advisers/Mohd%20Fahmi.jpg" style="width: 100px;" >|Mr Mohd Fahmi Aliman	  | Adviser to Marine Parade GRC GROs <br>Mayor of South East District|
 |<img src= "/images/Who%20We%20Are/Advisers/Siah%20Kien%20Peng.jpg" style="width: 100px;" >|Mr Seah Kean Peng	 |Adviser to Marine Parade GRC GROs |
+
+|MacPherson SMC |  | |
+| -------- | -------- | -------- |
+|<img src="/images/Who%20We%20Are/Advisers/Tin_Pei_Ling.jpg" style="width: 100px;">| Ms Tin Pei Ling | Adviser to MacPherson SMC
+
+
+| Mountbatten SMC|||
+| -------- | -------- | -------- |
+|<img src="/images/Who%20We%20Are/Advisers/Lim%20Biow%20Chuan.jpg" style="width:100px;" >|Mr Lim Biow Chuan | Adviser to MacPherson SMC |
