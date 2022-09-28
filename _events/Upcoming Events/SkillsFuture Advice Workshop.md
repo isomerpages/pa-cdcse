@@ -21,7 +21,7 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
 
 **Upcoming Runs of SkillsFuture Advice (SFA) Online Workshop @ South East:** 
 
-<table style="width:1500px;height:607px;">
+<table style="width:800px;height:607px;">
     <tbody>
         <tr style="height:61px;">
             <td style="width: 131px;"><strong>&nbsp;Date&nbsp;</strong></td>
