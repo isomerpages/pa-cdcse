@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice Workshop
-permalink: /events/Upcoming-Events/SkillsFuture-Advice-Workshop
+permalink: /events/Upcoming-Events/SkillsFuture-Advice-Workshop/
 description: ""
 third_nav_title: Upcoming Events
 ---
@@ -21,8 +21,7 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
 
 **Upcoming Runs of SkillsFuture Advice (SFA) Online Workshop @ South East:** 
 
-
-<table style="width:844px;height:607px;">
+<table style="width:800px;height:607px;">
     <tbody>
         <tr style="height:61px;">
             <td style="width: 131px;"><strong>&nbsp;Date&nbsp;</strong></td>
@@ -33,32 +32,104 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
             <td style="width:93px;"><strong>Language</strong></td>
         </tr>
         <tr style="height:93px;">
-            <td style="width:131px;">9-Sept-22</td>
-            <td style="width:91px;">Tuesday</td>
+            <td style="width:131px;">5-Oct-22</td>
+            <td style="width:91px;">Wednesday</td>
             <td style="width:164px;">
             <table border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                 </tbody>
             </table>
-            2pm - 4pm</td>
-            <td style="width:196px;"><a href="https://go.gov.sg/sentosa0909">Employability Webinar for Sentosa Job Fair</a></td>
+            12.30pm - 2pm</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Empowering Women who are Ready to Return to Work</a></td>
+       <td style="width:93px;">English&nbsp;<br />
+            </td>
+        <tr style="height:93px;">
+            <td style="width:131px;">7-Oct-22</td>
+            <td style="width:91px;">Friday</td>
+            <td style="width:164px;">3pm - 4.30pm</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Your Home-based Bakery needs a Business Plan</a></td>
+            <td style="width:93px;">English&nbsp;<br />
+            </td>
+        </tr>
+        <tr style="height:93px;">
+            <td style="width:131px;">8-Oct-22</td>
+            <td style="width:91px;">Saturday</td>
+            <td style="width:164px;">10am -1.00pm</td>
+            <td style="width:196px;"><a href="http://go.gov.sg/sesfareg "> Let’s Explore Data Analytics! </a></td>
+            <td style="width:93px;">English&nbsp;<br />
+            </td>
+<tr style="height:93px;">
+            <td style="width:131px;">8-Oct-22</td>
+            <td style="width:91px;">Saturday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            2pm - 5pm</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Create your online shop</a></td>
             <td style="width:93px;">English&nbsp;</td>
         </tr>
-        <tr style="height:93px;">
-            <td style="width:131px;">13-Sept-22</td>
-            <td style="width:91px;">Tuesday</td>
-            <td style="width:164px;">7.30pm - 9.00pm</td>
-            <td style="width:196px;"><a href="http://go.gov.sg/sesfareg">Jobs Preview with Seoul Garden</a></td>
-            <td style="width:93px;">English&nbsp;<br />
-            </td>
+   </tr>
+<tr style="height:93px;">
+            <td style="width:131px;">12-Oct-22</td>
+            <td style="width:91px;">Wednesday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            3.00pm – 4.30pm</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Freelance Graphic Designer with no experience required </a></td>
+            <td style="width:93px;">English&nbsp;</td>
         </tr>
-        <tr style="height:93px;">
-            <td style="width:131px;">15-Sept-22</td>
-            <td style="width:91px;">Thursday</td>
-            <td style="width:164px;">12pm -1.30pm</td>
-            <td style="width:196px;"><a href="http://go.gov.sg/sesfareg ">Train & Place with Acestes </a></td>
-            <td style="width:93px;">English&nbsp;<br />
-            </td>
+<tr style="height:93px;">
+            <td style="width:131px;">15-Oct-22</td>
+            <td style="width:91px;">Saturday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            10.00am – 11.30am</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Train & Place with Acestes! </a></td>
+            <td style="width:93px;">English&nbsp;</td>
         </tr>
-    </tbody>
+<tr style="height:93px;">
+            <td style="width:131px;">19-Oct-22</td>
+            <td style="width:91px;">Wednesday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            3.00pm – 4.30pm</td>
+            <<td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Data Science: A New Career Choice for Woman</a></td>
+            <td style="width:93px;">English&nbsp;</td>
+        </tr>
+<tr style="height:93px;">
+            <td style="width:131px;">26-Oct-22</td>
+            <td style="width:91px;">Wednesday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            2.30pm – 5.30pm</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> A Step Towards Active Aging (Physical Workshop @ Bedok Library)</a></td>
+            <td style="width:93px;">English&nbsp;</td>
+        </tr>
+<tr style="height:93px;">
+            <td style="width:131px;">29-Oct-22</td>
+            <td style="width:91px;">Saturday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            10.30am – 12.30pm</td>
+           <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> HCSA Open House with Food Tasting </a></td>
+            <td style="width:93px;">English&nbsp;</td>
+        </tr>
+   </tbody>
 </table>
