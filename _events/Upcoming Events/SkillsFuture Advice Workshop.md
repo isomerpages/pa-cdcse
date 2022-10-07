@@ -58,16 +58,6 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
             <td style="width:196px;"><a href="http://go.gov.sg/sesfareg "> Let’s Explore Data Analytics! </a></td>
             <td style="width:93px;">English&nbsp;<br />
             </td>
-<tr style="height:93px;">
-            <td style="width:131px;">8-Oct-22</td>
-            <td style="width:91px;">Saturday</td>
-            <td style="width:164px;">
-            <table border="0" cellspacing="0" cellpadding="0">
-                <tbody>
-                </tbody>
-            </table>
-            2pm - 5pm</td>
-            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Create your online shop</a></td>
             <td style="width:93px;">English&nbsp;</td>
         </tr>
    </tr>
@@ -131,5 +121,15 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> HCSA Open House with Food Tasting </a></td>
             <td style="width:93px;">English&nbsp;</td>
         </tr>
+				<tr style="height:93px;">
+            <td style="width:131px;">29-Oct-22</td>
+            <td style="width:91px;">Saturday</td>
+            <td style="width:164px;">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                </tbody>
+            </table>
+            2pm - 5pm</td>
+            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Create your online shop</a></td> <td style="width:93px;">English&nbsp;</td>
    </tbody>
 </table>
