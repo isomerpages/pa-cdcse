@@ -32,7 +32,7 @@ sections:
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
-      url: https://go.gov.sg/csesep-dec2022
+      url: https://go.gov.sg/csesep-dec2022v2
       alt: Contact South East Magazine
       title: Contact South East
       image: /images/NewsRoom/CSE/CSE Sep to Dec 2022 - Cover.png
