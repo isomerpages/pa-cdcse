@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/FairPrice Walk for Rice @ South East 2022.md
       - Upcoming Events/.keep
       - Upcoming Events/SkillsFuture Advice Workshop.md
