@@ -5,9 +5,18 @@ description: ""
 ---
 Media Releases 
 =
+**3 November 2022**
+[PROMOTING ACTIVE LIFESTYLE AMONGST SINGAPOREANS THROUGH A GOOD CAUSE](/files/Media%20Release%20for%20FairPrice%20Walk%20For%20Rice%20@%20South%20East%202022.pdf)
+
+**5 October 2022**
+[NFT partnership to help the vulnerable cope with the rising cost of living in the SE District](/files/MEDIA%20RELEASE%20SE%20CDC%20X%20LifesDAO%20-%20NFT%20partnership%20to%20help%20cope%20with%20the%20rising%20cost%20of%20living.pdf)
+
+**29 September 2022**
+[$135,000 DONATION DEDICATED FOR RESIDENTS FROM RENTAL UNITS](/files/Media%20Release%20for%20MacPherson%20Transition%20Grant.pdf)
+
 **31 August 2022**
-3M and South East CDC launch 3M Green Challenge @ South East to
-promote sustainability, aim to raise over $102,000 in product donations
+[3M and South East CDC launch 3M Green Challenge @ South East to
+promote sustainability, aim to raise over $102,000 in product donations](/files/SECDC%20x%203M%20Green%20Challenge%20T&C.pdf)
 
 **27 July 2022**:
 [SKILLS & LEARNING FESTIVAL @ SOUTH EAST]([](/files/Media%20Advisory%20for%20Skills%20&%20Learning%20Festival%20@%20South%20East%202022.pdf))
