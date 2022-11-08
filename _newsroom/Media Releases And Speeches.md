@@ -1,9 +1,9 @@
 ---
 title: Media Releases And Speeches
-permalink: /newsroom/Media-Releases-And-Speeches
+permalink: /newsroom/Media-Releases-And-Speeches/
 description: ""
 ---
-Media Releases And Speeches
+Media Releases 
 =
 **27 July 2022**:
 [Skills & Learning Festival @ South East]([](/files/Media%20Advisory%20for%20Skills%20&%20Learning%20Festival%20@%20South%20East%202022.pdf))
