@@ -1,10 +1,9 @@
 ---
 title: The Light Within – Mental Wellness Digital Series
-permalink: /what-we-do/Resilience/the-light-within
+permalink: /what-we-do/Resilience/the-light-within/
 description: The Light Within – Mental Wellness Digital Series
 third_nav_title: Resilience
 ---
-
 The Light Within – Mental Wellness Digital Series
 ==
 **PROMOTING MENTAL HEALTH AWARENESS AMONGST YOUTH IN SOUTH EAST**
@@ -22,4 +21,4 @@ The Light Within @ ITE CE
 
 In the upcoming months, we will be bringing this programme to more schools in the South East District.
 
-**For more information on our mental resilience programmes, do reach out to Mr. Keegan Lim at [Keegan_LIM@pa.gov.sg](Keegan_LIM@pa.gov.sg)**
+**For more information on our mental resilience programmes, do reach out to Miss Ang Pei Wen at email [ang_pei_wen@pa.gov.sg](ang_pei_wen@pa.gov.sg)**

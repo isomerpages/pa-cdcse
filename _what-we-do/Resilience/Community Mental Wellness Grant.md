@@ -1,6 +1,6 @@
 ---
 title: Community Mental Wellness Grant
-permalink: /what-we-do/Resilience/communitymentalwellnessgrant
+permalink: /what-we-do/Resilience/communitymentalwellnessgrant/
 description: ""
 third_nav_title: Resilience
 ---
@@ -35,4 +35,4 @@ The grant call is open to partners located in the South East District or benefit
 
 **For more information:**
 If you are interested to bring mental health awareness to your community, kindly contact:
-Ms Koh Zhenru at [KOH_Zhenru@pa.gov.sg](KOH_Zhenru@pa.gov.sg)
+Miss Xam Teo at [Xam_teo@pa.gov.sg](Xam_teo@pa.gov.sg)
