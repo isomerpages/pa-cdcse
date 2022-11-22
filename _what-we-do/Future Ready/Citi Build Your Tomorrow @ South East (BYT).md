@@ -1,6 +1,6 @@
 ---
 title: Citi Build Your Tomorrow @ South East (BYT)
-permalink: /what-we-do/Future-Ready/Citi-Build-Your-Tomorrow-SouthEast
+permalink: /what-we-do/Future-Ready/Citi-Build-Your-Tomorrow-SouthEast/
 description: ""
 third_nav_title: Future Ready
 ---
@@ -23,4 +23,4 @@ Subsequently in 2021, mentorship workshops were added to provide students opport
 If you are an corporate partner, join us to help equip students and provide opportunities such as talks, workshops and internships.
 If you are a student/school, join us to pick up relevant skills and knowledge for the workforce.
  
-**For more information, please contact Mr Koh Jia Yi at email [koh_jia_yi@pa.gov.sg](koh_jia_yi@pa.gov.sg)**
+**For more information, please contact Miss Ang Pei Wen at email [ang_pei_wen@pa.gov.sg](ang_pei_wen@pa.gov.sg)**
