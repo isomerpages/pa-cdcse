@@ -40,7 +40,7 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
                 </tbody>
             </table>
             2.00pm – 5.00pm</td>
-            <td style="width:196px;"> <a href="[Microsoft Forms (office.com)](https://forms.office.com/pages/responsepage.aspx?id=XLKiWAViE02DOJ1yJ4F1BVEbybA9ylJIiPiYYLTUv_5UOEtGRVhRSjA2NFRMTTc1Vks2NVJUUjNHMyQlQCN0PWcu)"> Create a shop on TikTok</a></td>
+            <td style="width:196px;"> <a href="forms.office.com/pages/responsepage.aspx?id=XLKiWAViE02DOJ1yJ4F1BVEbybA9ylJIiPiYYLTUv_5UOEtGRVhRSjA2NFRMTTc1Vks2NVJUUjNHMyQlQCN0PWcu)"> Create a shop on TikTok</a></td>
             <td style="width:93px;">English&nbsp;</td>
         </tr>   
    </tbody>
