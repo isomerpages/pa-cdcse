@@ -21,7 +21,7 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
 
 **Upcoming Runs of SkillsFuture Advice (SFA) Online Workshop @ South East:** 
 
-<table style="width:800px;height:607px;">
+<table style="width:800px;height:300px;">
     <tbody>
         <tr style="height:61px;">
             <td style="width: 131px;"><strong>&nbsp;Date&nbsp;</strong></td>
@@ -30,51 +30,18 @@ Join our SkillsFuture Advice workshop today for a fun and stimulating time. Sign
             <td style="width:196px;"><strong>Workshop Title</strong><br />
             <strong>&nbsp;Registration URL</strong></td>
             <td style="width:93px;"><strong>Language</strong></td>
-        </tr>
-       
+			</tr>
 <tr style="height:93px;">
-            <td style="width:131px;">26-Oct-22</td>
-            <td style="width:91px;">Wednesday</td>
+            <td style="width:131px;">16-Dec-22</td>
+            <td style="width:91px;">Friday</td>
             <td style="width:164px;">
             <table border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                 </tbody>
             </table>
-            2.30pm – 5.30pm</td>
-            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> A Step Towards Active Aging (Physical Workshop @ Bedok Library)</a></td>
+            2.00pm – 5.00pm</td>
+            <td style="width:196px;"> <a href="https://tinyurl.com/medanki-digismart"> Create a shop on TikTok</a></td>
             <td style="width:93px;">English&nbsp;</td>
-        </tr>
-<tr style="height:93px;">
-            <td style="width:131px;">29-Oct-22</td>
-            <td style="width:91px;">Saturday</td>
-            <td style="width:164px;">
-            <table border="0" cellspacing="0" cellpadding="0">
-                <tbody>
-                </tbody>
-            </table>
-            10.30am – 12.30pm</td>
-           <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> HCSA Open House with Food Tasting </a></td>
-            <td style="width:93px;">English&nbsp;</td>
-        </tr>
-				<tr style="height:93px;">
-            <td style="width:131px;">29-Oct-22</td>
-            <td style="width:91px;">Saturday</td>
-            <td style="width:164px;">
-            <table border="0" cellspacing="0" cellpadding="0">
-                <tbody>
-                </tbody>
-            </table>
-            2pm - 5pm</td>
-            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Create your online shop</a></td> <td style="width:93px;">English&nbsp;</td>
-					<tr style="height:93px;">
-            <td style="width:131px;">19-Nov-22</td>
-            <td style="width:91px;">Saturday</td>
-            <td style="width:164px;">
-            <table border="0" cellspacing="0" cellpadding="0">
-                <tbody>
-                </tbody>
-            </table>
-            9am - 12pm</td>
-            <td style="width:196px;"> <a href="http://go.gov.sg/sesfareg"> Create your online shop</a></td> <td style="width:93px;">English&nbsp;</td>
+        </tr>   
    </tbody>
 </table>
