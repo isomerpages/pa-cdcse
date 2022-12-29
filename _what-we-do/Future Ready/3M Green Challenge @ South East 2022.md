@@ -5,10 +5,11 @@ description: ""
 image: /images/3mgreenBanner.jpeg
 third_nav_title: Future Ready
 ---
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fpb5DNZdCUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYzxab-PPKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Our First-Edition of the 3M Green Challenge @ South East ended on a high note, with more than $102,000 worth of 3M Household products raised for 3,000 vulnerable families in the South East District and having our youths from Anglican High School to immerse in the community happenings as they went on door-to door distribution to 120 households alongside the ur team from South East CDC and volunteers from The Sustainability Project.
+
 
 **About 3M Green Challenge @ South East**
 
@@ -55,25 +56,6 @@ Some examples of actions you can take to be part of the campaign:
 
 11.  Others
 
-**Want to win attractive prizes?**
-
-Here's how:  
-  
-1\. Like this post and follow  
-us @secdc and @3MSingapore  
-  
-2\. Share your act of eco-activity through a post with the hashtags #3MGreenChallenge #SoutheastCDC  
-  
-3\. Every act of eco-activity will earn you 1 entry point and will also earn one 3M product for vulnerable families!  
-  
-4\. The more you tag us your various eco-activities the higher chances of winning!\*  
-  
-Prizes to be won:  
-\- Top 3 entries will win $100 vouchers (The top 3 will be chosen based on most points earned through every act of eco activity)  
-\- 10 participation prizes ($20 vouchers)  
-  
-Disclaimer:  
-\*Each eco-activity will only be counted as 1 entry point, participants will have to tag us in different eco-activity posts to accumulate more points  
- 
- 
- [3M Green Challenge x SE CDC T&Cs](/files/SECDC%20x%203M%20Green%20Challenge%20T&C.pdf)
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fpb5DNZdCUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
