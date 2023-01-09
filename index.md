@@ -17,9 +17,9 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
-        - title: CDC VOUCHERS SCHEME
-          description: As announced in Budget 2022, the CDCs will distribute an additional
-            set of $100 CDC vouchers to each Singaporean Household in May 2022.
+        - title: CDC VOUCHERS SCHEME 2023
+          description: In January 2023, every Singaporean household will receive a total
+            of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/WFR Banner 3000 X 1000 with POC.jpg
   - infobar:
