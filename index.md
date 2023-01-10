@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://go.gov.sg/fpwfr2022
+      url: https://vouchers.cdc.gov.sg/
       key_highlights:
         - title: 3M Green Challenge @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
@@ -21,7 +21,7 @@ sections:
           description: In January 2023, every Singaporean household will receive a total
             of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
-      background: /images/Landing Page Carousel/WFR Banner 3000 X 1000 with POC.jpg
+      background: /images/Landing Page Carousel/Cover Banner.png
   - infobar:
       description: “You make a living by what you get. You make a life by what you
         give.” This popular saying rings true especially in the South East
