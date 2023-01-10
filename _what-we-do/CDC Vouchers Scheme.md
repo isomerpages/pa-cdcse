@@ -3,7 +3,8 @@ title: CDC Vouchers Scheme
 permalink: /what-we-do/cdcvouchers/
 description: ""
 ---
-![CDC Vouchers 2023]()
+![CDC Vouchers 2023](/images/Landing%20Page%20Carousel/CDC%20V%202023.png)
+
 **About CDC Vouchers Scheme 2023**
 ============================
 Every Singaporean household will receive a total of **$300 CDC Vouchers on 3 January 2023.**
