@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - CDC Vouchers Scheme.md
       - Overview.md
       - Care/.keep
       - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
