@@ -21,7 +21,7 @@ sections:
           description: In January 2023, every Singaporean household will receive a total
             of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
-      background: /images/Landing Page Carousel/CDC V 2023.png
+      background: /images/Landing Page Carousel/Cover Banner.png
   - infobar:
       description: “You make a living by what you get. You make a life by what you
         give.” This popular saying rings true especially in the South East
