@@ -7,7 +7,7 @@ Contact South East Magazine
 ===
 
 <a href="https://go.gov.sg/csejan-apr2023">
- <img src="/images/NewsRoom/CSE/CSE%20Sep-Dec%202021%20-%20Cover%20Page.png" style="width:auto; height:500px;">	
+ <img src="/images/NewsRoom/CSE/CSE%20Jan-Apr%202023%20-%20Cover%20Page.png" style="width:auto; height:500px;">	
 
 >[Contact South East - Jan 2023 to Apr 2023](https://go.gov.sg/csejan-apr2023)
 
