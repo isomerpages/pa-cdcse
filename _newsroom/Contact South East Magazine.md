@@ -18,7 +18,7 @@ Contact South East Magazine
 >[Contact South East Issue Sep 2022 - Dec 2022](https://go.gov.sg/csesep-dec2022v2) 
 	
 	
-<a href="https://go.gov.sg/csemay-aug2022v2">
+<a href="https://go.gov.sg/csemay-aug2022">
  <img src="/images/NewsRoom/CSE/CSE%20May%20to%20Aug%202022%20-%20Cover%20page.png" style="width:auto; height:500px;">
 
 >[Contact South East Issue May 2022 - Aug 2022](https://go.gov.sg/csemay-aug2022) 
