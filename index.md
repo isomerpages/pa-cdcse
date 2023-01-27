@@ -32,10 +32,10 @@ sections:
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
-      url: https://go.gov.sg/csesep-dec2022v2
+      url: https://go.gov.sg/csejan-apr2023
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/CSE Sep to Dec 2022 - Cover.png
+      image: /images/NewsRoom/CSE/CSE Jan-Apr 2023 - Cover Page.png
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
