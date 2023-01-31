@@ -33,4 +33,4 @@ Our Advisers
 
 | Mountbatten SMC|||
 | -------- | -------- | -------- |
-|<img src="/images/Who%20We%20Are/Advisers/Lim%20Biow%20Chuan.jpg" style="width:100px;" >|Mr Lim Biow Chuan | Adviser to MacPherson SMC |
+|<img src="/images/Who%20We%20Are/Advisers/Lim%20Biow%20Chuan.jpg" style="width:100px;" >|Mr Lim Biow Chuan | Adviser to Mountbatten SMC |
