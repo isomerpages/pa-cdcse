@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /who-we-are/Introduction
+permalink: /who-we-are/Introduction/
 description: ""
 ---
 Introduction
@@ -13,9 +13,9 @@ To build an active and vibrant South East District where residents and stakehold
 
 **Mission**
 
-*   Assist the needy 
-*   Bond the people 
-*   Connect the Community 
+*   Aggregator of Needs and Resources 
+*   Builder of Capability and Capacity in Partners & Networks
+*   Connector of Communities
 
 **Key Thrusts**
 
@@ -37,7 +37,7 @@ The South East Community Development Council (CDC) was set up on 24 November 200
 
 **Your Social Broker** 
 
-At the helm of South East CDC is Mayor Fahmi Aliman, who leads the team in fulfilling the CDC’s function – an Aggregator of Needs and Resources, Builder of Capability and Capacity in Partners and Networks and Connector of Communities. With these tenets in mind, we hope to build a community, with our residents and stakeholders, where everyone can feel a sense of belonging and pride. 
+At the helm of South East CDC is Mayor Fahmi Aliman, who leads the team in fulfilling the CDC’s mission – an Aggregator of Needs and Resources, Builder of Capability and Capacity in Partners and Networks and Connector of Communities. With these tenets in mind, we hope to build a community, with our residents and stakeholders, where everyone can feel a sense of belonging and pride. 
 
 As your social broker, we work closely with our partners to support, facilitate and empower community-initiated projects. Our doors are always open to proposals from schools, non-profit organisations, corporate companies and individuals; we are happy to provide the platform for you to reach out to the community or assist a family in need. We believe that everyone can make a difference and we welcome the chance to help you achieve that difference!
 
