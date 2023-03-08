@@ -3,7 +3,7 @@ title: Mayor's Message
 permalink: /who-we-are/Mayors-Message/
 description: ""
 ---
-<img src= "/images/Mayor/KEL_0821%20LR.jpg" style="width: 350px;" align = "right">
+<img src= "/images/Mayor/KEL_0742%20LR.jpg" style="width: 350px;" align = "right">
 	
 **Dear Residents and Friends,**
 
