@@ -23,9 +23,9 @@ sections:
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/Cover Banner.png
   - infobar:
-      description: “You make a living by what you get. You make a life by what you
-        give.” This popular saying rings true especially in the South East
-        District .....
+      description: '"Doing good does not have to be a solo activity; in fact, your
+        employer might already have a corporate social responsibility programme
+        to engage and benefit.. "'
       button: READ MORE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message

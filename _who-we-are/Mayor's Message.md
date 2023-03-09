@@ -1,30 +1,22 @@
 ---
 title: Mayor's Message
-permalink: /who-we-are/Mayors-Message
+permalink: /who-we-are/Mayors-Message/
 description: ""
 ---
-<img src= "/images/Mayor/KEL_0821%20LR.jpg" style="width: 350px;" align = "right">
+<img src= "/images/Mayor/KEL_0742%20LR.jpg" style="width: 300px;" align = "right">
 	
 **Dear Residents and Friends,**
 
-“You make a living by what you get. You make a life by what you
-give.” This popular saying rings true especially in the South East
-District, where countless residents and partners have set aside
-time and energy to champion our community. Their dedication and
-energy never fail to inspire me.
+Warm wishes for 2023! The dawn of a new year is a chance to take stock of our lives and focus on the things that really matter. As we do this, I hope that we will each think about the ways we can better our community. 
 
-For many, this spirit of community and volunteerism was
-nurtured at a young age, which you can find out more about through
-the various articles in this issue. But it also lives on, as students
-grow up to become working adults and seniors. Despite their busy
-schedules and heavy commitments, many South East residents have answered the call to give back in whatever way they can. Some gladly take on roles in our flagship programmes.
-I spoke to some of them during a recent volunteer appreciation event and learnt that they find being close to the ground and supporting beneficiaries an enriching experience.
+Doing good does not have to be a solo activity; in fact, your employer might already have a corporate social responsibility programme to engage and benefit the community around them. Joining such initiatives is one way to connect with colleagues while making a difference. That is certainly the case for staff of organisations like Singapore Airlines, Vision Direct Club and Development Bank of Singapore Limited (DBS), that had organised programmes to brighten the lives of our seniors.
 
-Others, such as our District Councillors who come from various professions, enjoy seeing issues from a wider lens. They contribute actively to the South East District by working closely with our community partners to fulfil South East CDC’s three main thrusts, in its role as an Aggregator of Needs and Resources; Builder of Capability and Capacity in Partners and Networks; and Connector of Communities. We work closely with our District Councillors, community and corporate partners to keep our eyes and ears close to the ground, to identify emerging gaps and needs.
+Here at the South East CDC, we want to make it easy to give back. Through partnerships with organisations like the FairPrice Foundation, we have shown that doing good can be easily integrated into daily activities like shopping for groceries. For a sense of how this is done, read about our successful FairPrice 
+Walk for Rice+ @ South East this year. A big thank you to all of you who have put your best feet forward for the community! The hundreds of thousands of bowls of rice raised through FairPrice Walk for Rice+ @ South East go a long way towards helping vulnerable households cope with the cost of living. 
 
-As such, we set up three committees to sharpen our engagements and programmes, and make them more effective and targeted towards our focal areas. The Care Committee taps on the community’s existing strengths and resources to create accessible and sustainable platforms to encourage the spirit of giving back. The Resilience Committee aims to build resilient communities and individuals by promoting greater awareness of mental health as well as racial and religious harmony, through building bridges and deepening understanding. Finally, the Future Ready Committee seeks to develop a community that is ready for tomorrow’s challenges by supporting skills upgrading, lifelong learning and
-active employment. These are not easy goals to achieve but I am confident that under the stewardship of our Committee leads, we will be successful.
-Together, we all work as one to attain our vision of an active and vibrant South East District.
+Similarly, the community’s embrace of programmes like the St Andrew’s Autism Centre’s hydroponics programme allows people with moderate to severe autism to reap the benefits of work, in spite of their challenging circumstances. This is just one example of efforts that are being undertaken to promote a more inclusive society, where everyone is seen as a valued member, regardless of their abilities.
+I hope these stories will inspire you to make your own impact felt in the community. 
+
  
 Best Wishes,
 
