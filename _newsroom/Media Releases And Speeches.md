@@ -5,6 +5,10 @@ description: ""
 ---
 Media Releases 
 =
+**11 March 2023**
+Neighbours For Active Living Programme by Changi General Hospital and South East Community Development Council celebrates 10 years
+of care in the community[](/files/Media%20Release_Neighbours%20For%20Active%20Living%20Programme%20by%20CGH%20and%20SECDC.pdf)
+
 **3 November 2022**
 [PROMOTING ACTIVE LIFESTYLE AMONGST SINGAPOREANS THROUGH A GOOD CAUSE](/files/Media%20Release%20for%20FairPrice%20Walk%20For%20Rice%20@%20South%20East%202022.pdf)
 
@@ -30,5 +34,3 @@ promote sustainability, aim to raise over $102,000 in product donations](/files/
 **18 March 2022**:
 [ EQUIPPING YOUTH IN THE SOUTH EAST DISTRICT WITH SKILLS FOR THE FUTURE](/files/Media%20Release%20for%20South%20East%20CDC's%20Trade%20Skills%20Introductory%20Series.pdf)
 
-**19 Feb 2022**:
-[ VOLUNTEERS GO THE EXTRA MILE IN SUPPORTING SENIORS](/files/Media%20Release%20for%20Neighbours%20for%20Active%20Living%20–%20Volunteers’%20Appreciation%20Day%202022.pdf)
