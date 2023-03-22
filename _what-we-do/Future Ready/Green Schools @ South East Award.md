@@ -1,6 +1,6 @@
 ---
 title: Green Schools @ South East Award
-permalink: /what-we-do/Future-Ready/Green-Schools-SouthEast-Award
+permalink: /what-we-do/Future-Ready/Green-Schools-SouthEast-Award/
 description: ""
 third_nav_title: Future Ready
 ---
@@ -11,44 +11,42 @@ Green Schools @ South East Award
 
 The Green Schools @ South East Award aims to recognise and honour Schools in the South East District for their efforts put in to carry out projects to protect and sustain the environment and to reach out to their students and/or the community on environmental issues.
 
-**Here are the winners for Green Schools @ South East Awards 2021:**
+**Here are the winners for Green Schools @ South East Awards 2022:**
 
-<U>Certification of Participation</U>
-1. Bedok South Secondary School
+**<U>Certification of Participation</U>**
+1. Bedok View Secondary School
+2. St Patrick's School
 
-<U>Certificate of Merit</u>
+**<U>Certificate of Merit</u>**
+
+1.  Opera Estate Primary School
+2.  St. Anthony's Canossian Secondary School
+
+**<u>Excellence Award </u>**
 
 1.  Changkat Changi Secondary School
-2.  Maha Bodhi School
-3.  St. Anthony's Canossian Secondary School
-4.  Temasek Primary School
-5.  CHIJ (Katong) Primary
-6.  Opera Estate Primary School
-7.  Ping Yi Secondary School
-8.  Singapore  University of Technology & Design (SUTD)
+2.  St Anthony's Canossian Primary School
+3.  Maha Bodhi School
+4.  St. Gabriel's Secondary School
+5. CHIJ(Katong) Primary
+6.  Temasek Secondary School
+7.  Temasek Primary School
 
-<u>Excellence Award </u>
+**<u>Sustained Excellence Award  </u>**
 
 1.  Canossa Catholic Primary School
-2.  St. Gabriel's Secondary School
-3.  Tanjong Katong Secondary School
-4.  Temasek Secondary School
-
-<u>Sustained Excellence Award  </u>
-
-1.  Anglican High School
 2.  Bedok Green Primary School
 3.  Bedok Green Secondary School
-4.  Broadrick Secondary School
-5.  Eunos Primary School
-6.  Haig Girls' School
-7.  Kong Hwa School
-8.  Nanyang Junior College
-9.  Tao Nan School
-10.  Changkat Primary School
-11.  St. Anthony's Canossian Primary School
+4.  Changkat Primary School
+5.  Haig Girls' School
+6.  Kong Hwa School
+7.  Nanyang Junior College
+8.  Tao Nan School
+9.  Tanjong Katong Primary School
+10. Tanjong Katong Secondary School
 
-<u>Sustained Excellence Honorary Award  </u>
+
+**<u>Sustained Excellence Honorary Award  </u>**
 
 1.  Geylang Methodist School (Primary)
 2.  Yangzheng Primary School
