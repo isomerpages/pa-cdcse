@@ -42,7 +42,7 @@ sections:
         your postal code in our District Locator to find out your District's
         information.
       button: Find out now
-      url: https://www.pa.gov.sg/our-network/community-development-councils
+      url: https://www.gowhere.gov.sg/cdc
       image: /images/SE Map (2).png
       alt: SE MAP
 ---
