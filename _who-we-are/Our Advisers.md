@@ -1,6 +1,6 @@
 ---
 title: Our Advisers
-permalink: /who-we-are/Our-Advisers/
+permalink: /who-we-are/our-advisers/
 description: ""
 ---
 Our Advisers

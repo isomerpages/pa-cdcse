@@ -1,6 +1,6 @@
 ---
 title: Contact South East Magazine
-permalink: /newsroom/Contact-South-East-Magazine/
+permalink: /newsroom/contact-south-east-magazine/
 description: ""
 ---
 Contact South East Magazine

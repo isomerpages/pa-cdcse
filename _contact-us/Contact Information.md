@@ -1,6 +1,6 @@
 ---
 title: Contact Information
-permalink: /contact-us/Contact-Information
+permalink: /contact-us/contact-information/
 description: ""
 ---
 **CONTACT INFORMATION**

@@ -1,6 +1,6 @@
 ---
 title: Mayor's Message
-permalink: /who-we-are/Mayors-Message/
+permalink: /who-we-are/mayors-message/
 description: ""
 ---
 <img src= "/images/Mayor/KEL_0742%20LR.jpg" style="width: 300px;" align = "right">

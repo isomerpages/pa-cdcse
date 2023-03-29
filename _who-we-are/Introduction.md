@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /who-we-are/Introduction/
+permalink: /who-we-are/introduction/
 description: ""
 ---
 Introduction
