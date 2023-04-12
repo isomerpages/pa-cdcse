@@ -21,4 +21,4 @@ The Light Within @ ITE CE
 
 In the upcoming months, we will be bringing this programme to more schools in the South East District.
 
-**For more information on our mental resilience programmes, do reach out to Miss Ang Pei Wen at email [ang_pei_wen@pa.gov.sg](ang_pei_wen@pa.gov.sg)**
+**For more information on our mental resilience programmes, do reach out to Mr Azhar at email [Azhar_AZMI@pa.gov.sg](Azhar_AZMI@pa.gov.sg)**
