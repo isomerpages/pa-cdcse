@@ -35,4 +35,4 @@ The grant call is open to partners located in the South East District or benefit
 
 **For more information:**
 If you are interested to bring mental health awareness to your community, kindly contact:
-Miss Xam Teo at [Xam_teo@pa.gov.sg](Xam_teo@pa.gov.sg)
+Mr Azhar at [Azhar_AZMI@pa.gov.sg](Azhar_AZMI@pa.gov.sg)
