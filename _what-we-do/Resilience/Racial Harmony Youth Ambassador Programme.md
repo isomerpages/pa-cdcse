@@ -1,6 +1,6 @@
 ---
 title: Racial Harmony Youth Ambassador Programme
-permalink: /what-we-do/Resilience/Racial-Harmony-Youth-Ambassador-Programme
+permalink: /what-we-do/resilience/racial-harmony-youth-ambassador-programme/
 description: ""
 third_nav_title: Resilience
 ---

@@ -1,6 +1,6 @@
 ---
 title: "'Being Human' Interfaith Dialogue"
-permalink: /what-we-do/Resilience/Being-Human-Interfaith-Dialogue
+permalink: /what-we-do/resilience/being-human-interfaith-dialogue/
 description: ""
 third_nav_title: Resilience
 ---

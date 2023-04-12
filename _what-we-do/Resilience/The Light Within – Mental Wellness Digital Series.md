@@ -1,6 +1,6 @@
 ---
 title: The Light Within – Mental Wellness Digital Series
-permalink: /what-we-do/Resilience/the-light-within/
+permalink: /what-we-do/resilience/the-light-within/
 description: The Light Within – Mental Wellness Digital Series
 third_nav_title: Resilience
 ---

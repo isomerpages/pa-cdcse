@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice
-permalink: /what-we-do/Future-Ready/SkillsFuture-Advice
+permalink: /what-we-do/future-ready/skillsfuture-advice/
 description: ""
 third_nav_title: Future Ready
 ---

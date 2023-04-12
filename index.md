@@ -4,7 +4,9 @@ title: South East CDC
 description: An Isomer site of the Singapore Government
 image: /images/Logo.png
 permalink: /
-notification: ""
+notification: There will be a scheduled downtime on all CDC websites on 17
+  April. The website may not be available during this period. We apologise for
+  the inconvenience caused.
 sections:
   - hero:
       url: https://vouchers.cdc.gov.sg/

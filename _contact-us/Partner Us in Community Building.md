@@ -1,6 +1,6 @@
 ---
 title: Partner Us in Community Building
-permalink: /contact-us/Partner-us-in-community-building
+permalink: /contact-us/partner-us-in-community-building/
 description: ""
 ---
 

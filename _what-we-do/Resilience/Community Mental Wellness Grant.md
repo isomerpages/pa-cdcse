@@ -1,6 +1,6 @@
 ---
 title: Community Mental Wellness Grant
-permalink: /what-we-do/Resilience/communitymentalwellnessgrant/
+permalink: /what-we-do/resilience/communitymentalwellnessgrant/
 description: ""
 third_nav_title: Resilience
 ---
