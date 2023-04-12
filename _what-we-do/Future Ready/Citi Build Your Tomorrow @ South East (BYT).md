@@ -23,4 +23,4 @@ Subsequently in 2021, mentorship workshops were added to provide students opport
 If you are an corporate partner, join us to help equip students and provide opportunities such as talks, workshops and internships.
 If you are a student/school, join us to pick up relevant skills and knowledge for the workforce.
  
-**For more information, please contact Miss Ang Pei Wen at email [ang_pei_wen@pa.gov.sg](ang_pei_wen@pa.gov.sg)**
+**For more information, please contact Mr Azhar at email [Azhar_AZMI@pa.gov.sg](Azhar_AZMI@pa.gov.sg)**
