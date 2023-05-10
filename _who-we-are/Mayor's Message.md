@@ -3,19 +3,34 @@ title: Mayor's Message
 permalink: /who-we-are/mayors-message/
 description: ""
 ---
-<img src= "/images/Mayor/KEL_0742%20LR.jpg" style="width: 300px;" align = "right">
+<img src="/images/Mayor/kel_0857lr.jpg" style="width: 300px;" align="right">
 	
 **Dear Residents and Friends,**
 
-Warm wishes for 2023! The dawn of a new year is a chance to take stock of our lives and focus on the things that really matter. As we do this, I hope that we will each think about the ways we can better our community. 
+Singapore is always evolving: in October 1983, the first phase of the Mass Rapid Transit (MRT) North-South Line construction began in earnest. Fast forward 40 years and we are opening stations along the Thomson-East Coast
+Line, with the next phase of this sixth MRT line connecting many residents via the new stations in the South East divisions from 2024. Improving public transport is key to achieving a more sustainable Singapore, which will remain
+an important <br> priority for now and the future.
 
-Doing good does not have to be a solo activity; in fact, your employer might already have a corporate social responsibility programme to engage and benefit the community around them. Joining such initiatives is one way to connect with colleagues while making a difference. That is certainly the case for staff of organisations like Singapore Airlines, Vision Direct Club and Development Bank of Singapore Limited (DBS), that had organised programmes to brighten the lives of our seniors.
+On this front, I am glad that South East CDC has encouraged residents to
+lead greener lives. For example, our longstanding partnership with 3M returned
+with a twist last year: The 3M Green Challenge encouraged residents to pick up
+simple eco-friendly habits, such as taking public transport where possible and
+upcycling old products into new items. As always, many of our residents joined
+the cause, and in doing so, raised more than $100,000 worth of supplies for
+needy residents.
 
-Here at the South East CDC, we want to make it easy to give back. Through partnerships with organisations like the FairPrice Foundation, we have shown that doing good can be easily integrated into daily activities like shopping for groceries. For a sense of how this is done, read about our successful FairPrice 
-Walk for Rice+ @ South East this year. A big thank you to all of you who have put your best feet forward for the community! The hundreds of thousands of bowls of rice raised through FairPrice Walk for Rice+ @ South East go a long way towards helping vulnerable households cope with the cost of living. 
-
-Similarly, the community’s embrace of programmes like the St Andrew’s Autism Centre’s hydroponics programme allows people with moderate to severe autism to reap the benefits of work, in spite of their challenging circumstances. This is just one example of efforts that are being undertaken to promote a more inclusive society, where everyone is seen as a valued member, regardless of their abilities.
-I hope these stories will inspire you to make your own impact felt in the community. 
+Even as some things in Singapore change, I am comforted that other aspects of
+our country remain the same. As we look forward to celebrating the nation’s birthday in August, let us also remember Racial Harmony Day, which falls on 21 July.
+Younger ones may not realise how fragile our racial harmony can be. However,
+I am certain that older Singaporeans will know how hard-fought a victory it has
+been. South East CDC remains committed to safeguarding this precious value
+for generations to come through programmes such as the Racial Harmony Youth
+Ambassador Experience Camp.
+Finally, as we treat COVID-19 as an endemic, the time is right to give recognition to those who have played their part in helping us overcome the crisis of our generation. Many everyday Singaporeans have been recognised with the National Awards (COVID-19) for their outstanding, ‘above and
+beyond duty’ contributions and sacrifices towards the nation's fight against the
+pandemic. Join me in thanking them for their tireless and selfless service to our country and community.
+I hope the upcoming National Day holiday will be a time for family and community.
+Happy Birthday, Singapore! 
 
  
 Best Wishes,

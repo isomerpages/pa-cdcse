@@ -23,19 +23,18 @@ sections:
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/Cover Banner.png
   - infobar:
-      description: '"Doing good does not have to be a solo activity; in fact, your
-        employer might already have a corporate social responsibility programme
-        to engage and benefit.. "'
+      description: '"Join me in thanking National Awards (COVID-19) winners for their
+        tireless and selfless service to our country and community..."'
       button: READ MORE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
       button: Read More
-      url: https://go.gov.sg/csejan-apr2023
+      url: https://go.gov.sg/csemay-aug2023
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/CSE Jan-Apr 2023 - Cover Page.png
+      image: /images/NewsRoom/CSE/contact se may-aug 2023.png
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
