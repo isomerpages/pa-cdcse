@@ -35,7 +35,7 @@ sections:
       url: https://go.gov.sg/csejan-apr2023
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/CSE Jan-Apr 2023 - Cover Page.png
+      image: /images/NewsRoom/CSE/contact se may-aug 2023.png
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
