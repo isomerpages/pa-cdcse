@@ -23,9 +23,8 @@ sections:
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/Cover Banner.png
   - infobar:
-      description: '"Doing good does not have to be a solo activity; in fact, your
-        employer might already have a corporate social responsibility programme
-        to engage and benefit.. "'
+      description: '"Join me in thanking National Awards (COVID-19) winners for their
+        tireless and selfless service to our country and community..."'
       button: READ MORE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
