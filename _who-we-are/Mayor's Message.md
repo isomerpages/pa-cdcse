@@ -3,13 +3,13 @@ title: Mayor's Message
 permalink: /who-we-are/mayors-message/
 description: ""
 ---
-<img src="/images/Mayor/KEL_0742%20LR.jpg" style="width: 300px;" align="right">
+<img src="/images/Mayor/kel_0857lr.jpg" style="width: 300px;" align="right">
 	
 **Dear Residents and Friends,**
 
 Singapore is always evolving: in October 1983, the first phase of the Mass Rapid Transit (MRT) North-South Line construction began in earnest. Fast forward 40 years and we are opening stations along the Thomson-East Coast
 Line, with the next phase of this sixth MRT line connecting many residents via the new stations in the South East divisions from 2024. Improving public transport is key to achieving a more sustainable Singapore, which will remain
-an important priority for now and the future.
+an important <br> priority for now and the future.
 
 On this front, I am glad that South East CDC has encouraged residents to
 lead greener lives. For example, our longstanding partnership with 3M returned
