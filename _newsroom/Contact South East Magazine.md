@@ -7,12 +7,13 @@ Contact South East Magazine
 ===
 <a href="https://go.gov.sg/csemay-aug2023">
 &nbsp;<img src="/images/NewsRoom/CSE/contact%20se%20may-aug%202023.png" style="width:auto; height:500px;">
-
+	
 [Contact South East Issue May 2023 - Aug 2023](https://go.gov.sg/csemay-aug2023) 
 </a><a href="https://go.gov.sg/csejan-apr2023">
 &nbsp;<img src="/images/NewsRoom/CSE/CSE%20Jan-Apr%202023%20-%20Cover%20Page.png" style="width:auto; height:500px;">	
 
 [Contact South East - Jan 2023 to Apr 2023](https://go.gov.sg/csejan-apr2023)
+
 </a><a href="https://go.gov.sg/csesep-dec2022v2">
 <img src="/images/NewsRoom/CSE/CSE%20Sep%20to%20Dec%202022%20-%20Cover.png" style="width:auto; height:500px;">
 
