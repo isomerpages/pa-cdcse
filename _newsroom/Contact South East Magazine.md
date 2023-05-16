@@ -23,5 +23,4 @@ Contact South East Magazine
 	
 </a><a href="https://go.gov.sg/csejan-april2022">&nbsp;<img src="/images/NewsRoom/CSE/CSE%20Jan-Apr%202021%20-%20Cover%20Page.png" style="width:auto; height:500px;">	
 
-[Contact South East Issue Jan 2022 - April 2022](https://go.gov.sg/csejan-april2022)
-</a>
+[Contact South East Issue Jan 2022 - April 2022](https://go.gov.sg/csejan-april2022)</a>
