@@ -6,8 +6,8 @@ third_nav_title: Resilience
 ---
 MAYOR'S HARMONY FUSTAL CHALLENGE @ SOUTH EAST 2023
 ==
-Score big in our first-ever harmony futsal match!
-Join us to learn about social inclusivity and build connections through a 5 on 5 futsal competition.
+![futsal challenge](/images/What%20We%20Do/Resilience/mayor%20futsal%20challenge%20a4%20poster_fa_path.jpg)
+
 
 **ARE YOU UP FOR THE CHALLENGE?**
 
