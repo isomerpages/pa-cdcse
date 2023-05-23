@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://vouchers.cdc.gov.sg/
+      url: https://go.gov.sg/southeastfutsal
       key_highlights:
         - title: 3M Green Challenge @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
@@ -21,7 +21,7 @@ sections:
           description: In January 2023, every Singaporean household will receive a total
             of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
-      background: /images/Landing Page Carousel/Cover Banner.png
+      background: /images/Landing Page Carousel/banner.PNG
   - infobar:
       description: '"Join me in thanking National Awards (COVID-19) winners for their
         tireless and selfless service to our country and community..."'
