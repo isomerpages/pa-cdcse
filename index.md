@@ -22,6 +22,7 @@ sections:
             of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/banner.PNG
+      button: Sign up now!
   - infobar:
       description: '"Join me in thanking National Awards (COVID-19) winners for their
         tireless and selfless service to our country and community..."'
