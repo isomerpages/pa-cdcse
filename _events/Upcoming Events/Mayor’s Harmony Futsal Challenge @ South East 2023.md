@@ -19,4 +19,4 @@ Venue: Anjung @ Wisma Geylang Serai
 
 Registration Fees: $10.80/team
 
-[Sign Up Now!](go.gov.sg/southeastfutsal)
+[Sign Up Now!](https://form.gov.sg/64479808ac2074001144b8b0)
