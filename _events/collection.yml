@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Mayor’s Harmony Futsal Challenge @ South East 2023.md
       - Upcoming Events/.keep
       - Upcoming Events/SkillsFuture Advice Workshop.md
