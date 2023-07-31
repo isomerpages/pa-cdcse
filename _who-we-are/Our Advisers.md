@@ -23,7 +23,7 @@ Our Advisers
 | <img src="/images/Who%20We%20Are/Advisers/Tan%20See%20Leng.jpg" style="width: 100px;">|Dr Tan See Leng|  Adviser to Marine Parade GRC GROs   |
 |<img src="/images/Who%20We%20Are/Advisers/Edwin%20Tong.jpg" style="width: 100px;">|Mr Edwin Tong Chun Fai   |  Adviser to Marine Parade GRC GROs  | 
 |<img src="/images/Who%20We%20Are/Advisers/Mohd%20Fahmi.jpg" style="width: 100px;">|Mr Mohd Fahmi Aliman	  | Adviser to Marine Parade GRC GROs <br>Mayor of South East District|
-|<img src="/images/Who%20We%20Are/Advisers/Siah%20Kien%20Peng.jpg" style="width: 100px;">|Mr Seah Kean Peng	 |Adviser to Marine Parade GRC GROs |
+|<img src="/images/Who%20We%20Are/Advisers/Siah%20Kien%20Peng.jpg" style="width: 100px;">|Mr Seah Kian Peng	 |Adviser to Marine Parade GRC GROs |
 
 |MacPherson SMC |  | |
 | -------- | -------- | -------- |
