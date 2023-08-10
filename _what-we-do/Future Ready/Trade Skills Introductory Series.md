@@ -4,11 +4,11 @@ permalink: /what-we-do/future-ready/trade-skills-introductory-series/
 description: ""
 third_nav_title: Future Ready
 ---
-Trade Skills Introductory Series
+# Trade Skills Introductory Series
 ===
 ![](/images/What%20We%20Do/Future%20Ready/Trades%20Skills%20Introductory%20Series%202%20(2).png)
 
-**Background:**
+## Background
 
 South East CDC set up the Trade Skills Introductory Series under the Employment and Employability Taskforce to raise awareness and create better understanding of tradesman and craftsman jobs.
 

@@ -25,12 +25,12 @@ sections:
   - infobar:
       description: '"Join me in thanking National Awards (COVID-19) winners for their
         tireless and selfless service to our country and community..."'
-      button: READ MORE
+      button: READ MAYOR'S MESSAGE HERE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
-      button: Read More
+      button: READ THE LATEST CSE ISSUE HERE
       url: https://go.gov.sg/csemay-aug2023
       alt: Contact South East Magazine
       title: Contact South East
