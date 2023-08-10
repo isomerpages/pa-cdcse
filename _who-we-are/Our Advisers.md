@@ -4,13 +4,14 @@ permalink: /who-we-are/our-advisers/
 description: ""
 ---
 # Our Advisers
-==============
+
 
 
 ## East Coast GRC
+
 | Adviser | Name | Title |
 | --------- | -------- | ---------|
-<img src="/images/Who%20We%20Are/Advisers/Heng%20Swee%20Keat.jpg" style="width: 100px;">|Mr Heng Swee Keat|    Adviser to East Coast GRC GROs   |
+| <img src="/images/Who%20We%20Are/Advisers/Heng%20Swee%20Keat.jpg" style="width: 100px;">|Mr Heng Swee Keat|    Adviser to East Coast GRC GROs   |
 <img src="/images/Who%20We%20Are/Advisers/Mohamad.jpg" style="width: 100px;">|Dr Mohamad Maliki Bin Osman   |  Adviser to East Coast GRC GROs  | 
 <img src="/images/Who%20We%20Are/Advisers/Tan%20Kiat%20How.jpg" style="width: 100px;">|Mr Tan Kiat How| Adviser to East Coast GRC GROs|
 <img src="/images/Who%20We%20Are/Advisers/Cheryl%20Chan.jpg" style="width: 100px;">|Ms Cheryl Chan| Adviser to East Coast GRC GROs|
