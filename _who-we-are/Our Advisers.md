@@ -6,8 +6,13 @@ description: ""
 # Our Advisers
 
 
-
 ## East Coast GRC
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| <img src="/images/Who%20We%20Are/Advisers/Heng%20Swee%20Keat.jpg" style="width: 100px;"> | Mr Heng Swee Keat     | Adviser to East Coast GRC GROs     |
+| Text     | Text     | Text     |
 
 | Adviser | Name | Title |
 | --------- | -------- | ---------|
@@ -22,7 +27,7 @@ description: ""
 
 
 ##  Marine Parade GRC
-| Adviser | Name | Title |
+
 | -------- | -------- | -------- |
 | <img src="/images/Who%20We%20Are/Advisers/Tan%20See%20Leng.jpg" style="width: 100px;">|Dr Tan See Leng|  Adviser to Marine Parade GRC GROs   |
 |<img src="/images/Who%20We%20Are/Advisers/Edwin%20Tong.jpg" style="width: 100px;">|Mr Edwin Tong Chun Fai   |  Adviser to Marine Parade GRC GROs  | 
