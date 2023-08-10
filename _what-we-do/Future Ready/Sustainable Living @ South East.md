@@ -4,9 +4,9 @@ permalink: /what-we-do/future-ready/sustainable-living-south-east/
 description: ""
 third_nav_title: Future Ready
 ---
-Sustainable Living @ South East
+# Sustainable Living @ South East
 ==
-**Background**
+## Background
 
 Sustainable Living @ South East aims to empower our community stakeholders with the knowledge of sustainable practices, inculcating a pro-environmental mindset and enabling behavioural change. The Sustainable Living @ South East Programme consists of two components, Capability Building Workshop and Sustainable Living Grant.
 
