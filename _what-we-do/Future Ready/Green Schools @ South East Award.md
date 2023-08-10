@@ -4,20 +4,20 @@ permalink: /what-we-do/future-ready/green-schools-southeast-award/
 description: ""
 third_nav_title: Future Ready
 ---
-Green Schools @ South East Award
+# Green Schools @ South East Award
 ================================
 
-**Background:**
+## Background
 
 The Green Schools @ South East Award aims to recognise and honour Schools in the South East District for their efforts put in to carry out projects to protect and sustain the environment and to reach out to their students and/or the community on environmental issues.
 
-**Here are the winners for Green Schools @ South East Awards 2022:**
+## Here are the winners for Green Schools @ South East Awards 2022
 
-**<U>Certification of Participation</U>**
+**<u>Certification of Participation</u>**
 1. Bedok View Secondary School
 2. St Patrick's School
 
-**<U>Certificate of Merit</u>**
+**<u>Certificate of Merit</u>**
 
 1.  Opera Estate Primary School
 2.  St. Anthony's Canossian Secondary School
