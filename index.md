@@ -30,7 +30,7 @@ sections:
       title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
-      button: READ THE LATEST CSE ISSUE HERE
+      button: READ THE LATEST ISSUE HERE
       url: https://go.gov.sg/csemay-aug2023
       alt: Contact South East Magazine
       title: Contact South East
