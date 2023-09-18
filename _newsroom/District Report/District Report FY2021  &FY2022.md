@@ -8,6 +8,6 @@ third_nav_title: District Report
 &nbsp;<img src="/images/NewsRoom/district%20report%20cover_fy21&amp;22.jpg" style="width:auto; height:600px;">
 	
 	
-&lt;[District Report FY 2021 &amp; FY 2022](https://go.gov.sg/district-report-fy2021-fy2022)&gt;
+[District Report FY 2021 &amp; FY 2022](https://go.gov.sg/district-report-fy2021-fy2022)
 
 </a>
