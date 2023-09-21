@@ -4,6 +4,29 @@ permalink: /what-we-do/future-ready/thewormerymovement/
 description: ""
 third_nav_title: Future Ready
 ---
-## The Wormery Movement: A Sustainable Alternative
-Food waste contributed to 12% of the total waste generated in Singapore. In 2022, the amount of food waste generated was 813,000 tonnes with a recycling rate of 18% (source: NEA). <br>
+# The Wormery Movement: A Sustainable Alternative
+
 As food waste continues to be a challenge, South East CDC will be introducing an educational and sustainable programme to encourage residents to a adopt zero waste lifestyle that supports a circular economy.
+
+       
+### The Wormery Movement
+
+Wormery is a viable alternative to food waste treatment and addresses food waste concerns through an organic approach. Worms can consume and convert compostable food waste into nitrogen-heavy natural fertiliser, to be used in gardens for both recreational and agricultural purposes. This provides a platform for our community to contribute their efforts towards our national agenda, empower green citizenry, and adopt a circular economy lifestyle change.
+
+Community and school gardens located in the South East District will be provided with the following items to start them off on the wormery movement:
+
+* Two worm bins complete with bedding material and 300grams of compost worms in each bin
+
+* Workshops on setting up the bin with mentorship and wormery support from ITE College East
+
+* Educational materials on setting up and maintaining wormeries
+
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JHXvf_cep7k?si=vWJtCvYHRX5_lD-i" height="315" width="560"></iframe>
+</div>
+
+
+### Scrappy the worm
+
+Meet Scrappy the worm, our new mascot for food waste management. 
+Through Scrappy and The Wormery Movement, we hope to inspire residents to think of sustainable alternatives to food waste management and embark on the zero-waste treatment as part of SE CDC’s Sustainable Living initiative.
