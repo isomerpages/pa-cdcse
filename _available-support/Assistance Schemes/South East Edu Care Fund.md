@@ -26,6 +26,6 @@ The fund aims to provide financial relief through a one-time disbursement of $30
 This is not needed if there is another student between 7 and 16 years old in the same household.
 
 ### How to apply:
-Interested residents will be required to submit an application form via Formsg (main mode). This FormSG will be available on our website at the start of scheme from **16 October 2023** and publicised through our social media pages. 
+Interested residents will be required to apply via Formsg. This FormSG will be available on 16 Oct.
 
 Residents may request hardcopy application forms from South East CDC if required.
