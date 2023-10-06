@@ -1,6 +1,6 @@
 ---
 title: District Report FY2021  &FY2022
-permalink: /newsroom/district-report21-22/permalink/
+permalink: /newsroom/district-report21-22/
 description: ""
 third_nav_title: District Report
 ---
@@ -9,4 +9,3 @@ third_nav_title: District Report
 	
 	
 [District Report FY 2021 &amp; FY 2022](https://go.gov.sg/district-report-fy2021-fy2022)
-

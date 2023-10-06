@@ -8,6 +8,10 @@ third_nav_title: Future Ready
 
 As food waste continues to be a challenge, South East CDC will be introducing an educational and sustainable programme to encourage residents to a adopt zero waste lifestyle that supports a circular economy.
 
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JHXvf_cep7k?si=vWJtCvYHRX5_lD-i" height="315" width="560"></iframe>
+</div>
+
        
 ### The Wormery Movement
 
@@ -20,10 +24,6 @@ Community and school gardens located in the South East District will be provided
 * Workshops on setting up the bin with mentorship and wormery support from ITE College East
 
 * Educational materials on setting up and maintaining wormeries
-
-<div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JHXvf_cep7k?si=vWJtCvYHRX5_lD-i" height="315" width="560"></iframe>
-</div>
 
 
 ### Scrappy the worm
