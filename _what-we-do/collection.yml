@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Care/Seniors' Learning Camp.md
       - Care/.keep
       - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
       - Future Ready/My First Break.md
