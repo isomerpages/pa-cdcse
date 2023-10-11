@@ -4,7 +4,6 @@ permalink: /what-we-do/care/slc/
 description: ""
 third_nav_title: Care
 ---
-     
 # Seniors' Learning Camp 
 ### - Active Living Starts with Me
 
