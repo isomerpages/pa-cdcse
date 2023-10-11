@@ -3,15 +3,17 @@ collections:
     output: true
     order:
       - Overview.md
+      - Care/Seniors' Learning Camp.md
       - Care/.keep
       - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
-      - Future Ready/The Wormery Movement.md
+      - Future Ready/My First Break.md
       - Future Ready/.keep
-      - Future Ready/3M Green Challenge @ South East 2022.md
-      - Future Ready/Green Schools @ South East Award.md
+      - Future Ready/The Wormery Movement.md
       - Future Ready/Sustainable Living @ South East.md
       - Future Ready/Trade Skills Introductory Series.md
+      - Future Ready/Green Schools @ South East Award.md
       - Future Ready/SkillsFuture Advice.md
+      - Future Ready/3M Green Challenge @ South East 2022.md
       - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
       - Resilience/.keep
       - Resilience/SEEDs of Wellness.md
