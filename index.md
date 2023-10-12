@@ -23,8 +23,8 @@ sections:
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/Cover Banner No Text.png
   - infobar:
-      description: '"Join me in thanking National Awards (COVID-19) winners for their
-        tireless and selfless service to our country and community..."'
+      description: '"As your social broker, we will continually look for ways to
+        uplift the community. In the coming months..."'
       button: READ MAYOR'S MESSAGE HERE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
