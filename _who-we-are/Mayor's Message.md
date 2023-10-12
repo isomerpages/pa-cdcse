@@ -3,34 +3,25 @@ title: Mayor's Message
 permalink: /who-we-are/mayors-message/
 description: ""
 ---
-<img src="/images/Mayor/kel_0857lr.jpg" style="width: 300px;" align="right">
-	
+<img src="/images/Mayor/kel_0677-2.jpg" style="width: 300px;" align="right">
+
 **Dear Residents and Friends,**
 
-Singapore is always evolving: in October 1983, the first phase of the Mass Rapid Transit (MRT) North-South Line construction began in earnest. Fast forward 40 years and we are opening stations along the Thomson-East Coast
-Line, with the next phase of this sixth MRT line connecting many residents via the new stations in the South East divisions from 2024. Improving public transport is key to achieving a more sustainable Singapore, which will remain
-an important <br> priority for now and the future.
+“Go! Shine your light upon the world”— these powerful words kicked off the chorus of this year's National Day theme song, Shine Your Light. The rousing performance of the song at the National Day Parade certainly captivated audiences, both at the Padang and across Singapore.
 
-On this front, I am glad that South East CDC has encouraged residents to
-lead greener lives. For example, our longstanding partnership with 3M returned
-with a twist last year: The 3M Green Challenge encouraged residents to pick up
-simple eco-friendly habits, such as taking public transport where possible and
-upcycling old products into new items. As always, many of our residents joined
-the cause, and in doing so, raised more than $100,000 worth of supplies for
-needy residents.
+The song’s theme of empowerment and encouragement especially resonates with us at the South East CDC, as we step up our efforts to uplift and develop our youth. In June, we proudly launched the South East-Youth Ambassadors! (SE-YA!) programme, designed to equip young people with the necessary tools to create impactful initiatives in areas such as sustainability, mental wellness and skills development. This programme comes at an opportune time, given the rising trend of youth volunteerism in Singapore. As we support young people who are transitioning into the workforce, it is equally important to guide them on volunteering and giving back to the community.
 
-Even as some things in Singapore change, I am comforted that other aspects of
-our country remain the same. As we look forward to celebrating the nation’s birthday in August, let us also remember Racial Harmony Day, which falls on 21 July.
-Younger ones may not realise how fragile our racial harmony can be. However,
-I am certain that older Singaporeans will know how hard-fought a victory it has
-been. South East CDC remains committed to safeguarding this precious value
-for generations to come through programmes such as the Racial Harmony Youth
-Ambassador Experience Camp.
-Finally, as we treat COVID-19 as an endemic, the time is right to give recognition to those who have played their part in helping us overcome the crisis of our generation. Many everyday Singaporeans have been recognised with the National Awards (COVID-19) for their outstanding, ‘above and
-beyond duty’ contributions and sacrifices towards the nation's fight against the
-pandemic. Join me in thanking them for their tireless and selfless service to our country and community.
-I hope the upcoming National Day holiday will be a time for family and community.
-Happy Birthday, Singapore! 
+Another area we engage youth in is nurturing a generation that embraces diversity and respects our multiracial community. In July, we rolled out the Mayor’s Harmony Futsal Challenge @ South East, which comprised a harmony workshop and a futsal tournament. Through the workshop, our youth participants gained a deeper appreciation for one another's cultures, before coming together to put their best feet forward at the tournament. Initiatives like SE-YA! and the Mayor’s Harmony Futsal Challenge @ South East help youth lay the foundation for a better tomorrow. Through them, we empower our future leaders to be compassionate and embrace Singapore’s longstanding diversity.
+
+These future leaders follow in the footsteps of other South East District residents who have already made a difference in their respective communities. This year, 28 of our Grassroots leaders and District Councillors were conferred the National Day Awards for their contributions to the community at large. My heartiest congratulations and deepest appreciation to our Grassroots leaders and District Councillors for their contributions. I trust that our community benefits greatly from their selfless service and that our youth are definitely in good hands.
+
+Other groups in the community have also been hard at work to make the South East District a better home. Corporates like Citi Singapore, Korean Development Bank (KDB), Singapore Aquatics and community groups like Kindheroes.club continue to run meaningful programmes whose impact can be felt across the community. Every little bit of effort uplifts the community in myriad ways.
+
+As your social broker, we will continually look for ways to uplift the community. In the coming months, residents can look forward to greater support to cope with the cost of living, as well as arts programmes that champion mental health and wellbeing. Also in the pipeline is a wormery project within the South East District, which addresses the problem of rising food waste in an organic and eco-friendly way.
+
+With that, I urge for us all to continue our concerted endeavours to move onwards as one united South East District.
+Here’s wishing all a happy year-end festive period
+and the very best for 2024!
 
  
 Best Wishes,

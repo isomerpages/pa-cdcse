@@ -23,18 +23,18 @@ sections:
           url: https://vouchers.cdc.gov.sg/
       background: /images/Landing Page Carousel/Cover Banner No Text.png
   - infobar:
-      description: '"Join me in thanking National Awards (COVID-19) winners for their
-        tireless and selfless service to our country and community..."'
+      description: '"As your social broker, we will continually look for ways to
+        uplift the community. In the coming months..."'
       button: READ MAYOR'S MESSAGE HERE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
       button: READ THE LATEST ISSUE HERE
-      url: https://go.gov.sg/csemay-aug2023
+      url: https://go.gov.sg/csesepdec2023
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/contact se may-aug 2023.png
+      image: /images/NewsRoom/CSE/cse sep-dec2023.png
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
