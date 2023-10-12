@@ -20,4 +20,4 @@ After the camp, seniors would contribute back to the community by organising pro
 Be a part of this fantastic experience where you can forge new friendships, stay active, and contribute to a meaningful cause.
 We invite you to join us for an unforgettable two-day, one-night adventure scheduled for November 2nd and 3rd.
 
-Explore uncharted territories, engage in thrilling activities, participate in enlightening workshops, and prepare to make a positive impact in the lives of vulnerable families. Don't let this opportunity pass you by – secure your spot by registering today! [Register today!](go.gov.sg/secdc14slc)
+Explore uncharted territories, engage in thrilling activities, participate in enlightening workshops, and prepare to make a positive impact in the lives of vulnerable families. Don't let this opportunity pass you by – secure your spot by registering today! Register today @ https://go.gov.sg/secdc14slc
