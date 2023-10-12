@@ -3,8 +3,8 @@ title: Mayor's Message
 permalink: /who-we-are/mayors-message/
 description: ""
 ---
-<img src="/images/Mayor/kel_0857lr.jpg" style="width: 300px;" align="right">
-	
+<img src="/images/Mayor/kel_0677-2.jpg" style="width: 300px;" align="right">
+
 **Dear Residents and Friends,**
 
 “Go! Shine your light upon the world”— these powerful words kicked off the chorus of this year's National Day theme song, Shine Your Light. The rousing performance of the song at the National Day Parade certainly captivated audiences, both at the Padang and across Singapore.
