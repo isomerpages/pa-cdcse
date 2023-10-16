@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://go.gov.sg/southeastfutsal
+      url: https://go.gov.sg/southeasteducarefund
       key_highlights:
         - title: 3M Green Challenge @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
@@ -21,7 +21,8 @@ sections:
           description: In January 2023, every Singaporean household will receive a total
             of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
-      background: /images/Landing Page Carousel/se educare fund (1920 x 720 px).png
+      background: /images/se educare fund (1920 x 720 px).png
+      button: Click here to find out more!
   - infobar:
       description: '"As your social broker, we will continually look for ways to
         uplift the community. In the coming months..."'
