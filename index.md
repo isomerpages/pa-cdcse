@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://go.gov.sg/southeastfutsal
+      url: https://go.gov.sg/southeasteducarefund
       key_highlights:
         - title: 3M Green Challenge @ South East
           description: 5E programme to inculcate a giving spirit among individuals and
