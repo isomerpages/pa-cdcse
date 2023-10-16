@@ -21,7 +21,7 @@ sections:
           description: In January 2023, every Singaporean household will receive a total
             of $300 worth of CDC Vouchers.
           url: https://vouchers.cdc.gov.sg/
-      background: /images/se educare fund (1920 x 720 px).png
+      background: /images/Landing Page Carousel/se educare fund (1920 x 720 px) v2.png
       button: Click here to find out more!
   - infobar:
       description: '"As your social broker, we will continually look for ways to
