@@ -26,6 +26,7 @@ The fund aims to provide financial relief through a one-time disbursement of $30
 This is not needed if there is another student between 7 and 16 years old in the same household.
 
 ### How to apply:
-Interested residents will be required to apply via Formsg. This FormSG will be available on 16 Oct.
+Interested residents will be required to apply via https://go.gov.sg/southeasteducarefund or scan the following QR Code.
+![se edu care fund](/images/se%20educare%20fund%20poster.png)
 
 Residents may request hardcopy application forms from South East CDC if required.
