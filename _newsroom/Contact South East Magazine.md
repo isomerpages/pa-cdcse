@@ -5,9 +5,9 @@ description: ""
 ---
 Contact South East Magazine
 ===
-<a href="https://go.gov.sg/csesep-dec2023v2"><img src="/images/NewsRoom/CSE/cse%20sep-dec2023.png" style="width:auto; height:500px;"></a>
+<a href="https://go.gov.sg/csesepdec2023"><img src="/images/NewsRoom/CSE/cse%20sep-dec2023.png" style="width:auto; height:500px;"></a>
 
-[Contact South East Issue Sept 2023 - Dec 2023](https://go.gov.sg/csesep-dec2023v2) 
+[Contact South East Issue Sept 2023 - Dec 2023](https://go.gov.sg/csesepdec2023) 
 
 
 <a href="https://go.gov.sg/csemay-aug2023"><img src="/images/NewsRoom/CSE/contact%20se%20may-aug%202023.png" style="width:auto; height:500px;"></a>
