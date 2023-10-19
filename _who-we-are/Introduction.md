@@ -4,8 +4,8 @@ permalink: /who-we-are/introduction/
 description: ""
 ---
 # Introduction
-============
-![](/images/Who%20We%20Are/IMG_6618.jpg)
+
+![Se-lebrating connections](/images/img-291.jpg)
 
 ## **Vision**
 
