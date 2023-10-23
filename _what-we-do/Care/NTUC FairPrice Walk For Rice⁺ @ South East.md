@@ -7,21 +7,21 @@ third_nav_title: Care
 NTUC FairPrice Walk For Rice⁺ @ South East
 ============================
 
-![](/images/What%20We%20Do/CARE/IMG_0731.jpg)
+![WFR LAUNCH](/images/What%20We%20Do/CARE/img-120.jpg)
 
-On 3rd Nov 2022, NTUC FairPrice (FairPrice) and South East Community Development Council (South East CDC) launched the 14th edition of its annual FairPrice Walk for Rice+ @ South East. Approximately, 500 participants gathered at the Sports Hub OCBC Square to celebrate the physical return of this initiative since 2019. 
+On 21 Oct 2023, NTUC FairPrice (FairPrice) and South East Community Development Council (South East CDC) launched the 15th edition of its annual FairPrice Walk for Rice+ @ South East. The launch saw more than 1,500 participants engaging in various fun activities such as K-pop exercise, spon and best dressed competition. This is double the number of attendees in previous years.
 
-![](/images/What%20We%20Do/CARE/IMG_0803.jpg)
+![Warm up exercise WFR 2023](/images/What%20We%20Do/CARE/img083.jpg)
 
-The launch flagged off with a symbolic walk and fringe activities such as spin cycling, floor curling and archery were also available. In 2020 and 2021, FairPrice Walk for Rice + @ South East had been held virtually due to the Covid-19 Safe Management Measures.
+The 10 week-long initiative, running from 21 Oct to 31 Dec 2023, is geared towards encouraging individuals to build stronger relationships within the community and to stay active by walking or running and clocking their distance for a good cause.
+
+![best dress contingent 2023](/images/What%20We%20Do/CARE/img-162.jpg)
 
 
-![](/images/What%20We%20Do/CARE/IMG_0846.jpg)
+Since its inauguration in 2009, the Walk for Rice+ @ South East has garnered more interest over the years and has observed an increase in its total mileage from 61,583 kilometres in 2009 to more than tenfold with over 1 million kilometres in 2023. 
 
+![wfr 2023](/images/What%20We%20Do/CARE/img-103.jpg)
 
-The long-running initiative aims to motivate more Singaporeans to walk or run while logging in their mileage for a good cause. Since its inauguration in 2009, the Walk for Rice+ @ South East has garnered more interest over the years and has observed an increase in its total mileage from 61,583 kilometres in 2009 to more than tenfold with 600,000 kilometres in 2022. 
+For every 300 metres of walking or running recorded, FairPrice Foundation will donate 1 bowl of white rice, 1 bowl of brown rice and 1 bowl of oatmeal to a vulnerable family residing in South East District. This year, South East CDC and FairPrice is aiming to raise 500,000 bowls of white rice and brown rice and 50,000 bowls of oats, to benefit 7,000 beneficiaries within the South East District.
 
-![](/images/What%20We%20Do/CARE/IMG_0693%203.jpg)
-
-For every 300 metres of walking or running recorded, FairPrice Foundation will donate 1 bowl of white rice, 1 bowl of brown rice and 1 bowl of oatmeal to a vulnerable family residing in South East District. This year, South East CDC and FairPrice targets to distribute S$100,000 worth of rice and oats to 7,000 vulnerable families in the South East District. 
-
+If you are interested to clock in your mileage and do good for the community, you can do so via [this link](go.gov.sg/wfr2023) !
