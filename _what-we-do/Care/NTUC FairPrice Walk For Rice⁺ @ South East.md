@@ -18,10 +18,10 @@ The 10 week-long initiative, running from 21 Oct to 31 Dec 2023, is geared towar
 ![best dress contingent 2023](/images/What%20We%20Do/CARE/img-162.jpg)
 
 
-Since its inauguration in 2009, the Walk for Rice+ @ South East has garnered more interest over the years and has observed an increase in its total mileage from 61,583 kilometres in 2009 to more than tenfold with over 1 million kilometres in 2023. 
+Since its inauguration in 2009, the Walk for Rice+&nbsp;@ South East has garnered more interest over the years and has observed an increase in its total mileage from 61,583 kilometres in 2009 to more than tenfold with over 1 million kilometres in 2023. 
 
 ![wfr 2023](/images/What%20We%20Do/CARE/img-103.jpg)
 
-For every 300 metres of walking or running recorded, FairPrice Foundation will donate 1 bowl of white rice, 1 bowl of brown rice and 1 bowl of oatmeal to a vulnerable family residing in South East District. This year, South East CDC and FairPrice is aiming to raise 500,000 bowls of white rice and brown rice and 50,000 bowls of oats, to benefit 7,000 beneficiaries within the South East District.
+For every 300 metres of walking or running recorded, FairPrice&nbsp;Foundation&nbsp;will donate 1 bowl of white rice, 1 bowl of brown rice and 1 bowl of oatmeal to a vulnerable family residing in South East District. This year, South East CDC and FairPrice is aiming to raise 500,000 bowls of white rice and brown rice and 50,000 bowls of oats, to benefit 7,000 beneficiaries within the South East District.
 
-If you are interested to clock in your mileage and do good for the community, you can do so via [https://go.gov.sg/wfr2023](https://go.gov.sg/wfr2023)
+If you are interested to clock in your mileage and do good for the community, you can do so via 
