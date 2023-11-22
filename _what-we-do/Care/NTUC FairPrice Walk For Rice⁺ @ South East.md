@@ -3,13 +3,14 @@ title: NTUC FairPrice Walk For Rice⁺ @ South East
 permalink: /what-we-do/care/ntuc-fairprice-walk-for-rice-south-east/
 description: ""
 third_nav_title: Care
+variant: markdown
 ---
 NTUC FairPrice Walk For Rice⁺ @ South East
 ============================
 
 ![WFR LAUNCH](/images/What%20We%20Do/CARE/img-120.jpg)
 
-On 21 Oct 2023, NTUC FairPrice (FairPrice) and South East Community Development Council (South East CDC) launched the 15th edition of its annual FairPrice Walk for Rice+ @ South East. The launch saw more than 1,500 participants engaging in various fun activities such as K-pop exercise, spon and best dressed competition. This is double the number of attendees in previous years.
+On 21 Oct 2023, NTUC FairPrice (FairPrice) and South East Community Development Council (South East CDC) launched the 15th edition of its annual FairPrice Walk for Rice+ @ South East. The launch saw more than 1,500 participants engaging in various fun activities such as K-pop exercise, spin and best dressed competition. This is double the number of attendees in previous years.
 
 ![Warm up exercise WFR 2023](/images/What%20We%20Do/CARE/img083.jpg)
 
