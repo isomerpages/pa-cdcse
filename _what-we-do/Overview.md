@@ -1,7 +1,8 @@
 ---
 title: Overview
 permalink: /what-we-do/overview/
-description: ""
+description: Overview
+variant: tiptap
 ---
 OVERVIEW
 ======

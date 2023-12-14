@@ -1,7 +1,7 @@
 ---
 title: NTUC FairPrice Walk For Rice⁺ @ South East
 permalink: /what-we-do/care/ntuc-fairprice-walk-for-rice-south-east/
-description: ""
+description: NTUC FairPrice Walk For Rice⁺ @ South East
 third_nav_title: Care
 variant: markdown
 ---

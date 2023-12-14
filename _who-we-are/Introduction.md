@@ -1,7 +1,8 @@
 ---
 title: Introduction
 permalink: /who-we-are/introduction/
-description: ""
+description: Introduction to South East CDC
+variant: tiptap
 ---
 # Introduction
 

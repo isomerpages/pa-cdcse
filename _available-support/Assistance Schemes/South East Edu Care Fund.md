@@ -1,8 +1,9 @@
 ---
 title: South East Edu Care Fund
 permalink: /available-support/assistance-schemes/se-educarefund/
-description: ""
+description: South East Edu Care Fund
 third_nav_title: Assistance Schemes
+variant: tiptap
 ---
 # South East Edu Care Fund
 
