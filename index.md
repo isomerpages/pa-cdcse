@@ -20,7 +20,7 @@ sections:
           description: Education & transport support
           url: https://southeast.cdc.gov.sg/available-support/assistance-schemes/se-educarefund/
       background: /images/Landing Page Carousel/Updated_key_visual2.png
-      button: Find out more
+      variant: center
   - infobar:
       description: '"As your social broker, we will continually look for ways to
         uplift the community. In the coming months..."'
