@@ -21,6 +21,10 @@ sections:
           url: https://southeast.cdc.gov.sg/available-support/assistance-schemes/se-educarefund/
       background: /images/Landing Page Carousel/Updated_key_visual2.png
       variant: center
+      button: Claim your CDC Vouchers 2024!
+      backgroundColor: white
+      size: sm
+      alignment: left
   - infobar:
       description: '"As your social broker, we will continually look for ways to
         uplift the community. In the coming months..."'
