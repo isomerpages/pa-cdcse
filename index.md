@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://go.gov.sg/southeasteducarefund
+      url: https://vouchers.cdc.gov.sg/
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
@@ -16,12 +16,15 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
-        - title: CDC VOUCHERS SCHEME 2023
-          description: In January 2023, every Singaporean household will receive a total
-            of $300 worth of CDC Vouchers.
-          url: https://vouchers.cdc.gov.sg/
-      background: /images/Landing Page Carousel/se educare fund (1920 x 720 px) v2.png
-      button: Find out more
+        - title: South East Edu Care Fund
+          description: Education & transport support
+          url: https://southeast.cdc.gov.sg/available-support/assistance-schemes/se-educarefund/
+      background: /images/Landing Page Carousel/Updated_key_visual2.png
+      variant: center
+      button: Claim your CDC Vouchers 2024!
+      backgroundColor: white
+      size: sm
+      alignment: left
   - infobar:
       description: '"As your social broker, we will continually look for ways to
         uplift the community. In the coming months..."'
