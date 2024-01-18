@@ -7,7 +7,7 @@ variant: markdown
 Contact South East Magazine
 ===
 
-<a href="https://go.gov.sg/csejan-apr2024"><img src="/images/NewsRoom/CSE/CSE_Jan_Apr_2024___Cover_Page.PNG)" style="width:auto; height:500px;"></a>
+<a href="https://go.gov.sg/csejan-apr2024"><img src="/images/NewsRoom/CSE/CSE_Jan_Apr_2024.PNG)" style="width:auto; height:500px;"></a>
 
 [Contact South East Issue Jan 2024 - April 2024](https://go.gov.sg/csejan-apr2024) 
 
