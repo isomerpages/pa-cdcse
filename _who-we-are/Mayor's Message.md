@@ -2,26 +2,21 @@
 title: Mayor's Message
 permalink: /who-we-are/mayors-message/
 description: ""
+variant: markdown
 ---
-<img src="/images/Mayor/kel_0677-2.jpg" style="width: 300px;" align="right">
+<img src="/images/Mayor/KEL_0821%20LR.jpg" style="width: 250px;" align="right">
 
 **Dear Residents and Friends,**
 
-“Go! Shine your light upon the world”— these powerful words kicked off the chorus of this year's National Day theme song, Shine Your Light. The rousing performance of the song at the National Day Parade certainly captivated audiences, both at the Padang and across Singapore.
+The dawn of a new year offers a chance to reflect on time that has passed and the fresh start that we have all been given. As South East CDC scans the horizon for the next 12 months, we remain committed to supporting the community on every front. A major initiative to uplift our community is the South East Edu Care Fund, which will help students from lower middle-income families cope with everyday expenses, big and small. This way, every child will have an opportunity to shine, regardless of their circumstances.
 
-The song’s theme of empowerment and encouragement especially resonates with us at the South East CDC, as we step up our efforts to uplift and develop our youth. In June, we proudly launched the South East-Youth Ambassadors! (SE-YA!) programme, designed to equip young people with the necessary tools to create impactful initiatives in areas such as sustainability, mental wellness and skills development. This programme comes at an opportune time, given the rising trend of youth volunteerism in Singapore. As we support young people who are transitioning into the workforce, it is equally important to guide them on volunteering and giving back to the community.
+Another focus for South East CDC is the mental wellbeing of our community. Singapore, like much of the world, has faced a challenging period because of the COVID-19 pandemic. Still, we remained resilient, thanks to our collective grit and resolve. But the pandemic highlighted the importance of mental wellbeing and taking care of our minds as much as we do our bodies. To strengthen our community’s mental health, we will be launching South East Emotional and Empowerment Development Support (SEEDS) of Wellness, which comprises a series of mental health-related initiatives.
 
-Another area we engage youth in is nurturing a generation that embraces diversity and respects our multiracial community. In July, we rolled out the Mayor’s Harmony Futsal Challenge @ South East, which comprised a harmony workshop and a futsal tournament. Through the workshop, our youth participants gained a deeper appreciation for one another's cultures, before coming together to put their best feet forward at the tournament. Initiatives like SE-YA! and the Mayor’s Harmony Futsal Challenge @ South East help youth lay the foundation for a better tomorrow. Through them, we empower our future leaders to be compassionate and embrace Singapore’s longstanding diversity.
+With each passing year, our stewardship of the environment also becomes more critical. On this front, South East CDC is steaming ahead with plans to make our homes more eco-friendly. One project that supports this is The Wormery Movement: A Sustainable Alternative, an effort to foster zero-waste lifestyle in the district. Transforming such initiatives from vision to reality is a collective effort. As we look to 2024, I would like to thank the many community partners, stakeholders, volunteers and residents who help South East CDC achieve mission success every time.
 
-These future leaders follow in the footsteps of other South East District residents who have already made a difference in their respective communities. This year, 28 of our Grassroots leaders and District Councillors were conferred the National Day Awards for their contributions to the community at large. My heartiest congratulations and deepest appreciation to our Grassroots leaders and District Councillors for their contributions. I trust that our community benefits greatly from their selfless service and that our youth are definitely in good hands.
+Also central to these efforts are the South East CDC District Councillors (DCs). I am proud to announce that we have reappointed 40 South East CDC DCs, joined with eight new ones for the new council term. Having seen many of them in action, I am certain that their combined contributions will continue to impact the community. We hope that their energy and passion will bring a sense of vitality to all that we doin the community.
 
-Other groups in the community have also been hard at work to make the South East District a better home. Corporates like Citi Singapore, Korean Development Bank (KDB), Singapore Aquatics and community groups like Kindheroes.club continue to run meaningful programmes whose impact can be felt across the community. Every little bit of effort uplifts the community in myriad ways.
-
-As your social broker, we will continually look for ways to uplift the community. In the coming months, residents can look forward to greater support to cope with the cost of living, as well as arts programmes that champion mental health and wellbeing. Also in the pipeline is a wormery project within the South East District, which addresses the problem of rising food waste in an organic and eco-friendly way.
-
-With that, I urge for us all to continue our concerted endeavours to move onwards as one united South East District.
-Here’s wishing all a happy year-end festive period
-and the very best for 2024!
+The festive period continues in February 2024 with the Lunar New Year, and on behalf of the team, I wish all residents a joyful holiday ahead. Gong xi fa cai and may 2024 be a bright year for us all!
 
  
 Best Wishes,

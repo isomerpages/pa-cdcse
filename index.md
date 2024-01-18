@@ -26,18 +26,18 @@ sections:
       size: sm
       alignment: left
   - infobar:
-      description: '"As your social broker, we will continually look for ways to
-        uplift the community. In the coming months..."'
+      description: As South East CDC scans the horizon for the next 12 months, we
+        remain committed to supporting the community on every front.
       button: READ MAYOR'S MESSAGE HERE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
       button: READ THE LATEST ISSUE HERE
-      url: https://go.gov.sg/csesepdec2023
+      url: https://go.gov.sg/csejan-apr2024
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/cse sep-dec2023.png
+      image: /images/NewsRoom/CSE/CSE_Jan_Apr_2024.PNG
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
