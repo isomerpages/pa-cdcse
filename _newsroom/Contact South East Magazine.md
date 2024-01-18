@@ -7,12 +7,13 @@ variant: markdown
 Contact South East Magazine
 ===
 
-<a href="https://go.gov.sg/csejan-apr2024"><img style="width: 250px;[](/images/NewsRoom/CSE/CSE_Jan_Apr_2024.PNG)>
+<a href="https://go.gov.sg/csejan-apr2024">
+	<img src="/images/NewsRoom/CSE/CSE_Jan_Apr_2024.PNG" style="width:250px;"></a>
 
 [Contact South East Issue Jan 2024 - April 2024](https://go.gov.sg/csejan-apr2024) 
 
 
-</a><a href="><img src="/images/NewsRoom/CSE/cse%20sep-dec2023.png" style="width:auto; height:500px;"></a>
+<a href="https://go.gov.sg/csejan-apr2024"><img src="/images/NewsRoom/CSE/cse%20sep-dec2023.png" style="width:auto; height:500px;"></a>
 
 [Contact South East Issue Sept 2023 - Dec 2023](https://go.gov.sg/csesepdec2023) 
 
