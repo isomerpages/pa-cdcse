@@ -1,0 +1,9 @@
+collections:
+  newsroom:
+    output: true
+    order:
+      - Media Releases And Speeches.md
+      - Contact South East Magazine.md
+      - District Report/District Report FY2021  &FY2022.md
+      - District Report/.keep
+      - District Report/District Report FY 2020.md

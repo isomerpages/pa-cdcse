@@ -1,0 +1,14 @@
+logo: /images/resz-logo.png
+links:
+  - title: WHO WE ARE
+    collection: who-we-are
+  - title: WHAT WE DO
+    collection: what-we-do
+  - title: EVENTS
+    collection: events
+  - title: NEWSROOM
+    collection: newsroom
+  - title: Available Support
+    collection: available-support
+  - title: Contact US
+    collection: contact-us
