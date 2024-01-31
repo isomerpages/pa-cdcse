@@ -2,5 +2,4 @@ collections:
   available-support:
     output: true
     order:
-      - Assistance Schemes/South East Edu Care Fund.md
       - Assistance Schemes/.keep
