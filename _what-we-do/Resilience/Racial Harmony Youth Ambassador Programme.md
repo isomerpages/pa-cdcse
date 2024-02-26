@@ -3,10 +3,11 @@ title: Racial Harmony Youth Ambassador Programme
 permalink: /what-we-do/resilience/racial-harmony-youth-ambassador-programme/
 description: ""
 third_nav_title: Resilience
+variant: markdown
 ---
 Racial Harmony Youth Ambassador Programme
 ===
-Started in 2002, Racial Harmony Youth Ambassadors programme has developed youth from different races and schools in implementing initiatives to promote racial harmony in the community. The RHYA’s Celebration of Festivals (CoF) series aims to foster an appreciation of diversity, promote greater sensitivity to traditional practices in communal or religious spaces and address or mitigate misunderstandings between communities. CoF also actively engages the public through meaningful activities in celebration of each major festival.
+Started in 2002, Racial Harmony Youth Ambassadors programme has developed youth from different races and schools in implementing initiatives to promote racial harmony in the community. The RHYA’s Celebrating our Festivals (CoF) series aims to foster an appreciation of diversity, promote greater sensitivity to traditional practices in communal or religious spaces and address or mitigate misunderstandings between communities. CoF also actively engages the public through meaningful activities in celebration of each major festival.
 
 ![](/images/What%20We%20Do/Resilience/COF%20Christmas%202020%20-%201.jpg)
 
