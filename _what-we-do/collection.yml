@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - Care/WeCare Arts Fund and WeCare Arts Experiences.md
       - Care/.keep
-      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
+      - Care/WeCare Arts Fund and WeCare Arts Experiences.md
       - Care/Seniors' Learning Camp.md
+      - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
       - Future Ready/My First Break.md
       - Future Ready/.keep
       - Future Ready/The Wormery Movement.md
