@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Care/WeCare Arts Fund and WeCare Arts Experiences.md
       - Care/.keep
       - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
       - Care/Seniors' Learning Camp.md
