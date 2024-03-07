@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Care
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="wecarearts" src="/images/What We Do/CARE/wecare.png">
+</div>
 <h1><strong>WeCare Arts Fund @ South East</strong></h1>
 <p>The WeCare Arts Fund @ CDC is a grant scheme that is a collaborative effort
 between the Community Development Councils (CDCs) and the National Arts
@@ -26,7 +29,7 @@ further enquiries.</p>
 <p>As a component of an extended partnership between NAC and the five CDCs,
 the WeCare Arts Experiences (WCAE) promotes the participation of individuals
 from underprivileged backgrounds in contemporary arts and cultural events
-organized by the NAC and cultural institutions.</p>
+organised by the NAC and cultural institutions.</p>
 <p>These experiences provide an opportunity for beneficiaries to connect
 through shared arts encounters with their immediate family members, caregivers,
 or friends, thereby enhancing social connections.</p>
@@ -41,3 +44,4 @@ selection of eligible programmes.</p>
 </p>
 <p>Please contact <a rel="noopener noreferrer nofollow" target="_blank">southeast_cdc@pa.gov.sg</a> for
 further enquiries.</p>
+<p></p>
