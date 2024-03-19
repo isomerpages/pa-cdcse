@@ -13,7 +13,7 @@ Contact South East Magazine
 [Contact South East Issue Jan 2024 - April 2024](https://go.gov.sg/csejan-apr2024) 
 
 
-<a href="https://go.gov.sg/csejan-apr2024"><img src="/images/NewsRoom/CSE/cse%20sep-dec2023.png" style="width:auto; height:500px;"></a>
+<a href="https://go.gov.sg/csesepdec2023"><img src="/images/NewsRoom/CSE/cse%20sep-dec2023.png" style="width:auto; height:500px;"></a>
 
 [Contact South East Issue Sept 2023 - Dec 2023](https://go.gov.sg/csesepdec2023) 
 
