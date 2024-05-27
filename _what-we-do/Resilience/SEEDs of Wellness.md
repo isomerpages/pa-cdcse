@@ -3,6 +3,7 @@ title: SEEDs of Wellness
 permalink: /what-we-do/resilience/seedsofwellness/
 description: ""
 third_nav_title: Resilience
+variant: markdown
 ---
 # SEEDS of Wellness 
 In 2022, The Straits Times reported that the number of suicides in Singapore had risen by 25.9%, a total of 476 suicides, increased from the 378 suicides reported in 2021. The report added that the suicide cases spread across most age groups but were more prevalent amongst the youth and elderly.
@@ -15,7 +16,7 @@ As mental health issues have become a pressing concern in our community, we will
 
 
 * Open to community partners to customise mental wellness-related programmes according to their needs.
-* Capped at $5,000 per application.
+* Capped at $10,000 per application.
 
 **b.	Musical and Skit**
 * Raise awareness and promote deeper understanding on mental wellness issues through characters who are able to overcome adversity, and reduce feelings of loneliness which are often associated with mental health issues. 
