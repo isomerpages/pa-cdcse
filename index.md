@@ -16,9 +16,6 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
-        - title: South East Edu Care Fund
-          description: Education & transport support
-          url: https://southeast.cdc.gov.sg/available-support/assistance-schemes/se-educarefund/
       background: /images/Landing Page Carousel/Updated_key_visual2.png
       variant: center
       button: Claim your CDC Vouchers 2024!
