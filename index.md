@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: go.gov.sg/cdcv
+      url: https://go.gov.sg/cdcv
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
