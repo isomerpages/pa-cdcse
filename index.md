@@ -18,7 +18,7 @@ sections:
           url: https://southeast.cdc.gov.sg/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
       background: /images/CDCV_Jun_2024___Banner.png
       variant: center
-      button: Claim your CDC Vouchers 2024!
+      button: Claim your June 2024 CDC Vouchers here!
       backgroundColor: white
       size: sm
       alignment: left
