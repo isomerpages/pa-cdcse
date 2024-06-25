@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://vouchers.cdc.gov.sg/
+      url: go.gov.sg/cdcv
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
@@ -16,7 +16,7 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
-      background: /images/Landing Page Carousel/Updated_key_visual2.png
+      background: /images/CDCV_Jun_2024___Banner.png
       variant: center
       button: Claim your CDC Vouchers 2024!
       backgroundColor: white
