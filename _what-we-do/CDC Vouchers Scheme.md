@@ -15,4 +15,3 @@ The CDC Vouchers Scheme 2024 (June) is part of the enhancements to the Assurance
 Starting 25 June 2024, you can visit [**go.gov.sg/cdcv**](https://safe.menlosecurity.com/https://go.gov.sg/cdcv) to claim the additional $300 CDC vouchers.  The process for claiming and spending the vouchers remains the same.
 
 Both CDC Vouchers Scheme (June) and CDC Vouchers Scheme (January) are valid till 31 December 2024.
-
