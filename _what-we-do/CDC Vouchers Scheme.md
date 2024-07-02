@@ -2,14 +2,17 @@
 title: CDC Vouchers Scheme
 permalink: /what-we-do/cdcvouchers/
 description: ""
+variant: markdown
 ---
-![CDC Vouchers 2023](/images/Landing%20Page%20Carousel/CDC%20V%202023.png)
+![](/images/CDCV_Jun_2024___Banner_with_words.png)
 
-# About CDC Vouchers Scheme 2023
+# About CDC Vouchers Scheme 2024
 ============================
-Every Singaporean household will receive a total of **$300 CDC Vouchers on 3 January 2023.**
-This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods & Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022.  Singaporean households can use the vouchers to purchase goods and services from participating hawkers and heartland merchants as well as participating supermarkets.
+Every Singaporean household will receive **$300 CDC Vouchers in June 2024**. This is in addition to the $500 CDC Vouchers given on 3 January 2024. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers this year.
 
-On 3 January 2023, every Singaporean household can claim $300 in CDC Vouchers. The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023.
+The CDC Vouchers Scheme 2024 (June) is part of the enhancements to the Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024.  The package provides more immediate support for Singaporean households and helps defray daily expenses.
 
-[Learn](https://vouchers.cdc.gov.sg/residents/info) how you can claim your CDC Vouchers 2023.
+Starting 25 June 2024, you can visit [**go.gov.sg/cdcv**](https://safe.menlosecurity.com/https://go.gov.sg/cdcv) to claim the additional $300 CDC vouchers.  The process for claiming and spending the vouchers remains the same.
+
+Both CDC Vouchers Scheme (June) and CDC Vouchers Scheme (January) are valid till 31 December 2024.
+
