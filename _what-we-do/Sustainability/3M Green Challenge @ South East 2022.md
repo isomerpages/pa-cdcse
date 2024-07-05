@@ -3,7 +3,7 @@ title: 3M Green Challenge @ South East 2022
 permalink: /what-we-do/future-ready/3mgreenchallenge-2022/
 description: ""
 image: /images/3mgreenBanner.jpeg
-third_nav_title: Future Ready
+third_nav_title: Sustainability
 ---
 <iframe width="660" height="415" src="https://www.youtube.com/embed/aYzxab-PPKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 

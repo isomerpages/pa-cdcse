@@ -2,7 +2,7 @@
 title: Seniors' Learning Camp
 permalink: /what-we-do/care/slc/
 description: Seniors' Learning Camp
-third_nav_title: Care
+third_nav_title: Health
 variant: markdown
 ---
 # Seniors' Learning Camp 

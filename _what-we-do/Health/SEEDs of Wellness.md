@@ -2,7 +2,7 @@
 title: SEEDs of Wellness
 permalink: /what-we-do/resilience/seedsofwellness/
 description: ""
-third_nav_title: Resilience
+third_nav_title: Health
 variant: markdown
 ---
 # SEEDS of Wellness 

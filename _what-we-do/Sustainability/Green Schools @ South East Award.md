@@ -2,7 +2,7 @@
 title: Green Schools @ South East Award
 permalink: /what-we-do/future-ready/green-schools-southeast-award/
 description: ""
-third_nav_title: Future Ready
+third_nav_title: Sustainability
 ---
 # Green Schools @ South East Award
 ================================
