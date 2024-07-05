@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Overview.md
       - Sustainability/.keep
       - Care/.keep
       - Care/Seniors' Learning Camp.md
