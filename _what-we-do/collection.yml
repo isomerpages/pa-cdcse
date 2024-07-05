@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Sustainability/.keep
       - Care/.keep
       - Care/Seniors' Learning Camp.md
       - Care/NTUC FairPrice Walk For Rice⁺ @ South East.md
