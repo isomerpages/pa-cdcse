@@ -40,7 +40,7 @@ Here's a list of community gardens that have adopted Scrappy the Worm!
 
 | Schools |Divisions |
 | -------- | -------- | 
-|MFS   | Kampong Chai Chee     |
+|Blk 419 My First Skool   | Kampong Chai Chee     |
 |St Gabriel's Primary School   | Braddell Heights    |
 |St Gabriel's Secondary School   | Braddell Heights   |
 |Tanjong Katong Girls' School | Mountbatten     |
