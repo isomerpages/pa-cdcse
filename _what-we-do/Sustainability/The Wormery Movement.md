@@ -70,3 +70,5 @@ Here's a list of community gardens that have adopted Scrappy the Worm!
 |Siglap Lucky Valley RN | Siglap|
 |Fengshan Aspen RN  | Fengshan|
 |Siglap South CC| Joo Chiat|
+
+*Information is correct as of 30 June 2024
