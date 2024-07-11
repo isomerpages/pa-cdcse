@@ -40,16 +40,33 @@ Here's a list of community gardens that have adopted Scrappy the Worm!
 
 | Schools |Divisions |
 | -------- | -------- | 
-|Blk 419 My First Skool   | Kampong Chai Chee     |
-|St Gabriel's Primary School   | Braddell Heights    |
-|St Gabriel's Secondary School   | Braddell Heights   |
+|Blk 419 My First Skool | Kampong Chai Chee     |
+|St Gabriel's Primary School  | Braddell Heights    |
+|St Gabriel's Secondary School | Braddell Heights   |
 |Tanjong Katong Girls' School | Mountbatten     |
 |Changkat Primary School | Changi Simei |
-|Bedok Green Primary School   | Bedok     |
+|Bedok Green Primary School | Bedok     |
 |CHIJ Katong Convent | Marine Parade   |
-|Fengshan Primary School   | Kampong Chai Chee     |
-|YangZheng Primary School | Braddell Heights    |
+|Fengshan Primary School | Kampong Chai Chee |
+|YangZheng Primary School | Braddell Heights |
 |Dunman High School   | Mountbatten |
 |Victoria School  |Joo Chiat  |
-|Nanyang JC   | Braddell Heights   |
+|Nanyang JC | Braddell Heights |
 |Chung Cheng High Main  |Mountbatten|
+
+
+| Community Gardens |Divisions |
+| ----------------- | -------------- | 
+|Bedok Bunga Merah RN  |   Bedok|
+|Pelatok Art Farm  |  Changi Simei |
+|Geylang Serai RN  |  Geylang Serai |
+|Greenville RN  | Kembangan-Chai Chee|
+|Ping An Green RN |  Kembangan-Chai Chee|
+|Bedok Ixora RN  |Siglap|
+|Bedok South Horizon RN |  Siglap|
+|Eastwood Ria RN  |Siglap|
+|Bedok Terrace RN | Siglap|
+|Siglap East RN  |Siglap|
+|Siglap Lucky Valley RN | Siglap|
+|Fengshan Aspen RN  | Fengshan|
+|Siglap South CC| Joo Chiat|
