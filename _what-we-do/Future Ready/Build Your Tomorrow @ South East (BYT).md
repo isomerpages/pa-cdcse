@@ -14,10 +14,9 @@ with the necessary knowledge and skills to enhance their employability
 while making informed decisions for their career paths. BYT offers a range
 of activities, including career skills classes, exploration workshops,
 simulation exercises, job attachments and company visits, which schools
-can use to complement their gareer guidance efforts. Through collaboration
+can use to complement their career guidance efforts. Through collaboration
 with schools, corporations, community partners and other stakeholders,
-BYT seeks to provide enhanced employability and a sense of &nbsp;community
-contribution.</p>
+BYT seeks to provide enhanced employability and a sense of community contribution.</p>
 <p>In 2020, BYT replaced its skills development workshops with career skills
 classes to align with Singapore schools’ Education &amp; Career Guidance
 (ECG) efforts.</p>
