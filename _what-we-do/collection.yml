@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Care/Maybank South East Money Savvy Programme.md
       - Care/Learn to Swim Programme.md
       - Care/.keep
       - Care/WeCare Arts Fund and WeCare Arts Experiences.md
