@@ -14,5 +14,8 @@ complete the initial stages of SwimSafer, a national swimming and water
 safety education programme. It also serves as a scouting platform for coaches
 to identify promising aquatic athletes.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="learn to swim" src="/images/What We Do/CARE/Picture1.png">
+</div>
 <p>Since its launch, over 100 children and youth residing in the South East
 district have benefitted from this programme.</p>
