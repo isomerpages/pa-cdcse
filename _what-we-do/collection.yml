@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - Care/Maybank South East Money Savvy Programme.md
+      - Care/Learn to Swim Programme.md
       - Care/.keep
       - Care/WeCare Arts Fund and WeCare Arts Experiences.md
       - Health/.keep
@@ -11,12 +13,12 @@ collections:
       - Health/SEEDs of Wellness.md
       - Health/The Light Within – Mental Wellness Digital Series.md
       - Sustainability/.keep
-      - Sustainability/3M Green Challenge @ South East 2022.md
+      - Sustainability/The Wormery Movement.md
       - Sustainability/Sustainable Living @ South East.md
       - Sustainability/Green Schools @ South East Award.md
-      - Sustainability/The Wormery Movement.md
+      - Sustainability/3M Green Challenge @ South East 2022.md
       - Future Ready/.keep
       - Future Ready/My First Break.md
       - Future Ready/SkillsFuture Advice.md
-      - Future Ready/Citi Build Your Tomorrow @ South East (BYT).md
+      - Future Ready/Build Your Tomorrow @ South East (BYT).md
       - CDC Vouchers Scheme.md
