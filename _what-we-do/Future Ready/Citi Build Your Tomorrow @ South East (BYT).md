@@ -3,24 +3,34 @@ title: Citi Build Your Tomorrow @ South East (BYT)
 permalink: /what-we-do/future-ready/citi-build-your-tomorrow-southeast/
 description: ""
 third_nav_title: Future Ready
+variant: tiptap
 ---
-Citi - Build Your Tomorrow @ South East (BYT)
-===
-![](/images/What%20We%20Do/Future%20Ready/Citi-IMG_8969.jpg)
-
-Citi–Build Your Tomorrow @ South East (BYT) has a vision to “empower our youths to create a better future for themselves.”
-
-![](/images/What%20We%20Do/Future%20Ready/Citi%20Webinar%20image%203.jpeg)
- 
-This holistic career exposure programme aims to equip students from secondary schools and institutes of higher learning with the necessary knowledge and skills to enhance their employability while making informed decisions for their career pathways. BYT forms a suite of career exposure activities that schools can participate in and use to complement their career guidance efforts. This involves career skills classes, career exploration workshops, career simulation exercises, mentorship workshops, job attachments and company visits. By working with schools, corporations, community partners and other stakeholders, BYT seeks to provide students with a career exposure programme that offers greater opportunities both in terms of employability as well as, the spirit of giving back to the community.
-
-![](/images/What%20We%20Do/Future%20Ready/Citi%20-IMG-20210319-WA0020.jpg)
- 
-In 2020, BYT’s skills development workshops were replaced with career skills classes to complement Singapore schools’ Education & Career Guidance (ECG) efforts.
-
-Subsequently in 2021, mentorship workshops were added to provide students opportunity to learn new skills by being attached to working professionals from different industries. Students attended workshops to pick up soft skills such as resume writing, interview skills, profiling and public speaking. This was part of a preparatory course to help them overcome interview nerves, assess their strengths in relation to possible job roles and enhance their capabilities in effective communication. In light of COVID-19, all workshops also comes with a virtual option.
-
-If you are an corporate partner, join us to help equip students and provide opportunities such as talks, workshops and internships.
-If you are a student/school, join us to pick up relevant skills and knowledge for the workforce.
- 
-**For more information, please contact Mr Azhar at email [Azhar_AZMI@pa.gov.sg](Azhar_AZMI@pa.gov.sg)**
+<h1>Build Your Tomorrow @ South East (BYT)</h1>
+<p>Build Your Tomorrow @ South East (BYT) has a vision to “empower our youths
+to create a better future for themselves.”</p>
+<p>This holistic career exposure programme, known as BYT, is designed to
+provide students from Secondary Schools and Institutes of Higher Learning
+with the necessary knowledge and skills to enhance their employability
+while making informed decisions for their career paths. BYT offers a range
+of activities, including career skills classes, exploration workshops,
+simulation exercises, job attachments and company visits, which schools
+can use to complement their gareer guidance efforts. Through collaboration
+with schools, corporations, community partners and other stakeholders,
+BYT seeks to provide enhanced employability and a sense of &nbsp;community
+contribution.</p>
+<p>In 2020, BYT replaced its skills development workshops with career skills
+classes to align with Singapore schools’ Education &amp; Career Guidance
+(ECG) efforts.</p>
+<p>In 2023, a grant was introduced to support our partners who wish to customise
+their ECG programmes according to their specific requirements and are willing
+to engage their own service providers. This allowed schools to tailor their
+programmes to meet their students’ needs in line with BYT’s objectives.</p>
+<p>The new tranche of the grant ending Dec 2024 is open for application.</p>
+<p>We invite corporate partners to join us in empowering students by providing
+valuable opportunities such as talks, workshops, and internships. For students
+and schools, we welcome your participation in acquiring essential skills
+and knowledge directly applicable to the workforce.</p>
+<p><strong>For more information, please contact Mr Azhar at email&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Azhar_AZMI@pa.gov.sg</a></strong>
+</p>
+<p><a href="https://staging-lite.d1ve2t3azudaww.amplifyapp.com/what-we-do/future-ready/sfa/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+</p>
