@@ -7,6 +7,10 @@ third_nav_title: Care
 ---
 <h1><strong><u>Corporate Social Responsibility (CSR)</u></strong></h1>
 <h3><strong>Rice &amp; Oats Distribution</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Rice distribution" src="/images/What We Do/CARE/DSC03131.jpg">
+</div>
 <p>Since its inauguration in 2009, the FairPrice Walk for Rice+&nbsp;@ South
 East has garnered interest over the years. For every 300 metres of walking
 or running recorded, FairPrice&nbsp;Foundation&nbsp;will donate 1 bowl
