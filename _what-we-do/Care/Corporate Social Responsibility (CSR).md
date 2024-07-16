@@ -32,6 +32,11 @@ engagements to now, bi-weekly engagement sessions with the seniors. They
 interact with the seniors, cook up a meal and even visited their homes
 to help fix simple appliances.</p>
 <h4><strong>Sing Investments &amp; Finance Limited x St. Hilda’s Community Services</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/CARE/sing_investment_x_st_hilda.jpg">
+</div>
 <p>SIF's generous sponsorship and coordination brought together 33 beneficiaries
 from St. Hilda’s Community Services for a delightful walk at the picturesque
 Gardens by the Bay. This heartwarming initiative not only contributed to
