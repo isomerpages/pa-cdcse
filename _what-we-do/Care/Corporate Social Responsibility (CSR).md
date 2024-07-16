@@ -21,6 +21,11 @@ our community partners who are well-versed in the needs of vulnerable families
 in the South East District. This has enabled the distribution of rice and
 oats to these families.&nbsp;</p>
 <h4><strong>SIA x Goodlife! Makan</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SIA" src="/images/What We Do/CARE/IMG090.jpg">
+</div>
 <p>SIA came onboard as an active corporate partner of SE CDC and sustained
 its commitment to regular volunteering at Goodlife! Makan, from half-yearly
 engagements to now, bi-weekly engagement sessions with the seniors. They
@@ -44,3 +49,4 @@ for all involved.</p>
 <p>Interested to contribute to the community, you may contact Ms Sharon Lin
 at <a rel="noopener noreferrer nofollow" target="_blank">sharon_lin@pa.gov.sg</a>
 </p>
+<p></p>
