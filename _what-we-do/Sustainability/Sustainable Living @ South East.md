@@ -3,6 +3,7 @@ title: Sustainable Living @ South East
 permalink: /what-we-do/future-ready/sustainable-living-south-east/
 description: ""
 third_nav_title: Sustainability
+variant: markdown
 ---
 # Sustainable Living @ South East
 ==
@@ -15,14 +16,15 @@ Sustainable Living @ South East aims to empower our community stakeholders with 
 <u>Capability Building Workshop (2-3hrs)</u>
 
 The workshop aims to:
-Increase participants awareness of environmental challenges and issues;
-Impart knowledge in sustainability for participants to make informed decisions achieving lasting environmental change; and
-Build participant’s’ capabilities to organise effective environmental projects.
- 
- 
-<u> Sustainability Living Grant </u>
+   
+1)&nbsp;&nbsp;&nbsp;&nbsp; Raise participants’ awareness of environmental challenges and issues;
 
-To empower our community partners to take ownership of the environment and to facilitate growth plans in the Eco-space, the Sustainable Living Grant will support green initiatives with up to $10,000 per environmental project. The grant can support both new initiatives as well as, ongoing initiatives that are looking to scale up current efforts, focusing on the following:
+2)&nbsp;&nbsp;&nbsp;&nbsp; Provide knowledge in sustainability to participants to enable informed decision making for lasting environmental change; and
+
+3)&nbsp;&nbsp;&nbsp;&nbsp; Enhance participant’s’ capabilities to organise effective environmental projects.
+
+## Sustainability Living Grant 
+In order to empower our community partners to take ownership of the environment facilitate growth in the Eco-space, the Sustainable Living Grant will provide support of up to $10,000 per environmental project. This grant is available for both new initiatives and ongoing projects seeking to scale up current efforts, with a focus on the following areas:
 1. Reducing Waste,       
 2. Conserving Energy and Water,
 3.  Increasing Food Sustainability and
