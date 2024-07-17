@@ -22,7 +22,6 @@ in the South East District. This has enabled the distribution of rice and
 oats to these families.&nbsp;</p>
 <h4><strong>SIA x Goodlife! Makan</strong></h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SIA" src="/images/What We Do/CARE/IMG090.jpg">
 </div>
