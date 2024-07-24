@@ -7,7 +7,11 @@ third_nav_title: Harmony
 ---
 <h1><strong>Mayor’s Harmony Futsal Challenge @ South East</strong></h1>
 <p></p>
-<p>The second annual <strong>Mayor’s Harmony Futsal Challenge @ South East 2024</strong> successfully
+<p>The</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mayor's Harmony Futsal Challenge @ South East" src="/images/What We Do/Harmony/Futsal_Grp.jpg">
+</div>
+<p>nual <strong>Mayor’s Harmony Futsal Challenge @ South East 2024</strong> successfully
 concluded on 14 July at SAFRA Tampines, setting the stage for Racial Harmony
 Day next weekend. The event drew an impressive participation of over 100
 young athletes from 16 teams across two categories: under 16 and under
