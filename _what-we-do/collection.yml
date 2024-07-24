@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Harmony/.keep
       - Overview.md
       - Care/Corporate Social Responsibility (CSR).md
       - Care/Maybank South East Money Savvy Programme.md
