@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Harmony
 ---
-<h1></h1>
-<h1><strong>Mayor’s Harmony Futsal Challenge @ South East </strong></h1>
+<h1><strong>Mayor’s Harmony Futsal Challenge @ South East</strong></h1>
+<p></p>
 <p>The second annual <strong>Mayor’s Harmony Futsal Challenge @ South East 2024</strong> successfully
 concluded on 14 July at SAFRA Tampines, setting the stage for Racial Harmony
 Day next weekend. The event drew an impressive participation of over 100
@@ -14,6 +14,9 @@ young athletes from 16 teams across two categories: under 16 and under
 21. These participants, representing local community organisations and
 schools, competed with enthusiasm, showcasing a spirited display of sportsmanship
 and unity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/What We Do/Harmony/IMG074.jpg">
+</div>
 <p>Organised by the <strong>South East Community Development Council (South East CDC)</strong>,
 the challenge aims to foster racial harmony and social cohesion among Singapore’s
 youth through sports, in partnership with <a rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> (OPSG),
