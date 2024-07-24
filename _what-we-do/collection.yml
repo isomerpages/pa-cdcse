@@ -2,18 +2,18 @@ collections:
   what-we-do:
     output: true
     order:
-      - Harmony/.keep
       - Overview.md
+      - Care/.keep
       - Care/Corporate Social Responsibility (CSR).md
       - Care/Maybank South East Money Savvy Programme.md
       - Care/Learn to Swim Programme.md
-      - Care/.keep
       - Care/WeCare Arts Fund and WeCare Arts Experiences.md
       - Health/.keep
       - Health/NTUC FairPrice Walk For Rice⁺ @ South East.md
       - Health/Seniors' Learning Camp.md
       - Health/SEEDs of Wellness.md
       - Health/The Light Within – Mental Wellness Digital Series.md
+      - Harmony/.keep
       - Sustainability/.keep
       - Sustainability/The Wormery Movement.md
       - Sustainability/Sustainable Living @ South East.md
