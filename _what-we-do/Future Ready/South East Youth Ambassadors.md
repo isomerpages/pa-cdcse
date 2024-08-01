@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Future Ready
 ---
-<h1>South East Youth Ambassadors (SE-YA!) </h1>
+<h1>South East Youth Ambassadors (SE-YA!)</h1>
 <p></p>
 <p>South East Youth Ambassadors (SE-YA!) is a dynamic and passionate community
 of young volunteers between 15 to 35 years old, dedicated to making a positive
