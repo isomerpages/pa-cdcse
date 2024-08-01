@@ -21,6 +21,6 @@ third_nav_title: Upcoming Events
 </p>
 <p><strong>Don't miss out on this opportunity to elevate your personal and professional growth!</strong>
 </p>
-<p><strong>Click the link to find out more: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sesff24</a></strong>
+<p><strong>Click the link to find out more: </strong><a href="https://go.gov.sg/sesff24" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/sesff24</a>
 </p>
 <p></p>
