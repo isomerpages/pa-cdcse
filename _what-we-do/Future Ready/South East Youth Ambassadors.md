@@ -87,6 +87,9 @@ strong bonds through a range of enjoyable activities. Following the camp,
 these enthusiastic individuals were formally inducted into the SE-YA! Executive
 Committee (EXCO).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/Capture1.png">
+</div>
 <p><strong>Chinese New Year Celebration and Hari Raya Haji with Tembusu Active Ageing Centre</strong>
 </p>
 <p>SE-YA! has established partnerships with Tembusu Active Ageing Centre,
