@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://go.gov.sg/cdcv
+      url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
@@ -16,9 +16,9 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/care/ntuc-fairprice-walk-for-rice-south-east
-      background: /images/CDCV_Jun_2024___Banner.png
+      background: /images/Landing Page Carousel/ArtsEverywhere_WEbsite_banner.jpg
       variant: center
-      button: Claim your June 2024 CDC Vouchers here!
+      button: Check out our next performance!
       backgroundColor: white
       size: sm
       alignment: left
