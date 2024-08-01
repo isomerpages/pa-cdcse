@@ -115,6 +115,6 @@ inclusivity, contributing to a more inclusive and harmonious society.</p>
 <p></p>
 <p>If you're passionate about advocating for these causes and effecting positive
 change in the community, we welcome you to join us as a volunteer by signing
-up <a href="https://go.gov.sg/seyacamp2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+up <a href="https://go.gov.sg/seya" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 Together, let's create a brighter future for the South East community!</p>
 <p></p>
