@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Future Ready
 ---
 <h1>South East Youth Ambassadors (SE-YA!)</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/SEYA.jpg">
-</div>
 <p>South East Youth Ambassadors (SE-YA!) is a dynamic and passionate community
 of young volunteers between 15 to 35 years old, dedicated to making a positive
 impact in the South East community. Our youths are actively engaged in
@@ -86,10 +83,6 @@ strong bonds through a range of enjoyable activities. Following the camp,
 these enthusiastic individuals were formally inducted into the SE-YA! Executive
 Committee (EXCO).</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/SE_YA_Camp.jpg">
-</div>
-<p></p>
 <p><strong>Chinese New Year Celebration and Hari Raya Haji with Tembusu Active Ageing Centre</strong>
 </p>
 <p>SE-YA! has established partnerships with Tembusu Active Ageing Centre,
@@ -99,9 +92,6 @@ festive cheer to the community while also sharing knowledge of these cultural
 celebrations with the seniors, thereby enriching their understanding of
 the diverse cultural tapestry within the community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/SEYA_COF_1.jpg">
-</div>
 <p><strong>Purple Parade 2023</strong>
 </p>
 <p>SE-YA! also plays a pivotal role in supporting the annual Purple Parade,
