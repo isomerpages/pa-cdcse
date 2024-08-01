@@ -98,7 +98,9 @@ and Hari Raya Haji event. Through these partnerships, our youths brought
 festive cheer to the community while also sharing knowledge of these cultural
 celebrations with the seniors, thereby enriching their understanding of
 the diverse cultural tapestry within the community.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/IMG_76.jpg">
+</div>
 <p><strong>Purple Parade 2023</strong>
 </p>
 <p>SE-YA! also plays a pivotal role in supporting the annual Purple Parade,
