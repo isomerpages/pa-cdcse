@@ -11,6 +11,10 @@ of young volunteers between 15 to 35 years old, dedicated to making a positive
 impact in the South East community. Our youths are actively engaged in
 a diverse range of programmes aimed at broadening their perspectives and
 knowledge.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/Capture.png">
+</div>
 <h4><strong>Causes We Support</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
