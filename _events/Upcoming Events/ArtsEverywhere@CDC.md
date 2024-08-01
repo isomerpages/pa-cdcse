@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Upcoming Events
 ---
 <h1>ArtsEverywhere@CDC</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing Page Carousel/ArtsEverywhere_WEbsite_banner.jpg">
+</div>
 <p><strong>About ArtsEverywhere@CDC</strong>
 </p>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
