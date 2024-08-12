@@ -8,7 +8,7 @@ third_nav_title: Upcoming Events
 <h1>ArtsEverywhere@CDC</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing Page Carousel/ArtsEverywhere_WEbsite_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artseverywhere@CDC" src="/images/Events/WhatsApp_Image_2024_08_08_at_5_53_59_PM.jpg">
 </div>
 <p><strong>About ArtsEverywhere@CDC</strong>
 </p>
