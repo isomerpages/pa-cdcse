@@ -28,7 +28,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
 </div>
 <p></p>
-<p>Here's our upcoming lineup:</p>
+<h4><u>Here's our upcoming lineup:</u></h4>
 <p><strong><u>Saturday, 24 August</u></strong>
 <br>Programme: Ding Yi
 <br>Venue: Heartbeat@Bedok
