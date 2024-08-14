@@ -23,7 +23,12 @@ identity are strengthened through the arts.</p>
 People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth.</p>
 <p></p>
+<p>Check out the highlights from the launch of our ArtEverywhere@CDC!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
+</div>
 <p></p>
+<p>Here's our upcoming lineup:</p>
 <p><strong><u>Saturday, 24 August</u></strong>
 <br>Programme: Ding Yi
 <br>Venue: Heartbeat@Bedok
