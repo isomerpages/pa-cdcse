@@ -4,7 +4,7 @@ permalink: /who-we-are/mayors-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mayor/KEL_0821%20LR.jpg" style="width: 250px;" align="right">
+<img src="/images/Mayor/AK_15907.jpg" style="width: 250px;" align="right">
 
 **Dear Residents and Friends,**
 
