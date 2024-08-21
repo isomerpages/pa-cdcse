@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Future Ready
 ---
-<h1><strong>Skills &amp; Learning Festival @ South East! </strong></h1>
+<h1><strong>Skills &amp; Learning Festival @ South East!</strong></h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/Photo_1.jpg">
+</div>
 <p></p>
 <p></p>
 <p>Over the weekend of 17 August and 18 August, the Skills &amp; Learning
@@ -46,4 +49,5 @@ and provided me with the knowledge and skills to enhance my employability.</p>
 <p>South East CDC organised SkillsFuture learning journeys to expose job
 seekers to growth sectors as part of the Skills &amp; Learning Festival
 @ South East.</p>
+<p></p>
 <p></p>
