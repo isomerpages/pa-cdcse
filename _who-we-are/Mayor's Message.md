@@ -4,19 +4,21 @@ permalink: /who-we-are/mayors-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mayor/KEL_0821%20LR.jpg" style="width: 250px;" align="right">
+<img src="/images/Mayor/AK_15907.jpg" style="width: 250px;" align="right">
 
 **Dear Residents and Friends,**
 
-The dawn of a new year offers a chance to reflect on time that has passed and the fresh start that we have all been given. As South East CDC scans the horizon for the next 12 months, we remain committed to supporting the community on every front. A major initiative to uplift our community is the South East Edu Care Fund, which will help students from lower middle-income families cope with everyday expenses, big and small. This way, every child will have an opportunity to shine, regardless of their circumstances.
+The fourth phase of the Thomson-East Coast Line (TEL) has brought much joy to residents of the South East District. The TEL's expansion has significantly enhanced accessibility for the residents of the South East District, marking a pivotal moment in our community's development. The TEL stations within the South East District include Katong Park, Marine Parade and Siglap.
 
-Another focus for South East CDC is the mental wellbeing of our community. Singapore, like much of the world, has faced a challenging period because of the COVID-19 pandemic. Still, we remained resilient, thanks to our collective grit and resolve. But the pandemic highlighted the importance of mental wellbeing and taking care of our minds as much as we do our bodies. To strengthen our community’s mental health, we will be launching South East Emotional and Empowerment Development Support (SEEDS) of Wellness, which comprises a series of mental health-related initiatives.
+Plans for the line were already being laid out in 2001, serving as a testament to our forwardlooking urban planning strategy and the numerous challenges of constructing an underground MRT line in a densely populated area. Despite these challenges, we have succeeded, and with the TEL, residents now enjoy improved connectivity.
 
-With each passing year, our stewardship of the environment also becomes more critical. On this front, South East CDC is steaming ahead with plans to make our homes more eco-friendly. One project that supports this is The Wormery Movement: A Sustainable Alternative, an effort to foster zero-waste lifestyle in the district. Transforming such initiatives from vision to reality is a collective effort. As we look to 2024, I would like to thank the many community partners, stakeholders, volunteers and residents who help South East CDC achieve mission success every time.
+The line's opening also plays a part in making the South East District a greener place to live. I am heartened to know that many residents have also become environmental champions in their own communities. The South East CDC is committed to supporting community-led initiatives, which contribute to the Singapore Green Plan 2030 through our *Sustainable Living @ South East Grant*, which will scale up suitable green community projects. One such example is the Siglap Corri-Culture initiative, which empowers residents in Siglap to cultivate edibles at home and in communal spaces.
 
-Also central to these efforts are the South East CDC District Councillors (DCs). I am proud to announce that we have reappointed 40 South East CDC DCs, joined with eight new ones for the new council term. Having seen many of them in action, I am certain that their combined contributions will continue to impact the community. We hope that their energy and passion will bring a sense of vitality to all that we doin the community.
+The Paris Olympics this year serves a reminder of the power of sports. In a similar vein, the People’s Association also organised the Community Championship, a tournament that serves as a national movement to bring people together through community sports.
 
-The festive period continues in February 2024 with the Lunar New Year, and on behalf of the team, I wish all residents a joyful holiday ahead. Gong xi fa cai and may 2024 be a bright year for us all!
+The unifying nature of sports was also on full display at our *Harmony Futsal Challenge*. The youth players may have come from different backgrounds, but it was inspiring to see how their shared love for sports bridged many of their differences. With the rollout of Healthier SG, we can look forward to enrolling in community sports and wellness programmes to support our customised health plans. As a soccer enthusiast myself, I am very happy to note that sports will be an even bigger part of our lives.
+
+These initiatives promise to cultivate an even more inclusive and united community in our beloved district. They continue a journey started by the South East CDC since our inception, by fostering and showcasing a sense of belonging and familial bonds that many of us feel for our fellow neighbours. This year’s National Day Parade song, ‘Not Alone’, encapsulates this message perfectly — it is a poignant listen as we celebrate our 59th year of independence. Happy National Day to all!
 
  
 Best Wishes,
