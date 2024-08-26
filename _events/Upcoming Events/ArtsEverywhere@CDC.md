@@ -29,11 +29,6 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </div>
 <p></p>
 <h4><u>Here's our upcoming lineup:</u></h4>
-<p><strong><u>Saturday, 24 August</u></strong>
-<br>Programme: Ding Yi
-<br>Venue: Heartbeat@Bedok
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
-(11.30am - 12.30pm), Performance &amp; Meet-and-Greet (1.30 - 2.30pm)</p>
 <p></p>
 <p><strong><u>Saturday, 14 September</u></strong>
 <br>Programme: Phil Winds - PhilSax
