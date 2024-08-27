@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Health
 ---
 <h2>Mobile TCM @ East Coast and Marine Parade</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="mobile tcm" src="/images/What We Do/Health/TCM.jpg">
+</div>
 <p>The Mobile TCM clinic, serving residents from East Coast and Marine Parade
 GRC, was launched in 2021 and 2022 to address the healthcare needs of seniors
 in less accessible estates. Due to distance and lack of transport options,
