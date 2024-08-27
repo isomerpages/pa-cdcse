@@ -36,5 +36,4 @@ uplifting vulnerable residents in the South East District.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What%20We%20Do/CARE/DSC00606_Large.jpeg">
 </div>
-<p><a href="https://form.gov.sg/6548af677077740011c11249" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p></p>
