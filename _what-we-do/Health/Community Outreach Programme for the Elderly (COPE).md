@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Health
 ---
-<h2>Community Outreach Programme for the Elderly (COPE) </h2>
+<h2>Community Outreach Programme for the Elderly (COPE)</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="COPE" src="/images/What We Do/Health/Cope.jpg">
+</div>
 <p>The Community Outreach Programme for the Elderly (COPE) was initially
 launched in 1999 to reach out to needy elderly individuals residing in
 one- to three-room HDB flats in the South East district. The programme
