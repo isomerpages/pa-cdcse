@@ -3,21 +3,37 @@ title: Seniors' Learning Camp
 permalink: /what-we-do/care/slc/
 description: Seniors' Learning Camp
 third_nav_title: Health
-variant: markdown
+variant: tiptap
 ---
-# Seniors' Learning Camp 
-### - Active Living Starts with Me
-
-![14TH Senior's Learning Camp Group Photo](/images/What%20We%20Do/CARE/IMG203.jpg)
-
-Seniors’ Learning Camp is a 2D1N camp, where South East CDC introduces a series of team-building games, workshops and exciting activities to bond seniors aged 45 and above in a youthful, happy and fun environment. It is a comprehensive program featuring a range of enriching workshops, including 'Nurturing Your Mind,' 'Enhancing Communication,' 'Art Therapy,' and 'Positive Thinking.' Additionally, there are other engaging activities for the seniors, such as Air Rifling, Laser/Archery Tag, and Outdoor Adventure experiences like the Flying Fox and other obstacle courses.
-![](/images/What%20We%20Do/CARE/20231102_102115.jpg)
-
-Our mission is to promote positive perceptions of ageing by showcasing the abundant opportunities and activities available for seniors to lead an active and fulfilling lifestyle. To encourage inter-dependent learning and mentoring, seniors from our Alumni network are invited to facilitate the camps.
-
-![](/images/What%20We%20Do/CARE/DSC00765_Large.jpeg)
-After the camp, seniors would contribute back to the community by organising projects that could bring joy to the vulnerable residents in the South East District. Over the past camps, we have engaged more than 380 seniors who have implemented at least 33 community projects and outreached to at least 1,200 vulnerable residents. The seniors also form an alumni network for sustained involvement in further learning, activities, workshops and projects.
-
-![](/images/What%20We%20Do/CARE/DSC00606_Large.jpeg)
-We're delighted to announce the conclusion of the 14th run of our inaugural 2D1N Seniors' Learning Camp. The camp featured team-building games, enriching workshops, and thrilling activities, all aimed at fostering connections among our seniors.
-Stay tuned for their community projects, aimed at helping vulnerable residents in the South East District.
+<h1>15th Seniors' Learning Camp</h1>
+<h3>- Active Living Starts with Me</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="14TH Senior's Learning Camp Group Photo" src="/images/What%20We%20Do/CARE/IMG203.jpg">
+</div>
+<p></p>
+<p>Experience an unforgettable 2-Day 1-Night adventure with fellow seniors
+aged 45 and above. The 15<sup>th</sup> run of Seniors’ Learning Camp (SLC)
+promises a diverse array of team-building games, workshops, and exciting
+activities to create a vibrant and joyful environment.</p>
+<p>Our mission is clear: to redefine perceptions of ageing by showcasing
+the wealth of opportunities and activities available for seniors to lead
+active and fulfilling lives. Integral to our camp is an emphasis on collaborative
+learning and mentorship, with seniors from our esteemed Seniors’ Learning
+Camp Alumni (SLCA) taking the lead as facilitators, ensuring a rich and
+engaging experience for all.</p>
+<p>Ready to be part of this transformative experience? Register your interest
+<a href="https://go.gov.sg/preregister-slc" rel="noopener noreferrer nofollow" target="_blank">here</a>and stay tuned for updates on the community projects aimed at
+uplifting vulnerable residents in the South East District.</p>
+<p>Let's make a difference together!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What%20We%20Do/CARE/20231102_102115.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What%20We%20Do/CARE/DSC00765_Large.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What%20We%20Do/CARE/DSC00606_Large.jpeg">
+</div>
+<p></p>
