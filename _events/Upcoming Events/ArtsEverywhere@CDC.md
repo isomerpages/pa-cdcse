@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Upcoming Events
 ---
 <h1>ArtsEverywhere@CDC</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/IMG_144.jpg">
+</div>
 <p></p>
 <p><strong>About ArtsEverywhere@CDC</strong>
 </p>
@@ -27,9 +30,6 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p></p>
 <h4><u>Here's our upcoming lineup:</u></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/IMG_144.jpg">
-</div>
 <p><strong><u>Saturday, 19 October</u></strong>
 <br>Performing Artist: NADI Singapura
 <br>Venue: Braddel Heights Community Club
