@@ -47,3 +47,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <br>Venue: Heartbeat@Bedok
 <br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
 (11.30am - 12.30pm; 1.30 - 2.30pm)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_149.jpg">
+</div>
+<p></p>
