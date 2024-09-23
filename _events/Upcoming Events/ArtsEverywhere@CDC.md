@@ -33,9 +33,14 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
 (11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <p></p>
-<p><strong><u>Saturday, 14 September</u></strong>
+<p><strong><u>Saturday, 23 November</u></strong>
 <br>Performing Artist: Brahmastra
-<br>Venue: Wisma Geylang Serai
+<br>Venue: Braddel Heights Community Club
 <br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
 (11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <p></p>
+<p><strong><u>Saturday, 28 December</u></strong>
+<br>Performing Artist: yIN Harmony
+<br>Venue: Heartbeat@Bedok
+<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
+(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
