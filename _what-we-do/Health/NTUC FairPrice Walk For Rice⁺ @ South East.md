@@ -15,7 +15,7 @@ On 21 Sep 2024, NTUC FairPrice (FairPrice) and South East Community Development 
 
 The 10 week-long initiative, running from 21 Sept to 30 Nov, is geared towards encouraging individuals to build stronger relationships within the community and to stay active by walking or running and clocking their distance for a good cause.
 
-
+![](/images/What%20We%20Do/Health/IMG_4180.jpg)
 Since its inauguration in 2009, this long-running community initiative, has brought together corporates, individuals and social service organisations to walk over 6 million kilometres, raising nearly $1.4 million worth of essential rice and grains for more than 100,000 vulnerable residents in the district to date.
 
 
