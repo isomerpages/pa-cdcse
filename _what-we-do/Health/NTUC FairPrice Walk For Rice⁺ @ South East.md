@@ -19,6 +19,6 @@ The 10 week-long initiative, running from 21 Sept to 30 Nov, is geared towards e
 Since its inauguration in 2009, this long-running community initiative, has brought together corporates, individuals and social service organisations to walk over 6 million kilometres, raising nearly $1.4 million worth of essential rice and grains for more than 100,000 vulnerable residents in the district to date.
 
 
-For every 300 metres of walking or running recorded, FairPrice Foundation will donate 1 bowl of white rice, 1 bowl of brown rice and 1 bowl of oatmeal to a vulnerable family residing in South East District. This year, South East CDC and FairPrice is aiming to raise 500,000 bowls of white rice and brown rice and 50,000 bowls of oats, to benefit 7,000 beneficiaries within the South East District.
+For every 300 metres of walking or running recorded, FairPrice Foundation will donate 1 bowl of white rice, 1 bowl of brown rice and 1 bowl of oatmeal to a vulnerable family residing in South East District. This year, South East CDC and FairPrice Foundation is aiming to raise 500,000 bowls of white rice and brown rice and 50,000 bowls of oats, to benefit 7,000 beneficiaries within the South East District.
 
 You can make a difference too! Contribute your distance here:[go.gov.sg/wfr2024](go.gov.sg/wfr2024)
