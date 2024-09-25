@@ -32,7 +32,7 @@ to a vulnerable family residing in South East District. This year, South
 East CDC and FairPrice Foundation is aiming to raise 500,000 bowls of white
 rice and brown rice and 50,000 bowls of oats, to benefit 7,000 beneficiaries
 within the South East District.</p>
-<p>You can make a difference too! Click here to clock in your mileage :
-<a href="https://form.gov.sg/64d0b6924d0bb70012e42dda" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
+<p>You can make a difference too! Click here to clock in your mileage : &nbsp;[**
+<a href="http://go.gov.sg/cdcv**](https://safe.menlosecurity.com/https://go.gov.sg/cdcv)" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/wfr2024**](https://safe.menlosecurity.com/https://go.gov.sg/wfr2024)</a>
 </p>
 <p></p>
