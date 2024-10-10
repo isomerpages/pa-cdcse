@@ -32,7 +32,7 @@ evidence for your organisations.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="12 Going on 13 Musical Skit" src="/images/What We Do/Health/12_13_SECDC_A4_ART_Comm_Skit_raw.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="12 Going on 13 Musical Skit" src="/images/What We Do/Health/12_13_SECDC_A4_ART_Comm_Skit_raw.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
