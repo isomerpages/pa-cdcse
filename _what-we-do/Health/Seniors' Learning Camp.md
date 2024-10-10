@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <h1>15th Seniors' Learning Camp</h1>
 <h3>- Active Living Starts with Me</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="14TH Senior's Learning Camp Group Photo" src="/images/What%20We%20Do/CARE/IMG203.jpg">
-</div>
 <p></p>
 <p>Seniors experienced an unforgettable 2-Day 1-Night adventure with fellow
 participants aged 45 and above. The 15th run of Seniors' Learning Camp
