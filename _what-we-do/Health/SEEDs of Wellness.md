@@ -30,6 +30,10 @@ evidence for your organisations.</p>
 </ul>
 <p><strong>b. Musical and Skit</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="12 Going on 13 Musical Skit" src="/images/What We Do/Health/12_13_SECDC_A4_ART_Comm_Skit_raw.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>The musical and skit are curated to raise awareness and promote a deeper
@@ -39,10 +43,100 @@ loneliness often associated with mental well-being challenges.</p>
 <p></p>
 </li>
 <li>
-<p>We invite you to join us for a musical focusing on youths' mental health
-challenges in October 2024, followed by a post-musical dialogue. Community
-partners can also take partin a skit adapted from the musical in November
-2024, contributing to the awareness of youths' mental health issues.</p>
+<p>We invite you to join us for the community skit focusing on youths' mental
+health challenges, followed by a post dialogue.</p>
+<p>Residents of South East District can also watch the community skit version
+of this show at the following locations:&nbsp;</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 November 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heartbeat @ Bedok&nbsp;</p>
+<p>11 Bedok North Street 1&nbsp;</p>
+<p>Singapore 469662&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 November 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wisma Geylang Serai&nbsp;</p>
+<p>1 Engku Aman Turn&nbsp;</p>
+<p>Singapore 408528&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 November 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Katong Community Centre&nbsp;</p>
+<p>51 Kampong Arang Rd&nbsp;</p>
+<p>Singapore 438178&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 November 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wisma Geylang Serai&nbsp;</p>
+<p>1 Engku Aman Turn&nbsp;</p>
+<p>Singapore 408528&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </li>
 </ul>
 <p><strong>c. Self-Help Toolkit</strong>
@@ -55,7 +149,7 @@ issues.</p>
 <p></p>
 </li>
 <li>
-<p>The toolkit will also feature additional resourcesfor mental health strategies
+<p>The toolkit will also feature additional resources for mental health strategies
 and stress-coping techniques.</p>
 </li>
 </ul>
