@@ -6,6 +6,7 @@ third_nav_title: Sustainability
 variant: markdown
 ---
 # The Wormery Movement: A Sustainable Alternative
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sFU43CX5EeA?si=fAdChyYM0mVWegl9" height="315" width="560"></iframe>
 
 As food waste continues to be a challenge, South East CDC introduced an educational and sustainable programme topromote a zero waste lifestyle that supports a circular economy in the community.
 
