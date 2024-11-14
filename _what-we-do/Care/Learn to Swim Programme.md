@@ -17,5 +17,5 @@ to identify promising aquatic athletes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="learn to swim" src="/images/What We Do/CARE/Picture1.png">
 </div>
-<p>Since its launch, over 80 children and youth residing in the South East
-district have benefitted from this programme.</p>
+<p>Since its launch, a total of 80 children and youth residing in the South
+East district have benefitted from this programme.</p>
