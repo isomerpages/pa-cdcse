@@ -33,7 +33,7 @@ management skills. Participants also receive 1-to-1 matched savings to
 foster a regular saving habit.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Cohort 4 ITE College East" src="/images/What We Do/CARE/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/Photo_4_10_24__4_22_35_PM.jpg">
 </div>
-<p>We are currently running cohort 6 of this impactful programme, which continues
-to build on the success of previous cohorts.</p>
+<p>We have successfully concluded cohort 6 of this impactful programme, which
+continues to build on the success of previous cohorts.</p>
