@@ -74,63 +74,15 @@ of this show at the following locations:&nbsp;</p>
 <p>1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 November 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.45pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heartbeat @ Bedok&nbsp;</p>
-<p>11 Bedok North Street 1&nbsp;</p>
-<p>Singapore 469662&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 November 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wisma Geylang Serai&nbsp;</p>
-<p>1 Engku Aman Turn&nbsp;</p>
-<p>Singapore 408528&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 November 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Katong Community Centre&nbsp;</p>
-<p>51 Kampong Arang Rd&nbsp;</p>
-<p>Singapore 438178&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>30 November 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC&nbsp;</p>
+<p>10.30AM - 12.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wisma Geylang Serai&nbsp;</p>
 <p>1 Engku Aman Turn&nbsp;</p>
-<p>Singapore 408528&nbsp;</p>
+<p>Singapore 408528, LEVEL 4</p>
 </td>
 </tr>
 </tbody>
