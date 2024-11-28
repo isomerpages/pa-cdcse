@@ -4,21 +4,19 @@ permalink: /who-we-are/mayors-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mayor/AK_15907.jpg" style="width: 250px;" align="right">
+<img src="/images/Mayor/AK_15993.jpg" style="width: 250px;" align="right">
 
 **Dear Residents and Friends,**
 
-The fourth phase of the Thomson-East Coast Line (TEL) has brought much joy to residents of the South East District. The TEL's expansion has significantly enhanced accessibility for the residents of the South East District, marking a pivotal moment in our community's development. The TEL stations within the South East District include Katong Park, Marine Parade and Siglap.
+The year-end period is one for reflection, and as I look back at the past year, I am deeply encouraged by the community spirit that continues to define the South East District. Our collective strength and care for one another embody the *gotong royong* spirit that keeps us moving forward, even in challenging times. As a social broker, South East CDC plays a key role in connecting partners and resources to uplift our community. In recent months, we have seen how important these values of care and community are.
 
-Plans for the line were already being laid out in 2001, serving as a testament to our forwardlooking urban planning strategy and the numerous challenges of constructing an underground MRT line in a densely populated area. Despite these challenges, we have succeeded, and with the TEL, residents now enjoy improved connectivity.
+This spirit drives national initiatives like the *SkillsFuture Jobseeker Support Scheme*, which offers a lifeline to those facing employment challenges. South East CDC, too, stands ready to ensure that every resident feels supported and prepared for the future. Thousands of residents — including those seeking new career paths — explored opportunities through our *Skills &amp; Learning Festival @ South East*, especially in growth sectors.
 
-The line's opening also plays a part in making the South East District a greener place to live. I am heartened to know that many residents have also become environmental champions in their own communities. The South East CDC is committed to supporting community-led initiatives, which contribute to the Singapore Green Plan 2030 through our *Sustainable Living @ South East Grant*, which will scale up suitable green community projects. One such example is the Siglap Corri-Culture initiative, which empowers residents in Siglap to cultivate edibles at home and in communal spaces.
+The success of such programmes depends on the many partners, grassroots leaders and volunteers who generously offer their time and energy. I want to take this opportunity to recognise and thank our National Day Awards 2024 recipients for their outstanding service to the South East community and beyond. Their dedication has been vital in bringing our programmes to life, making sure that support reaches those who need it most. Thanks to their hard work, we are able to stay connected to the heart of our community.
 
-The Paris Olympics this year serves a reminder of the power of sports. In a similar vein, the People’s Association also organised the Community Championship, a tournament that serves as a national movement to bring people together through community sports.
+Looking ahead, South East CDC is committed to engaging even more stakeholders to build an active and vibrant district. Our goal is to foster a deep sense of belonging among all residents, creating a space where everyone can thrive, feel connected and contribute to the growth of our community. Together, we can continue to uplift one another and make the South East District a beacon of resilience, unity and progress.
 
-The unifying nature of sports was also on full display at our *Harmony Futsal Challenge*. The youth players may have come from different backgrounds, but it was inspiring to see how their shared love for sports bridged many of their differences. With the rollout of Healthier SG, we can look forward to enrolling in community sports and wellness programmes to support our customised health plans. As a soccer enthusiast myself, I am very happy to note that sports will be an even bigger part of our lives.
-
-These initiatives promise to cultivate an even more inclusive and united community in our beloved district. They continue a journey started by the South East CDC since our inception, by fostering and showcasing a sense of belonging and familial bonds that many of us feel for our fellow neighbours. This year’s National Day Parade song, ‘Not Alone’, encapsulates this message perfectly — it is a poignant listen as we celebrate our 59th year of independence. Happy National Day to all!
+With that, I wish all of you a happy and healthy 2025!
 
  
 Best Wishes,
