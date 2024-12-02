@@ -26,17 +26,17 @@ sections:
       size: sm
       alignment: left
   - infobar:
-      description: Towards A Greener, Healthier And More Connected District
+      description: Making Strides As One
       button: READ MAYOR'S MESSAGE HERE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
       button: READ THE LATEST ISSUE HERE
-      url: https://go.gov.sg/csemay-aug2024
+      url: https://go.gov.sg/csesep-dec2024
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/Contact_SE_Cover_May_Aug_2024_Cover.jpg
+      image: /images/NewsRoom/CSE/Contact_SE_Cover_Sep_Dec_2024_Cover.jpg
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
