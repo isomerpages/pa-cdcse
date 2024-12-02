@@ -30,18 +30,6 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p></p>
 <h4><u>Here's our upcoming lineup:</u></h4>
 <p></p>
-<p><strong><u>Saturday, 19 October</u></strong>
-<br>Performing Artist: NADI Singapura
-<br>Venue: Braddel Heights Community Club
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
-(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
-<p></p>
-<p><strong><u>Saturday, 23 November</u></strong>
-<br>Performing Artist: Brahmastra
-<br>Venue: Braddel Heights Community Club
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
-(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
-<p></p>
 <p><strong><u>Saturday, 28 December</u></strong>
 <br>Performing Artist: yIN Harmony
 <br>Venue: Heartbeat@Bedok
