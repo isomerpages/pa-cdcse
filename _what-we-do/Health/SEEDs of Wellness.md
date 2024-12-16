@@ -36,7 +36,7 @@ evidence for your organisations.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>The musical and skit are curated to raise awareness and promote a deeper
+<p>The musical and skit were curated to raise awareness and promote a deeper
 understanding of mental well-being issues through relatable characters
 who overcome adversity. Additionally, they aim to alleviate feelings of
 loneliness often associated with mental well-being challenges.</p>
@@ -46,9 +46,16 @@ loneliness often associated with mental well-being challenges.</p>
 <p>We've wrapped up '12 Going on 13', our SEEDS of Wellness initiative that
 reached out to over 2300 participants in the South East District through
 theatre and community events.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Health/IMG_138.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Health/IMG_64.jpg">
+</div>
 </li>
 </ul>
-<p></p>
 <p><strong>c. Self-Help Toolkit</strong>
 </p>
 <ul data-tight="true" class="tight">
