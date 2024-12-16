@@ -43,54 +43,12 @@ loneliness often associated with mental well-being challenges.</p>
 <p></p>
 </li>
 <li>
-<p>We invite you to join us for the community skit focusing on youths' mental
-health challenges, followed by a post dialogue.</p>
-<p>Residents of South East District can also watch the community skit version
-of this show at the following locations:&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Location</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 November 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.30AM - 12.30PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wisma Geylang Serai&nbsp;</p>
-<p>1 Engku Aman Turn&nbsp;</p>
-<p>Singapore 408528, LEVEL 4</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>We've wrapped up '12 Going on 13', our SEEDS of Wellness initiative that
+reached out to over 2300 participants in the South East District through
+theatre and community events.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>c. Self-Help Toolkit</strong>
 </p>
 <ul data-tight="true" class="tight">
