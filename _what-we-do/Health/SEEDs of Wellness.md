@@ -36,59 +36,24 @@ evidence for your organisations.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>The musical and skit are curated to raise awareness and promote a deeper
+<p>The musical and skit were curated to raise awareness and promote a deeper
 understanding of mental well-being issues through relatable characters
 who overcome adversity. Additionally, they aim to alleviate feelings of
 loneliness often associated with mental well-being challenges.</p>
 <p></p>
 </li>
 <li>
-<p>We invite you to join us for the community skit focusing on youths' mental
-health challenges, followed by a post dialogue.</p>
-<p>Residents of South East District can also watch the community skit version
-of this show at the following locations:&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Location</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 November 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.30AM - 12.30PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wisma Geylang Serai&nbsp;</p>
-<p>1 Engku Aman Turn&nbsp;</p>
-<p>Singapore 408528, LEVEL 4</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>We've wrapped up '12 Going on 13', our SEEDS of Wellness initiative that
+reached out to over 2300 participants in the South East District through
+theatre and community events.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Health/IMG_138.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Health/IMG_64.jpg">
+</div>
 </li>
 </ul>
 <p><strong>c. Self-Help Toolkit</strong>
