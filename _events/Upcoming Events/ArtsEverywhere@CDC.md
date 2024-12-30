@@ -28,14 +28,8 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
 </div>
 <p></p>
-<h4><u>Here's our upcoming lineup:</u></h4>
-<p></p>
-<p><strong><u>Saturday, 28 December</u></strong>
-<br>Performing Artist: yIN Harmony
-<br>Venue: Heartbeat@Bedok
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
-(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_149.jpg">
 </div>
+<h4>Stay tuned for 2025 performances coming soon!</h4>
 <p></p>
