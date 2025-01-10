@@ -21,7 +21,6 @@ sections:
           url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
       background: /images/Landing_page_banner.png
       variant: center
-      button: Find out more about CDC Vouchers Scheme!
       backgroundColor: white
       size: sm
       alignment: left
