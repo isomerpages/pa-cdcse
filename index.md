@@ -19,11 +19,12 @@ sections:
         - title: ArtsEverywhere@CDC
           description: Bringing art to the community.
           url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
-      background: /images/Landing_page_banner.png
+      background: /images/Landing Page Carousel/PACDC_web_banner_31_dec_1.jpg
       variant: center
       backgroundColor: white
       size: sm
       alignment: left
+      button: Find out more about the CDC Vouchers Scheme!
   - infobar:
       description: Making Strides As One
       button: READ MAYOR'S MESSAGE HERE
