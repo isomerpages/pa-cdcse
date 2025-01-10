@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
+      url: https://vouchers.cdc.gov.sg/
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
@@ -19,9 +19,9 @@ sections:
         - title: ArtsEverywhere@CDC
           description: Bringing art to the community.
           url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
-      background: /images/Landing Page Carousel/ArtsEverywhere_WEbsite_banner.jpg
+      background: /images/Landing_page_banner.png
       variant: center
-      button: Check out our next performance!
+      button: Find out more about CDC Vouchers Scheme!
       backgroundColor: white
       size: sm
       alignment: left
