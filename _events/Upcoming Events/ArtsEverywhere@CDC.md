@@ -31,5 +31,75 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_149.jpg">
 </div>
-<h4>Stay tuned for 2025 performances coming soon!</h4>
+<h4>Check out our 2025 performances:</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Performance</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4pm to 8pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADI Singapura</p>
+<p>Fringe: 4pm</p>
+<p>Performance 1: 5pm- 5.45pm</p>
+<p></p>
+<p>Performance 2: 630pm -715pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Heartbeat@bedok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30am to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>PhilWinds</strong>
+</p>
+<p>Fringe: 11am</p>
+<p>Performance 1: 11.45am</p>
+<p></p>
+<p>Performance 2: 1.15pm</p>
+</li>
+<li>
+<p><strong>Brahmastra</strong>
+</p>
+<p>Fringe: 4pm</p>
+<p>Performance 1: 4.45pm</p>
+<p></p>
+<p>Performance 2: 6.15pm</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
