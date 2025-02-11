@@ -64,12 +64,12 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <td rowspan="1" colspan="1">
 <p>NADI Singapura</p>
 <p>Fringe: 4pm</p>
-<p>Performance 1: 5pm- 5.45pm</p>
+<p>Performance 1: 5.15pm- 5.45pm</p>
 <p></p>
-<p>Performance 2: 630pm -715pm</p>
+<p>Performance 2: 7.30pm- 7.45pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Heartbeat@bedok</p>
+<p>Heartbeat@Bedok</p>
 </td>
 </tr>
 <tr>
