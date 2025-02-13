@@ -85,13 +85,13 @@ their students and/or the community on environmental issues.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>St. Anthony'sCanossianPrimary School</p>
+<p>St. Anthony's Canossian Primary School</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>St. Anthony'sCanossianSecondary School</p>
+<p>St. Anthony's Canossian Secondary School</p>
 </li>
 </ul>
 <p></p>
