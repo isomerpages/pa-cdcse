@@ -38,61 +38,138 @@ their students and/or the community on environmental issues.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dunman High School</p>
 <p></p>
+</li>
+<li>
 <p>Fengshan Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Manjusri Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Opera Estate Primary School</p>
 <p></p>
+</li>
+<li>
 <p>St. Gabriel's Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Tanjong Katong Girls' School</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Changkat Changi Secondary School</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>CHIJ (Katong) Primary</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Maha Bodhi School</p>
+</li>
+</ul>
 <p></p>
-<p>St. Anthony'sCanossian Primary School</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>St. Anthony'sCanossianPrimary School</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St. Anthony'sCanossianSecondary School</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Temasek Primary School</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Anglican High School</p>
 <p></p>
+</li>
+<li>
 <p>Canossa Catholic Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Changkat Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Nanyang Junior College</p>
 <p></p>
+</li>
+<li>
 <p>St. Gabriel's Secondary School</p>
 <p></p>
+</li>
+<li>
 <p>Tanjong Katong Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Tanjong Katong Secondary School</p>
 <p></p>
+</li>
+<li>
 <p>Tao Nan School</p>
 <p></p>
+</li>
+<li>
 <p>Temasek Secondary School</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Bedok Green Primary School</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bedok Green Primary School</p>
 <p></p>
+</li>
+<li>
 <p>Bedok Green Secondary School</p>
 <p></p>
+</li>
+<li>
 <p>Geylang MethodistSchool (Primary)</p>
+<p></p>
+</li>
+<li>
 <p>Kong Hwa School</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Yangzheng Primary School</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Zhonghu Secondary School</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
