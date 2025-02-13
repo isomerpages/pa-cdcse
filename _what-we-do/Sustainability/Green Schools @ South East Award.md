@@ -151,7 +151,7 @@ their students and/or the community on environmental issues.</p>
 <p></p>
 </li>
 <li>
-<p>Geylang MethodistSchool (Primary)</p>
+<p>Geylang Methodist School (Primary)</p>
 <p></p>
 </li>
 <li>
