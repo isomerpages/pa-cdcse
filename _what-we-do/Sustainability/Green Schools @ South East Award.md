@@ -3,80 +3,175 @@ title: Green Schools @ South East Award
 permalink: /what-we-do/future-ready/green-schools-southeast-award/
 description: ""
 third_nav_title: Sustainability
-variant: markdown
+variant: tiptap
 ---
-# Green Schools @ South East Award
-================================
-
-## Background
-
-
-The Green Schools @ South East Award aims to acknowledge and commend Schools in the South East District for their dedicated efforts put in executing projects to preserve and sustain the environment, as well as for engaging their students and/or the community on environmental issues.
-
-## Here are the winners for Green Schools @ South East Awards 2023
-
-
-##### Certification of Participation
-
-1.  Bedok View Secondary School
-2.  St Patrick’s School
-
-##### Certificate of Merit
-
-1.     Dunman High School
-
-2.     Fengshan Primary School
-
-3.     Manjusri Secondary School
-
-4.     Opera Estate Primary School
-
-5.     St. Anthony's Canossian Secondary School
-
-6.     St. Gabriel's Primary School
-
-##### Excellence Award
-
-1.     Changkat Changi Secondary School
-
-2.     CHIJ (Katong) Primary
-
-3.     Maha Bodhi School
-
-4.     St. Anthony's Canossian Primary School
-
-5.     St. Gabriel's Secondary School
-
-6.     Temasek Primary School
-
-7.     Temasek Secondary School
-
-##### Sustained Excellence Award
-
-1.     Anglican High School
-
-2.     Bedok Green Secondary School
-
-3.     Canossa Catholic Primary School
-
-4.     Changkat Primary School
-
-5.     Kong Hwa School
-
-6.     Nanyang Junior College
-
-7.     Tanjong Katong Primary School
-
-8.     Tanjong Katong Secondary School
-
-9.     Tao Nan School
-
-##### Sustained Excellence Honorary Award
-
-1.     Bedok Green Primary School
-
-2.     Geylang Methodist School (Primary)
-
-3.     Yangzheng Primary School
-
-4.      Zhonghua Secondary School
+<h1>Green Schools @ South East Award</h1>
+<p>================================</p>
+<h2>Background</h2>
+<p>The Green Schools @ South East Award aims to acknowledge and commend Schools
+in the South East District for their dedicated efforts put in executing
+projects to preserve and sustain the environment, as well as for engaging
+their students and/or the community on environmental issues.</p>
+<h2>Here are the winners for Green Schools @ South East Awards 2024</h2>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Merit Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Excellence Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sustained Excellence Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sustained Excellence Honorary Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Dunman High School</p>
+<p></p>
+</li>
+<li>
+<p>Fengshan Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Manjusri Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Opera Estate Primary School</p>
+<p></p>
+</li>
+<li>
+<p>St. Gabriel's Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Tanjong Katong Girls' School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Changkat Changi Secondary School</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CHIJ (Katong) Primary</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maha Bodhi School</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>St. Anthony's Canossian Primary School</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>St. Anthony's Canossian Secondary School</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Temasek Primary School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Anglican High School</p>
+<p></p>
+</li>
+<li>
+<p>Canossa Catholic Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Changkat Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Nanyang Junior College</p>
+<p></p>
+</li>
+<li>
+<p>St. Gabriel's Secondary School</p>
+<p></p>
+</li>
+<li>
+<p>Tanjong Katong Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Tanjong Katong Secondary School</p>
+<p></p>
+</li>
+<li>
+<p>Tao Nan School</p>
+<p></p>
+</li>
+<li>
+<p>Temasek Secondary School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bedok Green Primary School</p>
+<p></p>
+</li>
+<li>
+<p>Bedok Green Secondary School</p>
+<p></p>
+</li>
+<li>
+<p>Geylang Methodist School (Primary)</p>
+<p></p>
+</li>
+<li>
+<p>Kong Hwa School</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yangzheng Primary School</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhonghu Secondary School</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
