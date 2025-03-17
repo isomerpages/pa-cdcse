@@ -26,7 +26,7 @@ sections:
       alignment: left
       button: Find out more about the CDC Vouchers Scheme!
   - infobar:
-      description: Making Strides As One
+      description: A Year Of Health, Happiness, And Harmony
       button: READ MAYOR'S MESSAGE HERE
       url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
       title: Mayor's Message
