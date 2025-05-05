@@ -39,7 +39,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Date Time</p>
 </th>
 <th rowspan="1" colspan="2">
 <p>Perfomance</p>
@@ -51,8 +51,8 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date: 23 May</p>
-<p>Time: 10am to 2.45pm</p>
+<p>23 May</p>
+<p>10am to 2.45pm</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>10.30am - 11am</p>
@@ -80,7 +80,6 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>11.45am - 12.15pm</p>
 <p>Nam Hwa Opera: <strong><em>《「戏梦流芳」: 表达戏曲的魅力长存》 "The Charm of Opera Endures in the Dream of Drama</em></strong>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -117,6 +116,20 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <td rowspan="1" colspan="2">
 <p>2.15pm - 2.45pm</p>
 <p>RAW Moves: Performance Set 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
