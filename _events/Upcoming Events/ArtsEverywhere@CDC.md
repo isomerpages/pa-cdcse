@@ -23,6 +23,9 @@ identity are strengthened through the arts.</p>
 People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_149.jpg">
+</div>
 <p>Check out the highlights from the launch of our ArtEverywhere@CDC!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
