@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Upcoming Events
 variant: tiptap
 ---
-<h1>SkillsFuture Advice Job Fair</h1>
+<h1>SkillsFuture Advice Job Fairs</h1>
 <p><strong>Exciting Career Opportunities Await at Upcoming Job Fairs in the South East District!</strong>
 </p>
 <p>Job seekers, mark your calendars! We will be hosting a series of job fairs
