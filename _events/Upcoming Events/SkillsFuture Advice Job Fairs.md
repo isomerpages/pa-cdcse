@@ -42,41 +42,6 @@ next step in your career journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 May 2025, 10am to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EM Services Job Fair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bedok Community Centre</p>
-<p>(Multipurpose Hall)</p>
-<p>850 New Upper Changi Road, S467352</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>From customer service to project management, property roles, finance,
-and more!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 May 2025, 10am to 3pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SkillsUp JobsUp Walk-in Career Fair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SE CDC Office</p>
-<p>1 Engku Aman Turn #03-02</p>
-<p>Wisma Geylang Serai</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>From kitchen supervisor to duty engineer, guest services officer, healthcare
-attendant, and more!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>27 May 2025, 10am to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
