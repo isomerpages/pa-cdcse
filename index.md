@@ -21,7 +21,7 @@ sections:
         - title: ArtsEverywhere@CDC
           description: Bringing art to the community.
           url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
-      background: /images/Landing Page Carousel/PACDC_web_banner_31_dec_1.jpg
+      background: /images/Landing_page_banner_3.png
       variant: center
       backgroundColor: white
       size: sm
