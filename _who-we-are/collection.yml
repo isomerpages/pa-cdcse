@@ -2,5 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Advisers.md
       - Introduction.md
       - Mayor's Message.md
