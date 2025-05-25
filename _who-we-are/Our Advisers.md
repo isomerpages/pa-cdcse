@@ -176,20 +176,11 @@ description: ""
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Mountbatten SMC</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 </tr>
@@ -197,7 +188,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
