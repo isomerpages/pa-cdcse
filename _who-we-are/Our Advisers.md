@@ -111,6 +111,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Mr Seah" src="/images/Who We Are/Advisers/Seah_Kian_Peng.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Seah Kian Peng</strong>
@@ -121,6 +124,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Prof Faishal" src="/images/Who We Are/Advisers/Muhammad_Faishal.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>A/P Muhammad Faisal Ibrahim</strong>
@@ -132,6 +138,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Mr Goh Pei Ming" src="/images/Who We Are/Advisers/Goh_Pei_Ming.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Goh Pei Ming</strong>
@@ -143,6 +152,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Ms Tin Pei Ling" src="/images/Who We Are/Advisers/Tin_Pei_Ling.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tin Pei Ling</strong>
@@ -155,6 +167,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Ms Diana Pang" src="/images/Who We Are/Advisers/Diana_Pang.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Miss Diana Pang</strong>
@@ -184,6 +199,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Gho Sze Kee</strong>
