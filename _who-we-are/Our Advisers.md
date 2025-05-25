@@ -14,8 +14,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>East Coast GRC</strong>
-</p>
+<h4><strong>East Coast GRC</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -99,8 +98,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Marine Parade – Braddell Heights GRC</strong>
-</p>
+<h4><strong>Marine Parade – Braddell Heights GRC</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -112,20 +110,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Mr Seah" src="/images/Who We Are/Advisers/Seah_Kian_Peng.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Seah" src="/images/Who We Are/Advisers/Seah_Kian_Peng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Seah Kian Peng</strong>
 </p>
-<p>Adviser to Marine Parade – Braddell Heights GRC ( Braddell Heights)</p>
+<p>Adviser to Marine Parade – Braddell Heights GRC (Braddell Heights)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Prof Faishal" src="/images/Who We Are/Advisers/Muhammad_Faishal.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Prof Faishal" src="/images/Who We Are/Advisers/Muhammad_Faishal.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +137,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Mr Goh Pei Ming" src="/images/Who We Are/Advisers/Goh_Pei_Ming.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Goh Pei Ming" src="/images/Who We Are/Advisers/Goh_Pei_Ming.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +151,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Ms Tin Pei Ling" src="/images/Who We Are/Advisers/Tin_Pei_Ling.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Tin Pei Ling" src="/images/Who We Are/Advisers/Tin_Pei_Ling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +166,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Ms Diana Pang" src="/images/Who We Are/Advisers/Diana_Pang.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Diana Pang" src="/images/Who We Are/Advisers/Diana_Pang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,8 +186,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mountbatten SMC</strong>
-</p>
+<h4><strong>Mountbatten SMC</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -200,7 +197,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
