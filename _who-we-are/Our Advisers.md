@@ -23,44 +23,68 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Tong</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Mr Edwin Tong" src="/images/Who We Are/Advisers/Edwin_Tong.jpg">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Edwin Tong</strong>
+</p>
 <p>Adviser to East Coast GRC GROs (Joo Chiat)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dinesh Vasu Dash</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Mayor Dinesh" src="/images/Who We Are/Advisers/Dinesh_Vasu_Dash.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Dinesh Vasu Dash</strong>
+</p>
 <p>Adviser to East Coast GRC GROs (Bedok)</p>
 <p>Mayor of South East District</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kiat How</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="SMS Tan" src="/images/Who We Are/Advisers/Tan_Kiat_How.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Tan Kiat How</strong>
+</p>
 <p>Adviser to East Coast GRC GROs (Kampong Chai Chee)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Tan</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Ms Jessica" src="/images/Who We Are/Advisers/Jessica_Tan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Jessica Tan</strong>
+</p>
 <p>Adviser to East Coast GRC GROs (Changi Simei)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Ms Hazlina Abdul Halim</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Ms Hazlina" src="/images/Who We Are/Advisers/Hazlina_Halim.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Hazlina Abdul Halim</strong>
+</p>
 <p>Adviser to East Coast GRC GROs (Fengshan)</p>
 </td>
 </tr>
@@ -75,7 +99,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Marine Parade – Braddell Heights GRC </strong>
+<p><strong>Marine Parade – Braddell Heights GRC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,45 +110,55 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Kian Peng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Seah Kian Peng</strong>
+</p>
 <p>Adviser to Marine Parade – Braddell Heights GRC ( Braddell Heights)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A/P Muhammad Faisal Ibrahim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>A/P Muhammad Faisal Ibrahim</strong>
+</p>
 <p>Adviser to Marine Parade – Braddell Heights GRC (Kembangan)</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Pei Ming</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Goh Pei Ming</strong>
+</p>
 <p>Adviser to Marine Parade – Braddell Heights GRC GROs (Marine Parade)</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tin Pei Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Tin Pei Ling</strong>
+</p>
 <p>Adviser to Marine Parade – Braddell Heights GRC GROs (MacPherson)</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Diana Pang</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Miss Diana Pang</strong>
+</p>
 <p>Adviser to Marine Parade – Braddell Heights GRC GROs (Geylang Serai)</p>
 <p></p>
 </td>
@@ -149,11 +183,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gho Sze Kee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Adviser to Mountbatten GROs</strong>
+<p><strong>Ms Gho Sze Kee</strong>
 </p>
+<p>Adviser to Mountbatten GROs</p>
 </td>
 </tr>
 </tbody>
