@@ -24,7 +24,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Mr Edwin Tong" src="/images/Who We Are/Advisers/Edwin_Tong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Edwin Tong" src="/images/Who We Are/Advisers/Edwin_Tong.jpg">
 </div>
 <p></p>
 </td>
@@ -38,7 +38,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Mayor Dinesh" src="/images/Who We Are/Advisers/Dinesh_Vasu_Dash.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mayor Dinesh" src="/images/Who We Are/Advisers/Dinesh_Vasu_Dash.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="SMS Tan" src="/images/Who We Are/Advisers/Tan_Kiat_How.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="SMS Tan" src="/images/Who We Are/Advisers/Tan_Kiat_How.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Ms Jessica" src="/images/Who We Are/Advisers/Jessica_Tan.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Jessica" src="/images/Who We Are/Advisers/Jessica_Tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Ms Hazlina" src="/images/Who We Are/Advisers/Hazlina_Halim.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Hazlina" src="/images/Who We Are/Advisers/Hazlina_Halim.jpg">
 </div>
 <p></p>
 </td>
@@ -112,7 +112,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Mr Seah" src="/images/Who We Are/Advisers/Seah_Kian_Peng.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Mr Seah" src="/images/Who We Are/Advisers/Seah_Kian_Peng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Prof Faishal" src="/images/Who We Are/Advisers/Muhammad_Faishal.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Prof Faishal" src="/images/Who We Are/Advisers/Muhammad_Faishal.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Mr Goh Pei Ming" src="/images/Who We Are/Advisers/Goh_Pei_Ming.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Mr Goh Pei Ming" src="/images/Who We Are/Advisers/Goh_Pei_Ming.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Ms Tin Pei Ling" src="/images/Who We Are/Advisers/Tin_Pei_Ling.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Ms Tin Pei Ling" src="/images/Who We Are/Advisers/Tin_Pei_Ling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +168,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Ms Diana Pang" src="/images/Who We Are/Advisers/Diana_Pang.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Ms Diana Pang" src="/images/Who We Are/Advisers/Diana_Pang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +200,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Goh Sze Kee" src="/images/Who We Are/Advisers/Gho_Sze_Kee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
