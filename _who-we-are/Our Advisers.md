@@ -25,7 +25,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Mr Edwin Tong" src="/images/Who We Are/Advisers/Edwin_Tong.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Edwin Tong</strong>
