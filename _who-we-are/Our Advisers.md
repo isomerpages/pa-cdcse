@@ -115,7 +115,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Mr Seah Kian Peng</strong>
 </p>
-<p>Adviser to Marine Parade – Braddell Heights GRC (Braddell Heights)</p>
+<p>Adviser to Marine Parade – Braddell Heights GRC GROs (Braddell Heights)</p>
 </td>
 </tr>
 <tr>
@@ -126,9 +126,9 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A/P Muhammad Faisal Ibrahim</strong>
+<p><strong>A/P Muhammad Faishal Ibrahim</strong>
 </p>
-<p>Adviser to Marine Parade – Braddell Heights GRC (Kembangan)</p>
+<p>Adviser to Marine Parade – Braddell Heights GRC GROs (Kembangan)</p>
 <p></p>
 </td>
 </tr>
@@ -207,7 +207,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Pasir Ris Changi GRC</strong></h4>
+<h4><strong>Pasir Ris-Changi GRC</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -223,7 +223,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Ms Indranee Thurai Rajah</strong>
 </p>
-<p>Adviser to Pasir Ris Changi GRC GROs (Pasir Ris West)</p>
+<p>Adviser to Pasir Ris-Changi GRC GROs (Pasir Ris West)</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Mr Desmond Tan</strong>
 </p>
-<p>Adviser to Pasir Ris Changi GRC GROs (Pasir Ris Central)</p>
+<p>Adviser to Pasir Ris-Changi GRC GROs (Pasir Ris Central)</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Mr Sharael Taha</strong>
 </p>
-<p>Adviser to Pasir Ris Changi GRC GROs (Pasir Ris East)</p>
+<p>Adviser to Pasir Ris-Changi GRC GROs (Pasir Ris East)</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Ms Valerie Lee</strong>
 </p>
-<p>Adviser to Pasir Ris Changi GRC GROs (Changi)</p>
+<p>Adviser to Pasir Ris-Changi GRC GROs (Changi)</p>
 </td>
 </tr>
 </tbody>
