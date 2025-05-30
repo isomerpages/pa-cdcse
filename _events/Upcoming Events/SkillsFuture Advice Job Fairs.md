@@ -42,19 +42,33 @@ next step in your career journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 May 2025, 10am to 5pm</p>
+<p>13 June, 10am to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grand Mercure Singapore Roxy Job Fair&nbsp;</p>
+<p>Andaz Singapore Job Fair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grand Mercure Singapore Roxy, Level 3 Function Room</p>
-<p>(Opposite Marine Parade Station Exit 2)</p>
+<p>Andaz Singapore, 5 Fraser Street</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From guest service executive to housekeeping, cook, security officers,
-and more!</p>
+<p>From guest service executive to housekeeping,F&amp;B, IT, and more!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 June</p>
+<p>10am to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Job Fair with Certis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lifelong learning Institute, Event hall 1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Assistant, finance executive, marketing and communications and many
+more!</p>
 </td>
 </tr>
 </tbody>
