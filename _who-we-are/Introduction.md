@@ -37,10 +37,10 @@ skills, and empower them to develop projects to serve the community needs.</p>
 <p>The South East Community Development Council (CDC) was set up on 24 November
 2001. Spanning the scenic eastern coast of Singapore, the South East District
 comprises the Marine Parade Group Representative Constituency (GRC), East
-Coast GRC, MacPherson Single Member Constituency (SMC) and&nbsp;Mountbatten
-SMC; it is home to more than 500,000 residents. The District includes some
-of the island’s most vibrant, historical and beautiful neighbourhoods,
-such as Geylang Serai, Joo Chiat, Bedok and Marine Parade.</p>
+Coast GRC, and&nbsp;Mountbatten SMC; it is home to more than 500,000 residents.
+The District includes some of the island’s most vibrant, historical and
+beautiful neighbourhoods, such as Geylang Serai, Joo Chiat, Bedok and Marine
+Parade.</p>
 <h2><strong>Your Social Broker</strong></h2>
 <p>At the helm of South East CDC is Mayor Dinesh, who leads the team in fulfilling
 the CDC’s mission – an Aggregator of Needs and Resources, Builder of Capability
