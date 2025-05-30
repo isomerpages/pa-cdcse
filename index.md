@@ -6,7 +6,8 @@ image: /images/Logo.png
 permalink: /
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+  Helpline at 1799 if you are unsure if something is a scam. <a
+  href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
       url: https://vouchers.cdc.gov.sg/
@@ -27,11 +28,6 @@ sections:
       size: sm
       alignment: left
       button: Find out more about the CDC Vouchers Scheme!
-  - infobar:
-      description: A Year Of Health, Happiness, And Harmony
-      button: READ MAYOR'S MESSAGE HERE
-      url: https://southeast.cdc.gov.sg/who-we-are/mayors-message
-      title: Mayor's Message
   - infopic:
       description: Find out what’s happening in South East now!
       button: READ THE LATEST ISSUE HERE
