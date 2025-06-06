@@ -54,10 +54,23 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 June</p>
+<p>20 June, 10am to 4pm</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>To be Confirmed</p>
+<p>Performing Artist:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>ADDO Arts Company ( 10am to 1230pm)</p>
+</li>
+<li>
+<p>Charmaine Teo (230pm to 4pm)</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<p>Fringe Activities (ADDO and Jacky Vs The Wall)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
@@ -65,5 +78,4 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
 <p></p>
