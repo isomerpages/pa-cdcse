@@ -42,21 +42,6 @@ next step in your career journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 June, 10am to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Andaz Singapore Job Fair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Andaz Singapore, 5 Fraser Street</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>From guest service executive to housekeeping,F&amp;B, IT, and more!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>26 June</p>
 <p>10am to 5pm</p>
 </td>
