@@ -9,7 +9,7 @@ notification: Government officials will never ask you to transfer money or
   Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
-      url: https://vouchers.cdc.gov.sg/
+      url: https://vouchers.sg60.gov.sg/
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
@@ -21,12 +21,12 @@ sections:
         - title: ArtsEverywhere@CDC
           description: Bringing art to the community.
           url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
-      background: /images/Landing_page_banner_3.png
+      background: /images/Landing Page Carousel/SG60_Artwork_Hero_Image_Adapted.png
       variant: center
       backgroundColor: white
       size: sm
       alignment: left
-      button: Find out more about the CDC Vouchers Scheme!
+      button: Find out more about the SG60 Vouchers
   - infopic:
       description: Find out what’s happening in South East now!
       button: READ THE LATEST ISSUE HERE
