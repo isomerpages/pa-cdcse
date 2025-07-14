@@ -42,18 +42,16 @@ next step in your career journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 June</p>
-<p>10am to 5pm</p>
+<p>19 &amp; 20 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Job Fair with Certis</p>
+<p>Skills &amp; Learning Festival @ South East</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lifelong learning Institute, Event hall 1-2</p>
+<p>Bedok Town Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Assistant, finance executive, marketing and communications and many
-more!</p>
+<p>Growth Economies and Career skills</p>
 </td>
 </tr>
 </tbody>
