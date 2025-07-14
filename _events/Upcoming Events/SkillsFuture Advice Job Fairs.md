@@ -43,6 +43,7 @@ next step in your career journey.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>19 &amp; 20 July</p>
+<p>10am - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Skills &amp; Learning Festival @ South East</p>
