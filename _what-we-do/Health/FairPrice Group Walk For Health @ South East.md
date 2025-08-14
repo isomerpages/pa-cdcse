@@ -5,32 +5,35 @@ description: FairPrice Group Walk for Health @ South East
 third_nav_title: Health
 variant: tiptap
 ---
-<h1>NTUC FairPrice Walk For Rice⁺ @ South East</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Walk For Rice Launch 2024" src="/images/What%20We%20Do/Health/IMG_4236.jpg">
-</div>
-<p>On 21 Sep 2024, NTUC FairPrice (FairPrice) and South East Community Development
-Council (South East CDC) launched the 16th edition of its annual FairPrice
-Walk for Rice+ @ South East. The launch saw more than 1,500 participants
-engaging in various fun activities such as Zumba, spin and best dressed
-competition.</p>
-<p>The 10 week-long initiative, running from 21 Sept to 30 Nov, is geared
-towards encouraging individuals to build stronger relationships within
-the community and to stay active by walking or running and clocking their
-distance for a good cause.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What%20We%20Do/Health/IMG_4180.jpg">
-</div>
-<p>Since its inauguration in 2009, this long-running community initiative,
-has brought together corporates, individuals and social service organisations
-to walk over 6 million kilometres, raising nearly $1.4 million worth of
-essential rice and grains for more than 100,000 vulnerable residents in
-the district to date.</p>
+<h1>FairPrice Group Walk for Health @ South East</h1>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W95g0FSVlpk?si=zIFXfNtU7ezS8Aw8"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Walk For Health" src="/images/FAP02_NTUC_WFH2025.png">
 </div>
-<p>
-<br>
-</p>
+<h4><strong>From grains of kindness to strides of wellness!</strong></h4>
+<p>For 16 years, our footsteps filled rice bowls across the South East District.
+Now, we're taking an even bigger step forward to create ripples of health
+throughout various communities!</p>
+<p>South East CDC’s signature initiative returns with a new name and renewed
+purpose for 2025!</p>
+<p>Kicking off on 30 August, FairPrice Group Walk for Health @ South East
+transforms your walks and runs into direct support for our community. FairPrice
+Foundation (FPF) will be donating $1 worth of supermarket vouchers for
+every kilometre clocked. Up to 1,000 vulnerable residents in the South
+East District will be supported with $100 worth of supermarket vouchers
+each.</p>
+<p>Through a series of engaging activities such as mass community walk, health
+and wellness workshops, healthy grocery trips, and partner-led walks, the
+campaign promotes both physical and mental well-being while rallying the
+community to support healthier living and social good.</p>
+<p>&nbsp;</p>
+<p>Make every step count, whether it’s for your health or for a meaningful
+cause!</p>
+<p>Join our movement towards a healthier and caring South East District and
+clock in your steps at go.gov.sg/wfh2025.&nbsp;</p>
+<p>Campaign ends 31 Oct 2025!</p>
+<p>&nbsp;</p>
+<p>If you would like to organise your own walks – contact carissa_boo@pa.gov.sg</p>
+<p>&nbsp;</p>
 <p></p>
