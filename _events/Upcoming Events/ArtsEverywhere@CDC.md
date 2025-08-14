@@ -53,8 +53,22 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>MORE DETAILS COMING SOON!</p>
+<td rowspan="1" colspan="1">
+<p>16 Aug, 10am to 1230pm</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Rudy Djoe &amp; Kenchana Jazz</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Heartbeat @ Bedok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Aug, 3pm to 4pm</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Orkestra Melayu Singapura</p>
 </td>
 </tr>
 </tbody>
