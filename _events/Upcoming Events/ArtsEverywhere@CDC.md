@@ -54,21 +54,21 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Aug, 10am to 1230pm</p>
+<p>13 Sept 2025</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Rudy Djoe &amp; Kenchana Jazz</p>
+<p>Coming Soon!</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Heartbeat @ Bedok</p>
+<p>HeartBeat@ Bedok</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Aug, 3pm to 4pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Orkestra Melayu Singapura</p>
+<p></p>
 </td>
 </tr>
 </tbody>
