@@ -6,8 +6,6 @@ third_nav_title: Health
 variant: tiptap
 ---
 <h1>FairPrice Group Walk for Health @ South East</h1>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Walk For Health" src="/images/FAP02_NTUC_WFH2025.png">
 </div>
