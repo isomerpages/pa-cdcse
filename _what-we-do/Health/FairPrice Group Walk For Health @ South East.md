@@ -5,7 +5,7 @@ description: FairPrice Group Walk for Health @ South East
 third_nav_title: Health
 variant: tiptap
 ---
-<h1>FairPrice Group Walk for Health @ South East </h1>
+<h1>FairPrice Group Walk for Health @ South East</h1>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -27,7 +27,6 @@ each.</p>
 and wellness workshops, healthy grocery trips, and partner-led walks, the
 campaign promotes both physical and mental well-being while rallying the
 community to support healthier living and social good.</p>
-<p>&nbsp;</p>
 <p>Make every step count, whether it’s for your health or for a meaningful
 cause!</p>
 <p>Join our movement towards a healthier and caring South East District and
