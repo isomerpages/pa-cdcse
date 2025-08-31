@@ -5,7 +5,7 @@ description: FairPrice Group Walk for Health @ South East
 third_nav_title: Health
 variant: tiptap
 ---
-<h1>FairPrice Group Walk for Health @ South East ( Kicks off on 30 Aug)</h1>
+<h1>FairPrice Group Walk for Health @ South East </h1>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
