@@ -5,9 +5,7 @@ description: FairPrice Group Walk for Health @ South East
 third_nav_title: Health
 variant: tiptap
 ---
-<h1>FairPrice Group Walk for Health @ South East ( Kicks off on 30 Aug)</h1>
-<p></p>
-<p></p>
+<h1>FairPrice Group Walk for Health @ South East</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Walk For Health" src="/images/FAP02_NTUC_WFH2025.png">
 </div>
@@ -17,7 +15,11 @@ Now, we're taking an even bigger step forward to create ripples of health
 throughout various communities!</p>
 <p>South East CDC’s signature initiative returns with a new name and renewed
 purpose for 2025!</p>
-<p>Kicking off on 30 August, FairPrice Group Walk for Health @ South East
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Launch of WFH 2025" src="/images/IMG_2057.jpg">
+</div>
+<p>Kicked off on 30 August, FairPrice Group Walk for Health @ South East
 transforms your walks and runs into direct support for our community. FairPrice
 Foundation (FPF) will be donating $1 worth of supermarket vouchers for
 every kilometre clocked. Up to 1,000 vulnerable residents in the South
@@ -27,13 +29,15 @@ each.</p>
 and wellness workshops, healthy grocery trips, and partner-led walks, the
 campaign promotes both physical and mental well-being while rallying the
 community to support healthier living and social good.</p>
-<p>&nbsp;</p>
 <p>Make every step count, whether it’s for your health or for a meaningful
 cause!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mayor Dinesh with Residents from South East District" src="/images/IMG_2060.jpg">
+</div>
 <p>Join our movement towards a healthier and caring South East District and
-clock in your steps at go.gov.sg/wfh2025.&nbsp;</p>
-<p>Campaign ends 31 Oct 2025!</p>
-<p>&nbsp;</p>
+clock in your steps at <a href="http://go.gov.sg/wfh2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/wfh2025</a>. Campaign ends 31
+Oct 2025!</p>
 <p>If you would like to organise your own walks – contact carissa_boo@pa.gov.sg</p>
 <p>&nbsp;</p>
 <p></p>
