@@ -8,8 +8,10 @@ description: ""
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mayor/Mayor_Dinesh.jpg">
-</div>
+    <div class="isomer-image-wrapper">
+    <img style="width: 50%; float: left; margin-right: 15px; margin-bottom: 10px;" height="auto" width="100%" alt="" src="/images/Mayor/Mayor_Dinesh.jpg">
+    </div>
+ 
 <p>It is a true honour to be writing to you for the first time as the Mayor
 of South East District.</p>
 <p>Prior to joining politics, I served in the Singapore Armed Forces (SAF)
@@ -39,4 +41,4 @@ building a better, brighter and more inclusive South East District!</p>
 <br>Minister of State
 <br>Ministry of Culture, Community and Youth &amp; Ministry of Manpower
 <br>Mayor, South East District
-<br>Adviser to East Coast GRC GROs (Bedok)</p>
+<br>Adviser to East Coast GRC GROs (Bedok)</p></div>
