@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Media Releases</h1>
-<p><strong>27 July 2025</strong>  <a href="/files/Media_Release___FairPrice_Group_Walk_for_Health___South_East.pdf" rel="noopener nofollow" target="_blank">FairPrice Group Walk for Health @ South East Builds on Legacy with Renewed Focus on Healthier Living</a>
+<p><strong>30 August 2025</strong>  <a href="/files/Media_Release___FairPrice_Group_Walk_for_Health___South_East.pdf" rel="noopener nofollow" target="_blank">FairPrice Group Walk for Health @ South East Builds on Legacy with Renewed Focus on Healthier Living</a>
 </p>
 <p><strong>27 July 2025</strong>  <a href="/files/Media_Release___South_East_CDC_Brews_Cross_Cultural_Connections_with_New_TeaSE_Your_Palette_Workshops.pdf" rel="noopener nofollow" target="_blank">South East CDC Brews Cross-Cultural Connections with New TeaSE Your Palette Workshops</a>
 </p>
