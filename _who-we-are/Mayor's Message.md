@@ -6,6 +6,10 @@ description: ""
 ---
 <p><em>Dear Residents and Friends,</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mayor/Mayor_Dinesh.jpg">
+</div>
 <p>It is a true honour to be writing to you for the first time as the Mayor
 of South East District.</p>
 <p>Prior to joining politics, I served in the Singapore Armed Forces (SAF)
@@ -29,9 +33,10 @@ we should harness to create a vibrant and harmonious community for all.
 I look forward to meeting you in time to come. Let us work together in
 building a better, brighter and more inclusive South East District!</p>
 <p></p>
-<p>DINESH VASU DASH</p>
-<p>Minister of State</p>
-<p>Ministry of Culture, Community and Youth &amp; Ministry of Manpower</p>
-<p>Mayor, South East District</p>
-<p>Adviser to East Coast GRC GROs (Bedok)</p>
 <p></p>
+<p></p>
+<p><strong>DINESH VASU DASH </strong>
+<br>Minister of State
+<br>Ministry of Culture, Community and Youth &amp; Ministry of Manpower
+<br>Mayor, South East District
+<br>Adviser to East Coast GRC GROs (Bedok)</p>
