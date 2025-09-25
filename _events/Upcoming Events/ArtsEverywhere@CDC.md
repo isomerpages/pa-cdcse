@@ -54,35 +54,13 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Sept 2025</p>
-<p>10am – 1030am</p>
-<p>&amp; 1130 – 12pm</p>
+<p>20 Oct</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>The Purple Symphony</p>
+<p>Coming Soon!</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>HeartBeat@ Bedok</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>13 Sept 2025</p>
-<p>10.45am – 11.30am</p>
-<p>12.15pm – 1pm</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Gabriel Hoe</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Sept 2025</p>
-<p>2pm – 2.45pm</p>
-<p>3.15pm – 4pm</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Reverberance</p>
+<p>Heartbeat @ Bedok</p>
 </td>
 </tr>
 </tbody>
