@@ -2,5 +2,5 @@ collections:
   available-support:
     output: true
     order:
-      - JobsNearby@CDC.md
+      - Jobs Nearby @CDC.md
       - Assistance Schemes/.keep
