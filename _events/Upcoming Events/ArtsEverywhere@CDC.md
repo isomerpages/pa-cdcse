@@ -54,10 +54,11 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Oct</p>
+<p>17 Oct</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Coming Soon!</p>
+<p>Aspara Asia - 1045am &amp; 12pm</p>
+<p>Bornfire Circus - 230pm &amp; 330pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
