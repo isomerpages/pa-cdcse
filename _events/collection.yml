@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Career Launch @ South East.md
       - Upcoming Events/ArtsEverywhere@CDC.md
       - Upcoming Events/.keep
       - Upcoming Events/SkillsFuture Advice Job Fairs.md
