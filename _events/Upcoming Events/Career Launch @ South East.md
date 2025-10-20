@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<p></p>
+<h1>CAREER LAUNCH @ SOUTH EAST</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Career Launch @ South East" src="/images/WhatsApp_Image_2025_10_17_at_11_12_50.jpg">
 </div>
