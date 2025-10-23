@@ -45,4 +45,15 @@ suit your skills, location, and lifestyle.</p>
 </p>
 <p><strong>Contact 80867783 (Monday to Friday, 10am to 4pm, except public holidays) &nbsp;or email at <a rel="noopener noreferrer nofollow" target="_blank">southeast_cdc@pa.gov.sg</a> today to begin your job search journey.</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p><strong>Visit our Community Job Clinics:</strong>
+</p>
+<p>Every Tuesday, 10am to 4pm</p>
+<p>Braddell Heights Community Hub (outside NTUC Health)</p>
+<p></p>
+<p>Every Thursday, 10am to 4pm</p>
+<p>Culinary Studio, Heartbeat@Bedok (level 1) beside Kampong Chai Chee Community
+Club</p>
+<p></p>
+<p>Monday to Friday, 10am to 6pm</p>
+<p>Kaki Bukit Community Club #01-07</p>
