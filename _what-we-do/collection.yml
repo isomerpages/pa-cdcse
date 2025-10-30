@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Vulnerable/Club South East 100.md
       - Vulnerable/.keep
       - Vulnerable/Corporate Social Responsibility (CSR).md
       - Vulnerable/Learn to Swim Programme.md
