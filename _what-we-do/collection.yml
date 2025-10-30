@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Vulnerable.md
       - Overview.md
       - Care/.keep
       - Care/Corporate Social Responsibility (CSR).md
