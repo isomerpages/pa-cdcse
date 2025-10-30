@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - Care/.keep
-      - Care/Corporate Social Responsibility (CSR).md
-      - Care/Learn to Swim Programme.md
-      - Care/WeCare Arts Fund and WeCare Arts Experiences.md
+      - Vulnerable/.keep
+      - Vulnerable/Corporate Social Responsibility (CSR).md
+      - Vulnerable/Learn to Swim Programme.md
+      - Vulnerable/WeCare Arts Fund and WeCare Arts Experiences.md
       - Health/.keep
       - Health/FairPrice Group Walk For Health @ South East.md
       - Health/SEEDs of Wellness.md
