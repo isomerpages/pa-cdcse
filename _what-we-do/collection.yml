@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Vulnerable.md
       - Care/.keep
       - Care/Corporate Social Responsibility (CSR).md
       - Care/Learn to Swim Programme.md
