@@ -6,6 +6,10 @@ description: ""
 image: /images/What We Do/Vulnerable/ClubSE100_logo_high.jpg
 third_nav_title: Vulnerable
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Club South East 100" src="/images/What We Do/Vulnerable/ClubSE100_logo_high.jpg">
+</div>
 <h3><strong>Building a Network of Care for Our Community</strong></h3>
 <p>Launched in 2025, Club South East 100 is a donation membership programme
 connecting community-minded individuals and organisations to provide sustained
