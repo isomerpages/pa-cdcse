@@ -2,8 +2,8 @@ collections:
   what-we-do:
     output: true
     order:
-      - Vulnerable.md
       - Overview.md
+      - Vulnerable.md
       - Care/.keep
       - Care/Corporate Social Responsibility (CSR).md
       - Care/Learn to Swim Programme.md
@@ -15,17 +15,17 @@ collections:
       - Health/Community Outreach Programme for the Elderly (COPE).md
       - Health/Neighbours for Active Living.md
       - Health/The Light Within – Mental Wellness Digital Series.md
-      - Harmony/Mayor's Harmony Futsal Challenge.md
       - Harmony/.keep
+      - Harmony/Mayor's Harmony Futsal Challenge.md
       - Sustainability/.keep
       - Sustainability/The Wormery Movement.md
       - Sustainability/Sustainable Living @ South East.md
       - Sustainability/Green Schools @ South East Award.md
       - Sustainability/3M Green Challenge @ South East 2022.md
+      - Future Ready/.keep
       - Future Ready/Skills and Learning Festival @ South East.md
       - Future Ready/Maybank South East Money Savvy Programme.md
       - Future Ready/South East Youth Ambassadors.md
-      - Future Ready/.keep
       - Future Ready/SkillsFuture Advice.md
       - Future Ready/Build Your Tomorrow @ South East (BYT).md
       - CDC Vouchers Scheme.md
