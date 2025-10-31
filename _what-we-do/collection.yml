@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Philanthropy & Donation/.keep
-      - Overview.md
       - Vulnerable/Club South East 100.md
       - Vulnerable/.keep
       - Vulnerable/Corporate Social Responsibility (CSR).md
