@@ -12,9 +12,10 @@ variant: tiptap
 resources, build capabilities in partners and connect communities together.
 We work closely with our District Councillors, the working professionals
 in the community and CDC’s resource persons, to keep our eyes and ears
-in the community, to identify emerging gaps and needs.&nbsp; As such, we
-had&nbsp;set up 4 main committees namely "Vulnerable, Seniors, Youth and
-Philanthropy &amp; Donation" to&nbsp;sharpen our engagements and programmed
-to make them more effective and targeted&nbsp;towards our focal areas.</p>
+in the community, to identify emerging gaps and needs.&nbsp;</p>
+<p>As such, we had&nbsp;set up 4 main committees namely "Vulnerable, Seniors,
+Youth and Philanthropy &amp; Donation" to&nbsp;sharpen our engagements
+and programmed to make them more effective and targeted&nbsp;towards our
+focal areas.</p>
 <p>Click on the&nbsp;tabs to find out what our committees have set out to
 achieve!</p>
