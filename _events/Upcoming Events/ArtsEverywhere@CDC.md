@@ -54,11 +54,11 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Oct</p>
+<p>15 Nov</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Aspara Asia - 1045am &amp; 12pm</p>
-<p>Bornfire Circus - 230pm &amp; 330pm</p>
+<p><strong>Ethnoverse</strong> - 10am - 12pm</p>
+<p><strong>Maya Dance Theatre</strong> - 1pm - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>

@@ -3,28 +3,26 @@ collections:
     output: true
     order:
       - Overview.md
-      - Care/.keep
-      - Care/Corporate Social Responsibility (CSR).md
-      - Care/Learn to Swim Programme.md
-      - Care/WeCare Arts Fund and WeCare Arts Experiences.md
-      - Health/.keep
-      - Health/FairPrice Group Walk For Health @ South East.md
-      - Health/SEEDs of Wellness.md
-      - Health/Seniors' Learning Camp.md
-      - Health/Community Outreach Programme for the Elderly (COPE).md
-      - Health/Neighbours for Active Living.md
-      - Health/The Light Within – Mental Wellness Digital Series.md
-      - Harmony/Mayor's Harmony Futsal Challenge.md
-      - Harmony/.keep
+      - Vulnerable/Club South East 100.md
+      - Vulnerable/.keep
+      - Vulnerable/Corporate Social Responsibility (CSR).md
+      - Vulnerable/Learn to Swim Programme.md
+      - Vulnerable/WeCare Arts Fund and WeCare Arts Experiences.md
+      - Seniors/Community Outreach Programme for the Elderly (COPE).md
+      - Seniors/.keep
+      - Seniors/FairPrice Group Walk For Health @ South East.md
+      - Seniors/SEEDs of Wellness.md
+      - Seniors/Seniors' Learning Camp.md
+      - Seniors/Neighbours for Active Living.md
       - Sustainability/.keep
       - Sustainability/The Wormery Movement.md
       - Sustainability/Sustainable Living @ South East.md
       - Sustainability/Green Schools @ South East Award.md
-      - Sustainability/3M Green Challenge @ South East 2022.md
-      - Future Ready/Skills and Learning Festival @ South East.md
-      - Future Ready/Maybank South East Money Savvy Programme.md
-      - Future Ready/South East Youth Ambassadors.md
-      - Future Ready/.keep
-      - Future Ready/SkillsFuture Advice.md
-      - Future Ready/Build Your Tomorrow @ South East (BYT).md
+      - Youth/Mayor's Harmony Futsal Challenge.md
+      - Youth/.keep
+      - Youth/Skills and Learning Festival @ South East.md
+      - Youth/Maybank South East Money Savvy Programme.md
+      - Youth/South East Youth Ambassadors.md
+      - Youth/SkillsFuture Advice.md
+      - Youth/Build Your Tomorrow @ South East (BYT).md
       - CDC Vouchers Scheme.md
