@@ -4,7 +4,7 @@ permalink: /clubse100/
 variant: tiptap
 description: ""
 image: /images/What We Do/Vulnerable/ClubSE100_logo_high.jpg
-third_nav_title: Vulnerable
+third_nav_title: Philanthropy & Donation
 ---
 <p></p>
 <div class="isomer-image-wrapper">

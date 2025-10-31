@@ -2,7 +2,7 @@
 title: Sustainable Living @ South East
 permalink: /what-we-do/future-ready/sustainable-living-south-east/
 description: ""
-third_nav_title: Sustainability
+third_nav_title: Youth
 variant: markdown
 ---
 # Sustainable Living @ South East

@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Vulnerable/Club South East 100.md
       - Vulnerable/.keep
       - Vulnerable/Corporate Social Responsibility (CSR).md
       - Vulnerable/Learn to Swim Programme.md
@@ -14,10 +13,11 @@ collections:
       - Seniors/SEEDs of Wellness.md
       - Seniors/Seniors' Learning Camp.md
       - Seniors/Neighbours for Active Living.md
-      - Sustainability/.keep
-      - Sustainability/The Wormery Movement.md
-      - Sustainability/Sustainable Living @ South East.md
-      - Sustainability/Green Schools @ South East Award.md
+      - Philanthropy & Donation/Club South East 100.md
+      - Philanthropy & Donation/.keep
+      - Youth/Green Schools @ South East Award.md
+      - Youth/Sustainable Living @ South East.md
+      - Youth/The Wormery Movement.md
       - Youth/Mayor's Harmony Futsal Challenge.md
       - Youth/.keep
       - Youth/Skills and Learning Festival @ South East.md
