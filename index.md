@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: The Wormery Movement
           description: Meet Scrappy!
-          url: https://southeast.cdc.gov.sg/what-we-do/future-ready/thewormerymovement/
+          url: /what-we-do/thewormerymovement/
         - title: FairPrice Group Walk For Health @ South East
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
