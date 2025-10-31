@@ -2,7 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - Philanthropy & Donation/Overview.md
       - Philanthropy & Donation/.keep
       - Vulnerable/Club South East 100.md
       - Vulnerable/.keep
