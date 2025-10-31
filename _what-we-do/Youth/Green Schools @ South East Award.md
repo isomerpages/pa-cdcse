@@ -1,6 +1,6 @@
 ---
 title: Green Schools @ South East Award
-permalink: /what-we-do/future-ready/green-schools-southeast-award/
+permalink: /what-we-do/green-schools-southeast-award/
 description: ""
 third_nav_title: Youth
 variant: tiptap

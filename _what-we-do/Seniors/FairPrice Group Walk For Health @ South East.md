@@ -1,6 +1,6 @@
 ---
 title: FairPrice Group Walk For Health @ South East
-permalink: /what-we-do/care/wfh/
+permalink: /what-we-do/wfh/
 description: FairPrice Group Walk for Health @ South East
 third_nav_title: Seniors
 variant: tiptap

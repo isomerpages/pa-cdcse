@@ -1,6 +1,6 @@
 ---
 title: Sustainable Living @ South East
-permalink: /what-we-do/future-ready/sustainable-living-south-east/
+permalink: /what-we-do/sustainable-living-south-east/
 description: ""
 third_nav_title: Youth
 variant: markdown

@@ -1,8 +1,8 @@
 ---
 title: SEEDs of Wellness
-permalink: /what-we-do/resilience/seedsofwellness/
+permalink: /what-we-do/seedsofwellness/
 description: ""
-third_nav_title: Seniors
+third_nav_title: Youth
 variant: tiptap
 ---
 <h1>SEEDS of Wellness</h1>

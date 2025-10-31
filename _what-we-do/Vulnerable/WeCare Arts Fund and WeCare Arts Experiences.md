@@ -1,6 +1,6 @@
 ---
 title: WeCare Arts Fund and WeCare Arts Experiences
-permalink: /what-we-do/care/wcafwcae/
+permalink: /what-we-do/wcafwcae/
 variant: tiptap
 description: ""
 third_nav_title: Vulnerable

@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice
-permalink: /what-we-do/future-ready/sfa/
+permalink: /what-we-do/sfa/
 description: ""
 third_nav_title: Youth
 variant: tiptap

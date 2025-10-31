@@ -1,6 +1,6 @@
 ---
 title: The Wormery Movement
-permalink: /what-we-do/future-ready/thewormerymovement/
+permalink: /what-we-do/thewormerymovement/
 description: ""
 third_nav_title: Youth
 variant: markdown

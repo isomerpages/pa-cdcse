@@ -1,6 +1,6 @@
 ---
 title: Build Your Tomorrow @ South East (BYT)
-permalink: /what-we-do/future-ready/build-your-tomorrow-southeast/
+permalink: /what-we-do/build-your-tomorrow-southeast/
 description: ""
 third_nav_title: Youth
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Seniors' Learning Camp
-permalink: /what-we-do/care/slc/
+permalink: /what-we-do/slc/
 description: Seniors' Learning Camp
 third_nav_title: Seniors
 variant: tiptap
