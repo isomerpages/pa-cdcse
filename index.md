@@ -17,7 +17,7 @@ sections:
         - title: FairPrice Group Walk For Health @ South East
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
-          url: https://southeast.cdc.gov.sg/what-we-do/care/wfh
+          url: https://southeast.cdc.gov.sg/what-we-do/wfh/
         - title: ArtsEverywhere@CDC
           description: Bringing art to the community.
           url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
