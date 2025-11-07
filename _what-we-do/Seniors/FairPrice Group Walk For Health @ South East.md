@@ -35,9 +35,7 @@ cause!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mayor Dinesh with Residents from South East District" src="/images/IMG_2060.jpg">
 </div>
-<p>Join our movement towards a healthier and caring South East District and
-clock in your steps at <a href="http://go.gov.sg/wfh2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/wfh2025</a>. Campaign ends 31
-Oct 2025!</p>
-<p>If you would like to organise your own walks – contact carissa_boo@pa.gov.sg</p>
+<p>Thank you for supporting our FairPrice Group Walk for Health @ South East.
+We look forward to your support next year!</p>
 <p>&nbsp;</p>
 <p></p>
