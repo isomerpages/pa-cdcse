@@ -50,9 +50,40 @@ community.</p>
 <li>
 <p>Receive invitations to exclusive members-only events such as visits to
 the parliamentary house and launches of new collaborations with partners</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<h4><strong>How to Donate</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Monthly GIRO donation of $100</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the GIRO form here for automated monthly donations</p>
+</li>
+<li>
+<p>Mail the Completed Form back to us</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>One-time donation of any amount above $100</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PayNow via UEN: S97PA0002K</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Indicate &lt;ClubSE100&gt; space &lt;contact no&gt; under the reference
+field.</p>
+<p>Fill in your details via <a href="https://go.gov.sg/clubse100-paynow" rel="noopener nofollow" target="_blank">FormSG</a> and
+upload a screenshot of your transaction.</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Join us in building a stronger, more caring South East community – transform lives today.</strong>
 </p>
 <p><strong>If you need any assistance regarding donation matters, please drop an email to <a rel="noopener noreferrer nofollow" target="_blank">ClubSE100@pa.gov.sg</a>.</strong>
