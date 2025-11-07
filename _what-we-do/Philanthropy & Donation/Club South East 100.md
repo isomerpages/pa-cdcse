@@ -60,7 +60,8 @@ the parliamentary house and launches of new collaborations with partners</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the GIRO form here for automated monthly donations</p>
+<p>Download the GIRO form <a href="https://go.gov.sg/clubse100girodonationform1" rel="noopener nofollow" target="_blank">here</a> for
+automated monthly donations</p>
 </li>
 <li>
 <p>Mail the Completed Form back to us</p>
