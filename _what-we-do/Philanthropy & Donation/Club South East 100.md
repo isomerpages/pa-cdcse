@@ -65,6 +65,7 @@ automated monthly donations</p>
 </li>
 <li>
 <p>Mail the Completed Form back to us</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -75,13 +76,17 @@ automated monthly donations</p>
 <li>
 <p>PayNow via UEN: S97PA0002K</p>
 </li>
+<li>
+<p>Indicate &lt;ClubSE100&gt; space &lt;contact no&gt; under the reference
+field.</p>
+</li>
+<li>
+<p>Fill in your details via <a href="https://go.gov.sg/clubse100-paynow" rel="noopener nofollow" target="_blank">FormSG</a> and
+upload a screenshot of your transaction.</p>
+</li>
 </ul>
 </li>
 </ul>
-<p>Indicate &lt;ClubSE100&gt; space &lt;contact no&gt; under the reference
-field.</p>
-<p>Fill in your details via <a href="https://go.gov.sg/clubse100-paynow" rel="noopener nofollow" target="_blank">FormSG</a> and
-upload a screenshot of your transaction.</p>
 <p></p>
 <p></p>
 <p></p>
