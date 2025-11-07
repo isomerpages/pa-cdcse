@@ -18,7 +18,7 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/wfh/
-        - title: Club South East 100
+        - title: Join Club South East 100
           description: Transform Lives Today!
           url: https://southeast.cdc.gov.sg/clubse100/
       background: /images/Landing Page Carousel/SG60_Artwork_Hero_Image_Adapted.png
