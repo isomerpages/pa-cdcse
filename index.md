@@ -18,9 +18,9 @@ sections:
           description: Initiative aims to motivate more Singaporeans to walk or run while
             logging in their mileage for a good cause
           url: https://southeast.cdc.gov.sg/what-we-do/wfh/
-        - title: ArtsEverywhere@CDC
-          description: Bringing art to the community.
-          url: https://southeast.cdc.gov.sg/artseverywhere-cdc/
+        - title: Join Club South East 100
+          description: Transform Lives Today!
+          url: https://southeast.cdc.gov.sg/clubse100/
       background: /images/Landing Page Carousel/SG60_Artwork_Hero_Image_Adapted.png
       variant: center
       backgroundColor: white
