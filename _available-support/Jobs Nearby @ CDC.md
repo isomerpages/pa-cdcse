@@ -27,7 +27,7 @@ when needed.</p>
 <h4><strong>Why Choose Jobs Nearby?</strong></h4>
 <p>Living in South East means you're close to Changi Airport, Changi Business
 Park, and dozens of markets and coffeeshops - all offering different types
-of work. We know the area,, and recognise that everyone's situation and
+of work. We know the area, and recognise that everyone's situation and
 needs are different.</p>
 <p>Maybe you're in Bedok caring for elderly parents and need work nearby.
 Perhaps you're a professional in Eunos ready for your next career move.
