@@ -74,7 +74,7 @@ automated monthly donations</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PayNow via UEN: S97PA0002K</p>
+<p>PayNow via UEN: S97PA0002K001</p>
 </li>
 <li>
 <p>Indicate &lt;ClubSE100&gt; space &lt;contact no&gt; under the reference
