@@ -8,7 +8,7 @@ third_nav_title: Seniors
 <h2>Community Outreach Programme for the Elderly (COPE)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="COPE" src="/images/What We Do/Health/Cope.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Seniors/Cope.jpg">
 </div>
 <p>The Community Outreach Programme for the Elderly (COPE) was initially
 launched in 1999 to reach out to needy elderly individuals residing in

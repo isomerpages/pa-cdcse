@@ -8,10 +8,6 @@ variant: tiptap
 <h1>Build Your Tomorrow @ South East (BYT)</h1>
 <p>Build Your Tomorrow @ South East (BYT) has a vision to “empower our youths
 to create a better future for themselves.”</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/WhatsApp_Image_2023_03_09_at_12_29_41__1_.jpg">
-</div>
 <p>This holistic career exposure programme, known as BYT, is designed to
 provide students from Secondary Schools and Institutes of Higher Learning
 with the necessary knowledge and skills to enhance their employability

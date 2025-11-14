@@ -14,9 +14,6 @@ most age groups but were more prevalent amongst the youth and elderly.</p>
 we had initiated the SEEDS of Wellness programme to complement the nationwide
 efforts in raising awareness and destigmatising mental health issues.</p>
 <h4><strong>S</strong>outh East <strong>E</strong>motional and <strong>E</strong>mpowerment <strong>D</strong>evelopment <strong>S</strong>upport comprises of three key components:</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Dog Therapy" src="/images/What We Do/Health/DIL_2521.jpg">
-</div>
 <p><strong>a. Community Mental Wellness Grant</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -30,10 +27,6 @@ evidence for your organisations.</p>
 </ul>
 <p><strong>b. Musical and Skit</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="12 Going on 13 Musical Skit" src="/images/What We Do/Health/12_13_SECDC_A4_ART_Comm_Skit_raw.jpg">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>The musical and skit were curated to raise awareness and promote a deeper
@@ -47,13 +40,6 @@ loneliness often associated with mental well-being challenges.</p>
 reached out to over 2300 participants in the South East District through
 theatre and community events.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Health/IMG_138.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Health/IMG_64.jpg">
-</div>
 </li>
 </ul>
 <p><strong>c. Self-Help Toolkit</strong>

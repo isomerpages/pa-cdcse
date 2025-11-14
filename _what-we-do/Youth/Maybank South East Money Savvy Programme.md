@@ -31,9 +31,8 @@ and national schemes. It aims to benefit up to 100 participants, providing
 opportunities for both youths and their parents to develop effective money
 management skills. Participants also receive 1-to-1 matched savings to
 foster a regular saving habit.</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/Photo_4_10_24__4_22_35_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Youth/Photo_4_10_24__4_22_35_PM.jpg">
 </div>
 <p>We have successfully concluded cohort 6 of this impactful programme, which
 continues to build on the success of previous cohorts.</p>
