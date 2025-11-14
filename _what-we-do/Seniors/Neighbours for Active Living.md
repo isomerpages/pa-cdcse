@@ -8,7 +8,7 @@ third_nav_title: Seniors
 <h2>Neighbours Friend-A-Senior @ South East programme</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Neighbours Friend a Senior @ South East" src="/images/What We Do/Health/IMG_225.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Seniors/IMG_225.jpg">
 </div>
 <p>Pioneered by Changi General Hospital (CGH) and South East Community Development
 Council (CDC), the Neighbours for Active Living Programme (Neighbours)
