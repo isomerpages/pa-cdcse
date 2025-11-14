@@ -15,7 +15,7 @@ safety education programme. It also serves as a scouting platform for coaches
 to identify promising aquatic athletes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="learn to swim" src="/images/What We Do/CARE/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Vulnerable/Picture1.png">
 </div>
 <p>Since its launch, a total of 80 children and youth residing in the South
 East district have benefitted from this programme.</p>
