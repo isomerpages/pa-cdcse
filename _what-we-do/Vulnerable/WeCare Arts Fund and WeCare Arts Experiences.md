@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Vulnerable
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="wecarearts" src="/images/What We Do/CARE/wecare.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Vulnerable/wecare.png">
 </div>
 <h1><strong>WeCare Arts Fund @ South East</strong></h1>
 <p>The WeCare Arts Fund @ CDC is a grant scheme that is a collaborative effort
