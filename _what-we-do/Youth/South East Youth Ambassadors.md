@@ -105,7 +105,7 @@ the diverse cultural tapestry within the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Youth/PP_1.jpg">
 </div>
-<p><strong>Purple Parade </strong>
+<p><strong>Purple Parade</strong>
 </p>
 <p>SE-YA! also plays a pivotal role in supporting the annual Purple Parade,
 where our youths fervently advocate for inclusivity. Through partnerships
