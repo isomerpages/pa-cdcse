@@ -7,11 +7,6 @@ third_nav_title: Youth
 ---
 <h1><strong>Skills &amp; Learning Festival @ South East!</strong></h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Future Ready/Photo_1.jpg">
-</div>
-<p></p>
-<p></p>
 <p>Over the weekend of 17 August and 18 August, the Skills &amp; Learning
 Festival @ South East attracted a crowd of about 5,000 participants. The
 event was designed to empower job seekers, showcased nearly 20 booths offering
