@@ -43,7 +43,7 @@ job market and will work with you personally to find opportunities that
 suit your skills, location, and lifestyle.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Contact 80867783 (Monday to Friday, 10am to 4pm, except public holidays) &nbsp;or email at <a rel="noopener noreferrer nofollow" target="_blank">southeast_cdc@pa.gov.sg</a> today to begin your job search journey.</strong>
+<p><strong>Contact 80867783 (Monday to Friday, 10am to 4pm, except public holidays) &nbsp;or email <a href="mailto:jobsnearbySE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jobsnearbySE@pa.gov.sg</a> today to begin your job search journey.</strong>
 </p>
 <p></p>
 <p><strong>Visit our Community Job Clinics:</strong>
