@@ -65,6 +65,15 @@ automated monthly donations</p>
 </li>
 <li>
 <p>Mail the Completed Form back to us</p>
+</li>
+<li>
+<p>Monthly or one-time donation of any amount above $100</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/secdcgivingsg" rel="noopener nofollow" target="_blank">Giving.sg</a>
+</p>
+</li>
+</ul>
 <p></p>
 </li>
 </ul>
