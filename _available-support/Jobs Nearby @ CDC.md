@@ -6,8 +6,9 @@ description: ""
 image: /images/Events/jn.png
 ---
 <h2><strong>Jobs Nearby @ South East - Find Work Close to Home</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Jobs Nearby @ CDC" src="/images/Events/jn.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3081.jpg">
 </div>
 <h4><strong>Looking for a job that fits your life? We're here to help.</strong></h4>
 <p>Whether you're caring for family, starting your career, or looking for
