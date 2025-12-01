@@ -30,10 +30,10 @@ sections:
   - infopic:
       description: Find out what’s happening in South East now!
       button: READ THE LATEST ISSUE HERE
-      url: https://go.gov.sg/csemay-aug25
+      url: https://go.gov.sg/csesep-dec25
       alt: Contact South East Magazine
       title: Contact South East
-      image: /images/NewsRoom/CSE/Contact_SE_Cover_May_Aug_2025.jpg
+      image: /images/NewsRoom/CSE/contact_se_cover_sep_dec_2025.png
   - infopic:
       title: Which district am I in?
       description: Click on Find Out Now and scroll to the bottom of the page, enter
