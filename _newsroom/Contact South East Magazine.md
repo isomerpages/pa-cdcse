@@ -7,7 +7,7 @@ variant: markdown
 Contact South East Magazine
 ===
 <a href="https://go.gov.sg/csesep-dec25">
-	<img src="/images/NewsRoom/CSE/contact_se_cover_sep_dec_2025.jpg" style="width:400px;"></a>
+	<img src="/images/NewsRoom/CSE/contact_se_cover_sep_dec_2025.png" style="width:400px;"></a>
 
 [Contact South East Issue September 2025 - December 2025](https://go.gov.sg/csesep-dec25)
 
