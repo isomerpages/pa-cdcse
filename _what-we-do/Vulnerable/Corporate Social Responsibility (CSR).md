@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Vulnerable
 ---
-<h1><strong><u>Corporate Social Responsibility (CSR)</u></strong></h1>
+<h1><strong><u>  Corporate Social Responsibility (CSR)</u></strong></h1>
 <h3><strong>Rice &amp; Oats Distribution</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -51,6 +51,7 @@ Ice Magic for 49 beneficiaries from St. Hilda’s Community Services and
 The Hut Limited. This tailored initiative not only provided an enjoyable
 experience but also nurtured meaningful connections and moments of joy
 for all involved.</p>
-<p>Interested to contribute to the community, you may contact Ms Sharon Lin
-at <a rel="noopener noreferrer nofollow" target="_blank">sharon_lin@pa.gov.sg</a>
+<p>Interested to contribute to the community, you may contact Ms Carissa
+at<a href="mailto:Carissa_BOO@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Carissa_BOO@pa.gov.sg</a> 
+<a rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
