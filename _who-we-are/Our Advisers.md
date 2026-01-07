@@ -218,7 +218,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Ms Chan Hui Yuh" src="/images/Who We Are/Advisers/Serangoon.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Chan Hui Yuh" src="/images/Who We Are/Advisers/Serangoon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,7 +231,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Adrian Ang" src="/images/Who We Are/Advisers/Bedok_Reservoir_Punggol.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Adrian Ang" src="/images/Who We Are/Advisers/Bedok_Reservoir_Punggol.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +244,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Faisal Abdul Aziz" src="/images/Who We Are/Advisers/Kaki_Bukit.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Faisal Abdul Aziz" src="/images/Who We Are/Advisers/Kaki_Bukit.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Jagathishwaran" src="/images/Who We Are/Advisers/Eunos.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Jagathishwaran" src="/images/Who We Are/Advisers/Eunos.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,7 +271,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Daniel Liu" src="/images/Who We Are/Advisers/Paya_Lebar.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Daniel Liu" src="/images/Who We Are/Advisers/Paya_Lebar.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,7 +292,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Marshall Lim" src="/images/Who We Are/Advisers/Hougang.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Marshall Lim" src="/images/Who We Are/Advisers/Hougang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
