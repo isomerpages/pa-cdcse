@@ -243,7 +243,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Adrian Ang</strong>
+<p><strong>Dr. Adrian Ang</strong>
 </p>
 <p>Adviser to Aljunied GRC GROs (Bedok Reservoir – Punggol)</p>
 </td>
@@ -256,7 +256,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Faisal Abdul Aziz</strong>
+<p><strong>Dr. Faisal Abdul Aziz</strong>
 </p>
 <p>Adviser to Aljunied GRC GROs (Kaki Bukit)</p>
 </td>
