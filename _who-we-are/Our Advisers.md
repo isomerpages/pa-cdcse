@@ -196,6 +196,118 @@ description: ""
 <p>Adviser to Mountbatten GROs</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Aljunied GRC</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Chan Hui Yuh" src="/images/Who We Are/Advisers/1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chan Hui Yuh</strong>
+</p>
+<p>Adviser to Aljunied GRC GROs (Serangoon)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Adrian Ang" src="/images/Who We Are/Advisers/6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Adrian Ang</strong>
+</p>
+<p>Adviser to Aljunied GRC GROs (Bedok Reservoir – Punggol)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Faisal Abdul Aziz" src="/images/Who We Are/Advisers/3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Faisal Abdul Aziz</strong>
+</p>
+<p>Adviser to Aljunied GRC GROs (Kaki Bukit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Jagathishwaran Rajo" src="/images/Who We Are/Advisers/5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jagathishwaran Rajo</strong>
+</p>
+<p>Adviser to Aljunied GRC GROs (Eunos)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Daniel Liu" src="/images/Who We Are/Advisers/2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Daniel Liu</strong>
+</p>
+<p>Adviser to Aljunied GRC GROs (Paya Lebar)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Hougang SMC</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Marshall Lim" src="/images/Who We Are/Advisers/4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Marshall Lim</strong>
+</p>
+<p>Adviser to Hougang SMC</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
