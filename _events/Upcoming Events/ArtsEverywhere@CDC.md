@@ -57,8 +57,12 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>23 Jan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong><em><u>Ding Yi Music Company</u></em></strong>- 10am - 12pm</p>
-<p><strong><em><u>O School</u></em></strong> - 2pm - 4pm</p>
+<p><strong><em><u>Ding Yi Music Company</u></em></strong>
+</p>
+<p>- 10am - 12pm</p>
+<p><strong><em><u>O School</u></em></strong> 
+</p>
+<p>- 2pm - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
