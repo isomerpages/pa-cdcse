@@ -54,11 +54,11 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Dec</p>
+<p>23 Jan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Flame of the Forest</strong>- 10.15am - 11.15am</p>
-<p><strong>Jazz Inc.</strong> - 2pm - 3.15pm</p>
+<p><strong><em><u>Ding Yi Music Company</u></em></strong>- 10am - 12pm</p>
+<p><strong><em><u>O School</u></em></strong> - 2pm - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
