@@ -28,7 +28,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </div>
 <p>Check out the highlights from the launch of our ArtEverywhere@CDC!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
 </div>
 <p></p>
 <h3>Here's our line up for 2025!</h3>
@@ -54,15 +54,11 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Jan</p>
+<p>14 Feb</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong><em><u>Ding Yi Music Company</u></em></strong>
-</p>
-<p>- 10am - 12pm</p>
-<p><strong><em><u>O School</u></em></strong> 
-</p>
-<p>- 2pm - 4pm</p>
+<p>1) Asian Cultural Symphony Orchestra ​
+<br>2) Flamenco Sin Fronteras</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
