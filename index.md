@@ -41,6 +41,6 @@ sections:
         information.
       button: Find out now
       url: https://www.gowhere.gov.sg/cdc
-      image: /images/SE Map (2).png
-      alt: SE MAP
+      image: /images/Landing Page Carousel/low_res_map.jpg
+      alt: SE District MAP
 ---
