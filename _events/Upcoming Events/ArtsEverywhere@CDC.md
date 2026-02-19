@@ -31,7 +31,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16K7kv68UWg?si=xPcBqbw7xpg_FODQ"></iframe>
 </div>
 <p></p>
-<h3>Here's our line up for 2025!</h3>
+<h3>Here's our line up for 2026!</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -54,11 +54,12 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Feb</p>
+<p>28 March, 10am to 615pm</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1) Asian Cultural Symphony Orchestra ​
-<br>2) Flamenco Sin Fronteras</p>
+<p>1) Singapore Chinese Dance Theatre</p>
+<p>2) Off Root Theatrics</p>
+<p>3) Rhythm Masala</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
