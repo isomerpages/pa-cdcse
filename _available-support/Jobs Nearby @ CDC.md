@@ -56,5 +56,3 @@ suit your skills, location, and lifestyle.</p>
 <p>Culinary Studio, Heartbeat@Bedok (level 1) beside Kampong Chai Chee Community
 Club</p>
 <p></p>
-<p>Monday to Friday, 10am to 6pm</p>
-<p>Kaki Bukit Community Club #01-07</p>
