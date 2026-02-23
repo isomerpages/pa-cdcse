@@ -60,6 +60,13 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>1) Singapore Chinese Dance Theatre</p>
 <p>2) Off Root Theatrics</p>
 <p>3) Rhythm Masala</p>
+<p><strong>Performing offstage:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Rolypoly Family</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat @ Bedok</p>
