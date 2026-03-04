@@ -56,3 +56,6 @@ suit your skills, location, and lifestyle.</p>
 <p>Culinary Studio, Heartbeat@Bedok (level 1) beside Kampong Chai Chee Community
 Club</p>
 <p></p>
+<p>Every Wednesday, 10am to 4pm</p>
+<p>Bedok Reservoir-Punggol Job Hub</p>
+<p>810 Hougang Central, #02-216, Singapore 530810</p>
