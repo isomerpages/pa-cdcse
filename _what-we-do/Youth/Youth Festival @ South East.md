@@ -37,7 +37,7 @@ that fitted their unique goals. It was fantastic to see so many people
 taking charge of their futures!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/Youth/DSC_8245.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What We Do/Youth/DSC_8245.jpg">
 </div>
 <p><strong>Lifestyle Zone:</strong> Participants prioritised their wellbeing
 through our comprehensive workshops on stress, burnout, and sleep management
@@ -55,7 +55,7 @@ people investing in healthier, more sustainable lifestyles whilst building
 connections with like-minded individuals!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hdb" src="/images/What We Do/Youth/DSC_8253.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="hdb" src="/images/What We Do/Youth/DSC_8253.jpg">
 </div>
 <p><strong>Finance Zone:</strong> Whether participants were just starting
 their careers or looking to make smarter money decisions, this dedicated
