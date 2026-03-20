@@ -6,7 +6,9 @@ description: Youth Festival @ South East
 image: /images/What We Do/Youth/Picture_1.png
 third_nav_title: Youth
 ---
-<h1></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Mayor Dinesh and Indranee" src="/images/What We Do/Youth/grp_shot.jpg">
+</div>
 <h1><strong>Youth Festival @ South East 2026</strong></h1>
 <p></p>
 <p><strong>We Had an Amazing Two Days at Singapore Expo Hall 4A!</strong>
