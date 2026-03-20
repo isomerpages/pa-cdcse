@@ -23,7 +23,7 @@ life at Singapore Expo Hall 4A.</p>
 make moves towards their dreams through three dynamic interactive zones.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fireside chat" src="/images/What We Do/Youth/panel.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="fireside chat" src="/images/What We Do/Youth/panel.jpg">
 </div>
 <p><strong>Career Zone:</strong> Whether participants were recent graduates,
 career changers, or simply looking to level up their professional game,
