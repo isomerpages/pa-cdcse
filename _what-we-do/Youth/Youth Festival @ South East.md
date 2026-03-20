@@ -21,6 +21,10 @@ life at Singapore Expo Hall 4A.</p>
 </p>
 <p>We helped attendees unlock their potential, boost their confidence, and
 make moves towards their dreams through three dynamic interactive zones.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fireside chat" src="/images/What We Do/Youth/panel.jpg">
+</div>
 <p><strong>Career Zone:</strong> Whether participants were recent graduates,
 career changers, or simply looking to level up their professional game,
 we had everything they needed under one roof. Attendees connected directly
