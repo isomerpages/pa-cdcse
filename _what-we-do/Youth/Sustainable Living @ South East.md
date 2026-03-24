@@ -6,7 +6,7 @@ third_nav_title: Youth
 variant: markdown
 ---
 # Sustainable Living @ South East
-==
+
 ## Background
 
 Sustainable Living @ South East aims to empower our community stakeholders with the knowledge of sustainable practices, inculcating a pro-environmental mindset and enabling behavioural change. The Sustainable Living @ South East Programme consists of two components, Capability Building Workshop and Sustainable Living Grant.
