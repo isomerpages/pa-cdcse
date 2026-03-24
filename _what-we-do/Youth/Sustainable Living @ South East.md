@@ -6,7 +6,7 @@ third_nav_title: Youth
 variant: markdown
 ---
 # Sustainable Living @ South East
-==
+
 ## Background
 
 Sustainable Living @ South East aims to empower our community stakeholders with the knowledge of sustainable practices, inculcating a pro-environmental mindset and enabling behavioural change. The Sustainable Living @ South East Programme consists of two components, Capability Building Workshop and Sustainable Living Grant.
@@ -30,4 +30,4 @@ In order to empower our community partners to take ownership of the environment 
 3.  Increasing Food Sustainability and
 4.  Preserving a Clean and Green Environment.
 
-For more information, contact Mr Muhd Izhar at [muhd_Izhar_abubakar@pa.gov.sg](muhd_Izhar_abubakar@pa.gov.sg)
+For more information, contact Mr Azhar at [](Azhar_AZMI@pa.gov.sg)
