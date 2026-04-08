@@ -30,4 +30,4 @@ In order to empower our community partners to take ownership of the environment 
 3.  Increasing Food Sustainability and
 4.  Preserving a Clean and Green Environment.
 
-For more information, contact Mr Azhar at [](Azhar_AZMI@pa.gov.sg)
+For more information, contact Mr Azhar at [Azhar_AZMI@pa.gov.sg](Azhar_AZMI@pa.gov.sg)
