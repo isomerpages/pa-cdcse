@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Vulnerable/Citi Global Community Day.md
       - Vulnerable/Adopt a Block @ South East.md
       - Vulnerable/.keep
       - Vulnerable/Corporate Social Responsibility (CSR).md
@@ -11,7 +12,6 @@ collections:
       - Seniors/.keep
       - Seniors/FairPrice Group Walk For Health @ South East.md
       - Seniors/Maybank Silver Buddies.md
-      - Seniors/Citi Global Community Day.md
       - Seniors/Community Outreach Programme for the Elderly (COPE).md
       - Seniors/Neighbours for Active Living.md
       - Seniors/Seniors' Learning Camp.md
