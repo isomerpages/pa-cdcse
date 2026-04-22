@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Vulnerable/Citi Global Community Day.md
       - Vulnerable/Adopt a Block @ South East.md
       - Vulnerable/.keep
       - Vulnerable/Corporate Social Responsibility (CSR).md
