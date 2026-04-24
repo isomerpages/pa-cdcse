@@ -49,13 +49,39 @@ suit your skills, location, and lifestyle.</p>
 <p></p>
 <p><strong>Visit our Community Job Clinics:</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Every Tuesday, 10am to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Braddell Heights Community Hub (outside NTUC Health)</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Wednesday, 10am to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bedok Reservoir-Punggol Job Hub</p>
+<p>810 Hougang Central, #02-216, Singapore 530810</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Every Thursday, 10am to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Culinary Studio, Heartbeat@Bedok (level 1) beside Kampong Chai Chee Community
 Club</p>
 <p></p>
-<p>Every Wednesday, 10am to 5pm</p>
-<p>Bedok Reservoir-Punggol Job Hub</p>
-<p>810 Hougang Central, #02-216, Singapore 530810</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
